@@ -1,0 +1,42 @@
+{
+  "id": "Dc3yZX-o-SO",
+  "kind": "recipe",
+  "title": "French Onion Pasta",
+  "language": "en",
+  "creator": "bytheforkful_",
+  "reelUrl": "https://www.instagram.com/reel/Dc3yZX-o-SO/",
+  "sourceUrl": "https://www.bytheforkful.com/french-onion-pasta/",
+  "servings": 4,
+  "tags": ["main", "pasta", "one-pot", "vegetarian"],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        { "ingredient": "onion", "amount": 1, "unit": "piece", "note": "large white onion (or 2–3 medium), thinly sliced" },
+        { "ingredient": "garlic", "amount": 2, "unit": "clove", "note": "minced" },
+        { "ingredient": "olive_oil", "amount": 4, "unit": "tbsp" },
+        { "ingredient": "butter", "amount": 3, "unit": "tbsp" },
+        { "ingredient": "salt", "unit": "to-taste" },
+        { "ingredient": "black_pepper", "unit": "to-taste" },
+        { "ingredient": "thyme", "amount": 3, "unit": "sprig" },
+        { "ingredient": "balsamic_vinegar", "amount": 1, "unit": "tbsp" },
+        { "ingredient": "white_wine", "amount": 80, "unit": "ml" },
+        { "ingredient": "wheat_flour", "amount": 1.5, "unit": "tbsp" },
+        { "ingredient": "vegetable_stock", "amount": 1, "unit": "l" },
+        { "ingredient": "dried_pasta", "amount": 225, "unit": "g" },
+        { "ingredient": "double_cream", "amount": 60, "unit": "ml" },
+        { "ingredient": "cheddar", "amount": 60, "unit": "g", "note": "grated, plus extra for the top" }
+      ]
+    }
+  ],
+  "steps": [
+    "Cook the sliced onion in the oil over low heat for 15–20 minutes until soft.",
+    "Add salt, pepper and the butter and keep cooking, stirring often, for about 20 minutes more until deep golden.",
+    "Add the balsamic vinegar, thyme and garlic and sauté for 2 minutes.",
+    "Stir in the flour, then deglaze with the white wine and cook for 5–8 minutes until it has evaporated.",
+    "Add the pasta and stock, cover and simmer for about 10 minutes until the pasta is cooked, stirring now and then and adding stock if needed.",
+    "Stir in the cream and cheese until melted.",
+    "Top with more cheese and grill until golden and bubbling (as in the video), or serve straight away with black pepper."
+  ],
+  "creatorNutrition": { "kcal": 574, "protein": 12, "carbs": 54, "fat": 34, "fiber": 3, "per": "serving" }
+}

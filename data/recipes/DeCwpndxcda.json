@@ -1,0 +1,32 @@
+{
+  "id": "DeCwpndxcda",
+  "kind": "recipe",
+  "title": "Pão de queijo de liquidificador",
+  "language": "pt",
+  "creator": "pablofigueiredoc",
+  "reelUrl": "https://www.instagram.com/reel/DeCwpndxcda/",
+  "servings": 12,
+  "servingsEstimated": true,
+  "yield": "about 12 muffin-tin rolls",
+  "tags": ["snack", "brazilian", "cheese", "baking", "gluten-free"],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        { "ingredient": "water", "amount": 200, "unit": "ml" },
+        { "ingredient": "egg", "amount": 3, "unit": "piece" },
+        { "ingredient": "vegetable_oil", "amount": 120, "unit": "ml", "note": "or melted butter" },
+        { "ingredient": "salt", "amount": 1, "unit": "pinch" },
+        { "ingredient": "polvilho_azedo", "amount": 3, "unit": "cup" },
+        { "ingredient": "mozzarella", "amount": 100, "unit": "g", "note": "grated" }
+      ]
+    }
+  ],
+  "steps": [
+    "Blend the water, oil, eggs and salt until smooth.",
+    "Add the polvilho and cheese and blend again until it forms a single batter.",
+    "Pour the runny batter into a greased muffin tin.",
+    "Bake in a preheated oven at 180 °C until puffed and golden. It looks like it won't work at first, then rises suddenly."
+  ],
+  "notes": "The creator suggests adding extra cheese on top and microwaving briefly to melt it."
+}

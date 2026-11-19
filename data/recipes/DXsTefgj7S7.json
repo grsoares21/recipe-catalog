@@ -1,0 +1,30 @@
+{
+  "id": "DXsTefgj7S7",
+  "kind": "recipe",
+  "title": "Cuscuz recheado",
+  "language": "pt",
+  "creator": "alessandracrivellaro",
+  "reelUrl": "https://www.instagram.com/reel/DXsTefgj7S7/",
+  "servings": 1,
+  "tags": ["breakfast", "snack", "brazilian", "microwave", "quick", "gluten-free"],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        { "ingredient": "flocao", "amount": 50, "unit": "g" },
+        { "ingredient": "salt", "amount": 1, "unit": "pinch" },
+        { "ingredient": "water", "amount": 120, "unit": "ml" },
+        { "ingredient": "requeijao", "amount": 15, "unit": "g", "note": "light" },
+        { "ingredient": "mozzarella", "amount": 1, "unit": "slice" },
+        { "ingredient": "butter", "amount": 3, "unit": "g", "note": "or margarine, to grease", "assumed": true }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix the flocão with the salt and water and leave it to hydrate for at least 45 minutes. The longer it rests, the fluffier it gets.",
+    "Grease a mug or small bowl. Add half the flocão, then the requeijão and the mozzarella, and cover with the rest. Don't press it down.",
+    "Microwave for 1:30, check, and continue up to 2–3 minutes in total depending on your microwave's power.",
+    "Turn it out onto a plate and serve."
+  ],
+  "notes": "The creator says this version has under 300 kcal."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "De2ro1bO-h9",
+  "kind": "tip",
+  "title": "Alho descascado no micro-ondas",
+  "language": "pt",
+  "creator": "sobrevictoria",
+  "reelUrl": "https://www.instagram.com/reel/De2ro1bO-h9/",
+  "servings": 1,
+  "tags": ["tip", "garlic", "microwave"],
+  "status": "complete",
+  "ingredientGroups": [
+    { "items": [{ "ingredient": "garlic", "amount": 1, "unit": "piece", "note": "whole head" }] }
+  ],
+  "steps": [
+    "Microwave a whole head of garlic for about 1 minute. Start with 30 seconds if your microwave is powerful.",
+    "Let it cool slightly, then squeeze the cloves: the skins slip off and the garlic stays firm, not mushy.",
+    "Use it straight away, e.g. for a garlic-paste carbonara."
+  ]
+}

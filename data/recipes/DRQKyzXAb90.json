@@ -1,0 +1,46 @@
+{
+  "id": "DRQKyzXAb90",
+  "kind": "recipe",
+  "title": "Bolinho de cenoura com cobertura de chocolate",
+  "language": "pt",
+  "creator": "lucaslacerdanutri",
+  "reelUrl": "https://www.instagram.com/reel/DRQKyzXAb90/",
+  "servings": 5,
+  "yield": "5 meal-prep portions of about 150 g",
+  "tags": ["dessert", "snack", "high-protein", "meal-prep", "baking"],
+  "status": "incomplete",
+  "statusNote": "The creator only sends the method by DM. The steps were reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "name": "Cake",
+      "items": [
+        { "ingredient": "carrot", "amount": 250, "unit": "g", "note": "chopped or grated" },
+        { "ingredient": "egg", "amount": 4, "unit": "piece" },
+        { "ingredient": "margarine", "amount": 20, "unit": "g" },
+        { "ingredient": "xylitol", "amount": 30, "unit": "g" },
+        { "ingredient": "skim_milk", "amount": 100, "unit": "ml" },
+        { "ingredient": "oat_flour", "amount": 120, "unit": "g" },
+        { "ingredient": "skim_milk_powder", "amount": 40, "unit": "g" },
+        { "ingredient": "baking_powder", "amount": 1, "unit": "tbsp" },
+        { "ingredient": "salt", "amount": 1, "unit": "pinch", "optional": true }
+      ]
+    },
+    {
+      "name": "Chocolate topping",
+      "items": [
+        { "ingredient": "semisweet_chocolate", "amount": 80, "unit": "g" },
+        { "ingredient": "skim_milk", "amount": 100, "unit": "ml" },
+        { "ingredient": "greek_yogurt_nonfat", "amount": 100, "unit": "g" }
+      ]
+    }
+  ],
+  "steps": [
+    "Grate the carrots and blend them with the eggs, margarine, xylitol and milk until smooth.",
+    "Add the oat flour, milk powder and salt and mix, then stir in the baking powder.",
+    "Pour into a baking dish and bake until a toothpick comes out clean.",
+    "Topping: melt the chocolate with the milk, then stir in the Greek yogurt.",
+    "Spread the topping over the cooled cake and finish with chocolate shavings.",
+    "Split into 5 containers. Keeps in the fridge for up to 4 days."
+  ],
+  "creatorNutrition": { "kcal": 354, "protein": 16, "carbs": 37, "fat": 14, "fiber": 0, "per": "portion (≈150 g)" }
+}

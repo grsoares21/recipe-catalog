@@ -1,0 +1,62 @@
+{
+  "id": "Dfm-tRDCl5m",
+  "kind": "recipe",
+  "title": "French Onion Scalloped Potatoes",
+  "language": "en",
+  "creator": "zachs.foods",
+  "reelUrl": "https://www.instagram.com/reel/Dfm-tRDCl5m/",
+  "servings": 10,
+  "servingsEstimated": true,
+  "tags": ["side", "potatoes", "baked", "holiday"],
+  "status": "incomplete",
+  "statusNote": "The full method is in the creator's bio link. The steps were reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "name": "Caramelised onions",
+      "items": [
+        { "ingredient": "onion", "amount": 3, "unit": "lb", "note": "yellow onions, sliced" },
+        { "ingredient": "olive_oil", "amount": 4, "unit": "tbsp" },
+        { "ingredient": "salt", "amount": 1.5, "unit": "tsp", "note": "divided" },
+        { "ingredient": "water", "amount": 2, "unit": "tbsp", "note": "plus more for deglazing" },
+        { "ingredient": "beef_broth", "amount": 1, "unit": "cup" },
+        { "ingredient": "garlic", "amount": 4, "unit": "clove", "note": "minced" },
+        { "ingredient": "worcestershire_sauce", "amount": 1, "unit": "tbsp" },
+        { "ingredient": "rosemary", "amount": 0.5, "unit": "tsp", "note": "finely chopped" },
+        { "ingredient": "thyme", "amount": 0.5, "unit": "tsp", "note": "finely chopped" }
+      ]
+    },
+    {
+      "name": "Pancetta",
+      "items": [
+        { "ingredient": "pancetta", "amount": 12, "unit": "oz" },
+        { "ingredient": "black_pepper", "amount": 0.5, "unit": "tsp" }
+      ]
+    },
+    {
+      "name": "White sauce",
+      "items": [
+        { "ingredient": "butter", "amount": 1, "unit": "stick" },
+        { "ingredient": "wheat_flour", "amount": 0.5, "unit": "cup" },
+        { "ingredient": "milk", "amount": 4, "unit": "cup" },
+        { "ingredient": "salt", "amount": 1, "unit": "tsp" },
+        { "ingredient": "black_pepper", "amount": 0.5, "unit": "tsp" },
+        { "ingredient": "rosemary", "amount": 0.5, "unit": "tsp" }
+      ]
+    },
+    {
+      "name": "Assembly",
+      "items": [
+        { "ingredient": "potato", "amount": 2, "unit": "lb", "note": "Yukon Gold, thinly sliced" },
+        { "ingredient": "gruyere", "amount": 8, "unit": "oz", "note": "grated" }
+      ]
+    }
+  ],
+  "steps": [
+    "Slice the onions and cook them slowly in the olive oil with half the salt, adding splashes of water when they stick, until deeply caramelised.",
+    "Add the beef broth, Worcestershire, garlic, rosemary and thyme and reduce for a couple of minutes into a thick onion mixture. Set aside.",
+    "Fry the pancetta in the same pot until crispy, season with pepper and set aside.",
+    "Make a white sauce on the fond: melt the butter, stir in the flour, then whisk in the milk gradually and season with salt, pepper and rosemary.",
+    "Thinly slice the potatoes and layer them in a baking dish with the onion mixture, white sauce, pancetta and Gruyère.",
+    "Cover with foil and bake for about 1 hour, removing the foil halfway through."
+  ]
+}

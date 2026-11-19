@@ -1,0 +1,26 @@
+{
+  "id": "DdXJvBypSc5",
+  "kind": "recipe",
+  "title": "Pão de queijo com 2 ingredientes",
+  "language": "pt",
+  "creator": "tatiellencoutinho",
+  "reelUrl": "https://www.instagram.com/reel/DdXJvBypSc5/",
+  "servings": 1,
+  "yield": "3 small rolls",
+  "tags": ["snack", "brazilian", "air-fryer", "quick", "gluten-free"],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        { "ingredient": "mozzarella", "amount": 3, "unit": "slice" },
+        { "ingredient": "tapioca_hydrated", "amount": 3, "unit": "tbsp" }
+      ]
+    }
+  ],
+  "steps": [
+    "Lay the mozzarella slices on a plate and cover with the tapioca.",
+    "Squeeze and knead with your hands until it comes together into a dough.",
+    "Roll into small balls.",
+    "Air-fry at 180 °C for 10 minutes."
+  ]
+}

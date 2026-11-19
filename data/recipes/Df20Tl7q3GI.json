@@ -1,0 +1,49 @@
+{
+  "id": "Df20Tl7q3GI",
+  "kind": "recipe",
+  "title": "Brownie Red Velvet",
+  "language": "pt",
+  "creator": "andressaschuchh",
+  "reelUrl": "https://www.instagram.com/reel/Df20Tl7q3GI/",
+  "servings": 6,
+  "servingsEstimated": true,
+  "yield": "10 × 23 cm pan",
+  "tags": ["dessert", "baking", "cheesecake", "chocolate"],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Cream cheese layer",
+      "items": [
+        { "ingredient": "cream_cheese", "amount": 250, "unit": "g" },
+        { "ingredient": "sugar", "amount": 50, "unit": "g" },
+        { "ingredient": "egg", "amount": 1, "unit": "piece" }
+      ]
+    },
+    {
+      "name": "Brownie",
+      "items": [
+        { "ingredient": "unsalted_butter", "amount": 100, "unit": "g" },
+        { "ingredient": "dark_chocolate", "amount": 70, "unit": "g", "note": "50% cocoa" },
+        { "ingredient": "egg", "amount": 1, "unit": "piece" },
+        { "ingredient": "sugar", "amount": 80, "unit": "g" },
+        { "ingredient": "wheat_flour", "amount": 100, "unit": "g" },
+        { "ingredient": "cocoa_powder", "amount": 5, "unit": "g" },
+        { "ingredient": "red_food_coloring", "unit": "to-taste", "note": "add a little at a time until you like the colour" },
+        { "ingredient": "salt", "amount": 1, "unit": "pinch" },
+        { "ingredient": "white_chocolate", "amount": 23, "unit": "g", "note": "chopped" }
+      ]
+    }
+  ],
+  "steps": [
+    "Cream cheese layer: mix the cream cheese, sugar and egg just until combined. Set aside.",
+    "Melt the dark chocolate with the butter.",
+    "In another bowl, beat the egg with the sugar until pale and airy.",
+    "Combine the chocolate mixture with the egg mixture.",
+    "Add the flour, cocoa, salt and red food colouring and fold in gently.",
+    "Fold in the white chocolate pieces.",
+    "Pour into a parchment-lined pan, keeping a little batter aside for the top.",
+    "Spread the cream cheese layer over the brownie, then dot the reserved batter on top and swirl to decorate.",
+    "Bake in a preheated oven at 180 °C for about 35 minutes, until the top is set but not dark.",
+    "Cool at room temperature, then chill in the fridge before serving."
+  ]
+}

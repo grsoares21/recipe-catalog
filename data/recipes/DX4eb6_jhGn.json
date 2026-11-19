@@ -1,0 +1,39 @@
+{
+  "id": "DX4eb6_jhGn",
+  "kind": "recipe",
+  "title": "Torta salata svuotafrigo",
+  "language": "it",
+  "creator": "giallozafferano",
+  "reelUrl": "https://www.instagram.com/reel/DX4eb6_jhGn/",
+  "servings": 6,
+  "yield": "30 × 26 cm tray",
+  "tags": ["main", "vegetarian", "baked", "potatoes"],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        { "ingredient": "potato", "amount": 250, "unit": "g", "note": "peeled and finely grated raw" },
+        { "ingredient": "carrot", "amount": 100, "unit": "g", "note": "finely grated raw" },
+        { "ingredient": "red_onion", "amount": 100, "unit": "g", "note": "1 large, thinly sliced" },
+        { "ingredient": "egg", "amount": 2, "unit": "piece", "note": "large" },
+        { "ingredient": "wheat_flour", "amount": 160, "unit": "g", "note": "type 00" },
+        { "ingredient": "baking_powder", "amount": 8, "unit": "g", "note": "half a sachet of instant yeast for savoury bakes" },
+        { "ingredient": "milk", "amount": 30, "unit": "ml", "note": "or plant milk" },
+        { "ingredient": "parmesan", "amount": 30, "unit": "g" },
+        { "ingredient": "provola", "amount": 200, "unit": "g", "note": "diced; or mixed cheeses like emmental or stracchino" },
+        { "ingredient": "salt", "unit": "to-taste" },
+        { "ingredient": "black_pepper", "unit": "to-taste" }
+      ]
+    }
+  ],
+  "steps": [
+    "Peel and finely grate the potatoes and carrots into a bowl.",
+    "Add the flour, baking powder, milk, eggs, salt and pepper and mix into a smooth batter.",
+    "Stir in the diced provola.",
+    "Spread into a parchment-lined 30 × 26 cm tray.",
+    "Slice the red onion very thinly (a mandoline helps) and lay it over the top.",
+    "Sprinkle with the grated Parmesan.",
+    "Bake at 180 °C for 35–40 minutes, until golden.",
+    "Rest for 10 minutes before serving."
+  ]
+}

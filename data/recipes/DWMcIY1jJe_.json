@@ -1,0 +1,35 @@
+{
+  "id": "DWMcIY1jJe_",
+  "kind": "recipe",
+  "title": "Raviolis de poireaux",
+  "language": "fr",
+  "creator": "testedbycolette",
+  "reelUrl": "https://www.instagram.com/reel/DWMcIY1jJe_/",
+  "servings": 4,
+  "tags": ["main", "vegetarian", "low-carb"],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        { "ingredient": "leek", "amount": 3, "unit": "piece", "note": "large" },
+        { "ingredient": "onion", "amount": 1, "unit": "piece" },
+        { "ingredient": "mushroom", "amount": 400, "unit": "g" },
+        { "ingredient": "parsley", "amount": 10, "unit": "g", "assumed": true },
+        { "ingredient": "soy_cooking_cream", "amount": 200, "unit": "ml", "assumed": true },
+        { "ingredient": "emmental", "amount": 60, "unit": "g", "note": "grated", "assumed": true },
+        { "ingredient": "salt", "unit": "to-taste" },
+        { "ingredient": "black_pepper", "unit": "to-taste" }
+      ]
+    }
+  ],
+  "steps": [
+    "Fry the chopped onion with the sliced mushrooms.",
+    "Add the soy cream, parsley, salt and pepper. Set the filling aside.",
+    "Trim the root and the dark top of the leeks and blanch them briefly in boiling water.",
+    "Cut them lengthwise and separate the large layers.",
+    "Lay two leek strips in a cross and put some filling in the centre.",
+    "Fold the strips over the filling to close it like a ravioli.",
+    "Brown the parcels in a pan with a little Emmental on top.",
+    "Cover for a few minutes to melt the cheese."
+  ]
+}
