@@ -1,0 +1,9 @@
+{
+  "telegramToken": "123456789:ABC... from @BotFather",
+  "allowedUserIds": [],
+  "siteUrl": "https://grsoares21.github.io/recipe-catalog/",
+  "whisperModel": "~/.local/share/recipe-bot/models/ggml-base.bin",
+  "workDir": "~/.local/share/recipe-bot/work",
+  "gitName": "Your Name",
+  "gitEmail": "12345+you@users.noreply.github.com"
+}

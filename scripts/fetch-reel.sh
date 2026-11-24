@@ -1,18 +1,20 @@
 #!/bin/bash
 # Fetches a public reel while logged out and prepares material for recipe extraction:
-# thumbnail, audio transcript and a strip of frames. The video itself is deleted afterwards.
+# thumbnail, metadata (<id>.info.json, includes the caption), audio transcript and a strip
+# of frames. The video itself is deleted afterwards.
 # Usage: scripts/fetch-reel.sh <reel-url> <work-dir>
 # Needs: yt-dlp, ffmpeg, whisper-cli (brew install yt-dlp ffmpeg whisper-cpp)
 #        WHISPER_MODEL pointing to a ggml model, e.g. ggml-base.bin
 set -euo pipefail
 url=$1; work=$2
-id=$(echo "$url" | sed -E 's#.*/(reel|p)/([^/?]+).*#\2#')
+id=$(echo "$url" | sed -E 's#.*/(reels?|p)/([^/?]+).*#\2#')
 mkdir -p "$work"
 cd "$work"
 
 # --ignore-config/--no-cookies*: never use a logged-in session
 yt-dlp --ignore-config --no-cookies --no-cookies-from-browser --quiet --no-warnings \
-  --write-thumbnail --convert-thumbnails jpg -o "$id.%(ext)s" "$url" || echo "download failed: $id" >&2
+  --write-thumbnail --convert-thumbnails jpg --write-info-json -o "$id.%(ext)s" "$url" < /dev/null \
+  || echo "download failed: $id" >&2
 
 video=$(ls "$id".mp4 2>/dev/null || true)
 if [ -n "$video" ]; then
