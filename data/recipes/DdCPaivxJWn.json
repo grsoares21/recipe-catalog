@@ -1,0 +1,58 @@
+{
+  "id": "DdCPaivxJWn",
+  "kind": "recipe",
+  "title": "Hachis Parmentier",
+  "language": "en",
+  "creator": "bohemienwales",
+  "reelUrl": "https://www.instagram.com/reel/DdCPaivxJWn/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "tags": ["main", "beef", "potatoes", "baked", "french", "comfort-food"],
+  "status": "incomplete",
+  "statusNote": "The creator gives no amounts; all quantities are estimates. The steps were reconstructed from the voice-over and the video. The transcript's misheard words were read as beef, leek and Comté.",
+  "ingredientGroups": [
+    {
+      "name": "Braised beef",
+      "items": [
+        { "ingredient": "beef_chuck", "amount": 800, "unit": "g", "note": "diced (or another braising cut)", "assumed": true },
+        { "ingredient": "vegetable_oil", "amount": 2, "unit": "tbsp", "assumed": true },
+        { "ingredient": "leek", "amount": 1, "unit": "piece", "note": "diced", "assumed": true },
+        { "ingredient": "onion", "amount": 1, "unit": "piece", "note": "diced", "assumed": true },
+        { "ingredient": "carrot", "amount": 2, "unit": "piece", "note": "diced", "assumed": true },
+        { "ingredient": "stock", "amount": 500, "unit": "ml", "note": "veal stock", "assumed": true },
+        { "ingredient": "bay_leaf", "amount": 2, "unit": "piece", "assumed": true },
+        { "ingredient": "salt", "unit": "to-taste" },
+        { "ingredient": "black_pepper", "unit": "to-taste" }
+      ]
+    },
+    {
+      "name": "Duchess potatoes",
+      "items": [
+        { "ingredient": "potato", "amount": 1, "unit": "kg", "note": "floury, peeled", "assumed": true },
+        { "ingredient": "butter", "amount": 80, "unit": "g", "assumed": true },
+        { "ingredient": "egg_yolk", "amount": 3, "unit": "piece", "assumed": true },
+        { "ingredient": "salt", "unit": "to-taste" },
+        { "ingredient": "nutmeg", "unit": "to-taste", "optional": true }
+      ]
+    },
+    {
+      "name": "Topping",
+      "items": [
+        { "ingredient": "comte", "amount": 60, "unit": "g", "note": "finely grated", "assumed": true }
+      ]
+    }
+  ],
+  "steps": [
+    "Season the diced beef and brown it in batches in a hot casserole with the oil, then set it aside.",
+    "In the same pot, gently soften the diced leek, onion and carrot without colouring them.",
+    "Return the beef, pour in the veal stock and add the bay leaves.",
+    "Cover and braise over a low heat (or in a low oven) for about 3 hours, until the beef falls apart with a spoon.",
+    "Let the filling cool to room temperature, remove the bay leaves and spoon it into an ovenproof dish.",
+    "Boil the potatoes until tender, drain well and pass them through a ricer.",
+    "Season the potatoes, then beat in the butter and egg yolks until smooth.",
+    "Pipe the potato generously over the beef and cover with plenty of finely grated Comté.",
+    "Chill the dish until completely firm.",
+    "Bake in a hot oven (about 200 °C) until deeply golden and crisp, and the filling is piping hot."
+  ],
+  "notes": "Chilling before baking helps the piped potato hold its shape and crisp up. Oven temperature is an estimate."
+}
