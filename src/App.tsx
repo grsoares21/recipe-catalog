@@ -27,7 +27,8 @@ export default function App() {
   }, [route[0], route[1]]);
 
   useEffect(() => {
-    fetch('./catalog.json')
+    // no-cache: always revalidate, so new app code never runs against an older cached catalog.
+    fetch('./catalog.json', { cache: 'no-cache' })
       .then((r) => r.json())
       .then(setCatalog)
       .catch(() => setError(true));

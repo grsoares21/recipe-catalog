@@ -13,8 +13,9 @@ const byName = (a: Recipe, b: Recipe) => a.title.localeCompare(b.title, undefine
 
 // To add a criterion: add an entry here; the select picks them up.
 const SORTS = {
-  newest: { label: 'Newest first', compare: (a: Recipe, b: Recipe) => b.addedAt.localeCompare(a.addedAt) || byName(a, b) },
-  oldest: { label: 'Oldest first', compare: (a: Recipe, b: Recipe) => a.addedAt.localeCompare(b.addedAt) || byName(a, b) },
+  // `?? ''`: a stale cached catalog.json may predate addedAt.
+  newest: { label: 'Newest first', compare: (a: Recipe, b: Recipe) => (b.addedAt ?? '').localeCompare(a.addedAt ?? '') || byName(a, b) },
+  oldest: { label: 'Oldest first', compare: (a: Recipe, b: Recipe) => (a.addedAt ?? '').localeCompare(b.addedAt ?? '') || byName(a, b) },
   name: { label: 'Name (A–Z)', compare: byName },
 } satisfies Record<string, { label: string; compare: (a: Recipe, b: Recipe) => number }>;
 type SortKey = keyof typeof SORTS;
