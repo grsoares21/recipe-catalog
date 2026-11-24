@@ -68,6 +68,7 @@ const recipes: Recipe[] = [];
 for (const file of fs.readdirSync('data/recipes').filter((f) => f.endsWith('.json')).sort()) {
   const r = read<RecipeSource>(path.join('data/recipes', file));
   if (r.id !== path.basename(file, '.json')) errors.push(`${file}: id ${r.id} doesn't match file name`);
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(r.addedAt ?? '')) errors.push(`${file}: addedAt must be a YYYY-MM-DD date`);
   for (const line of r.ingredientGroups.flatMap((g) => g.items)) {
     if (!ingredients[line.ingredient]) errors.push(`${file}: unknown ingredient ${line.ingredient}`);
     else if (line.unit !== 'to-taste' && line.amount !== undefined && grams(line, ingredients[line.ingredient]) === undefined)

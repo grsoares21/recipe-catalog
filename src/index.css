@@ -43,6 +43,9 @@ h3 { font-size: 0.95rem; margin: 16px 0 4px; color: var(--muted); text-transform
 .meta { color: var(--muted); font-size: 0.875rem; margin: 4px 0; }
 .empty { color: var(--muted); text-align: center; padding: 48px 16px; }
 .count { color: var(--muted); font-size: 0.8rem; margin: 8px 0; }
+.list-bar { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
+.sort { display: flex; align-items: center; gap: 6px; color: var(--muted); font-size: 0.8rem; }
+.sort select { font: inherit; font-size: 0.85rem; color: var(--text); background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 4px 10px; }
 .warn { color: var(--warn); }
 
 .top { position: sticky; top: env(safe-area-inset-top); z-index: 2; background: var(--bg); padding-bottom: 8px; }

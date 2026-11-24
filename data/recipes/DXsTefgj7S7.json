@@ -5,18 +5,53 @@
   "language": "pt",
   "creator": "alessandracrivellaro",
   "reelUrl": "https://www.instagram.com/reel/DXsTefgj7S7/",
+  "addedAt": "2026-06-29",
   "servings": 1,
-  "tags": ["breakfast", "snack", "brazilian", "microwave", "quick", "gluten-free"],
+  "tags": [
+    "breakfast",
+    "snack",
+    "brazilian",
+    "microwave",
+    "quick",
+    "gluten-free"
+  ],
   "status": "complete",
   "ingredientGroups": [
     {
       "items": [
-        { "ingredient": "flocao", "amount": 50, "unit": "g" },
-        { "ingredient": "salt", "amount": 1, "unit": "pinch" },
-        { "ingredient": "water", "amount": 120, "unit": "ml" },
-        { "ingredient": "requeijao", "amount": 15, "unit": "g", "note": "light" },
-        { "ingredient": "mozzarella", "amount": 1, "unit": "slice" },
-        { "ingredient": "butter", "amount": 3, "unit": "g", "note": "or margarine, to grease", "assumed": true }
+        {
+          "ingredient": "flocao",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch"
+        },
+        {
+          "ingredient": "water",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "ingredient": "requeijao",
+          "amount": 15,
+          "unit": "g",
+          "note": "light"
+        },
+        {
+          "ingredient": "mozzarella",
+          "amount": 1,
+          "unit": "slice"
+        },
+        {
+          "ingredient": "butter",
+          "amount": 3,
+          "unit": "g",
+          "note": "or margarine, to grease",
+          "assumed": true
+        }
       ]
     }
   ],

@@ -117,7 +117,7 @@ async function processNew(id) {
   if (fs.existsSync(path.join(dir, `${id}.jpg`))) {
     await exec('bash', [path.join(wt, 'scripts/add-photo.sh'), path.join(dir, `${id}.jpg`), id], { cwd: wt });
   }
-  const prompt = `${fs.readFileSync(path.join(BOT_DIR, 'prompt.md'), 'utf8')}\n\n## This reel\n\n- id: ${id}\n- media directory: ${dir}\n`;
+  const prompt = `${fs.readFileSync(path.join(BOT_DIR, 'prompt.md'), 'utf8')}\n\n## This reel\n\n- id: ${id}\n- media directory: ${dir}\n- addedAt: ${job.addedAt}\n`;
   const answer = await claude(prompt, wt, [dir]);
   return finish(id, answer);
 }
@@ -143,6 +143,16 @@ async function finish(id, answer) {
     job.status = 'discarded';
     return say(job.chatId, `🙅 Skipped ${esc(job.url)}\n${esc(notRecipe?.[1]?.trim() || answer.slice(-500) || 'No recipe was written.')}`);
   }
+  // The date it was shared with the bot, whatever Claude wrote (kept right after reelUrl, like the other recipes).
+  const file = path.join(wt, 'data/recipes', `${id}.json`);
+  const written = JSON.parse(fs.readFileSync(file, 'utf8'));
+  const dated = {};
+  for (const [k, v] of Object.entries(written)) {
+    if (k === 'addedAt') continue;
+    dated[k] = v;
+    if (k === 'reelUrl') dated.addedAt = job.addedAt;
+  }
+  fs.writeFileSync(file, `${JSON.stringify(dated, null, 2)}\n`);
   await exec('npm', ['run', '--silent', 'catalog'], { cwd: wt }); // throws with the validation errors if it still fails
   const catalog = JSON.parse(fs.readFileSync(path.join(wt, 'public/catalog.json'), 'utf8'));
   const recipe = catalog.recipes.find((r) => r.id === id);
@@ -280,7 +290,9 @@ async function onMessage(m) {
     } else if (['queued', 'working', 'preview'].includes(state.jobs[id]?.status)) {
       await say(m.chat.id, 'Already working on that one.');
     } else {
-      state.jobs[id] = { status: 'queued', url: `https://www.instagram.com/reel/${id}/`, chatId: m.chat.id };
+      // Local date of the Telegram message (date only: it ends up in the public repo).
+      const addedAt = new Date(m.date * 1000).toLocaleDateString('en-CA');
+      state.jobs[id] = { status: 'queued', url: `https://www.instagram.com/reel/${id}/`, chatId: m.chat.id, addedAt };
       enqueue(id, 'new');
       await say(m.chat.id, `⏳ Got it, writing it up. It takes a few minutes.`, { reply_to_message_id: m.message_id });
     }

@@ -5,20 +5,53 @@
   "language": "pt",
   "creator": "pablofigueiredoc",
   "reelUrl": "https://www.instagram.com/reel/DeCwpndxcda/",
+  "addedAt": "2026-10-24",
   "servings": 12,
   "servingsEstimated": true,
   "yield": "about 12 muffin-tin rolls",
-  "tags": ["snack", "brazilian", "cheese", "baking", "gluten-free"],
+  "tags": [
+    "snack",
+    "brazilian",
+    "cheese",
+    "baking",
+    "gluten-free"
+  ],
   "status": "complete",
   "ingredientGroups": [
     {
       "items": [
-        { "ingredient": "water", "amount": 200, "unit": "ml" },
-        { "ingredient": "egg", "amount": 3, "unit": "piece" },
-        { "ingredient": "vegetable_oil", "amount": 120, "unit": "ml", "note": "or melted butter" },
-        { "ingredient": "salt", "amount": 1, "unit": "pinch" },
-        { "ingredient": "polvilho_azedo", "amount": 3, "unit": "cup" },
-        { "ingredient": "mozzarella", "amount": 100, "unit": "g", "note": "grated" }
+        {
+          "ingredient": "water",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 3,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "vegetable_oil",
+          "amount": 120,
+          "unit": "ml",
+          "note": "or melted butter"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch"
+        },
+        {
+          "ingredient": "polvilho_azedo",
+          "amount": 3,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "mozzarella",
+          "amount": 100,
+          "unit": "g",
+          "note": "grated"
+        }
       ]
     }
   ],

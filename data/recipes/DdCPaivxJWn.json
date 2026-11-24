@@ -5,40 +5,123 @@
   "language": "en",
   "creator": "bohemienwales",
   "reelUrl": "https://www.instagram.com/reel/DdCPaivxJWn/",
+  "addedAt": "2026-11-24",
   "servings": 4,
   "servingsEstimated": true,
-  "tags": ["main", "beef", "potatoes", "baked", "french", "comfort-food"],
+  "tags": [
+    "main",
+    "beef",
+    "potatoes",
+    "baked",
+    "french",
+    "comfort-food"
+  ],
   "status": "incomplete",
   "statusNote": "The creator gives no amounts; all quantities are estimates. The steps were reconstructed from the voice-over and the video. The transcript's misheard words were read as beef, leek and Comté.",
   "ingredientGroups": [
     {
       "name": "Braised beef",
       "items": [
-        { "ingredient": "beef_chuck", "amount": 800, "unit": "g", "note": "diced (or another braising cut)", "assumed": true },
-        { "ingredient": "vegetable_oil", "amount": 2, "unit": "tbsp", "assumed": true },
-        { "ingredient": "leek", "amount": 1, "unit": "piece", "note": "diced", "assumed": true },
-        { "ingredient": "onion", "amount": 1, "unit": "piece", "note": "diced", "assumed": true },
-        { "ingredient": "carrot", "amount": 2, "unit": "piece", "note": "diced", "assumed": true },
-        { "ingredient": "stock", "amount": 500, "unit": "ml", "note": "veal stock", "assumed": true },
-        { "ingredient": "bay_leaf", "amount": 2, "unit": "piece", "assumed": true },
-        { "ingredient": "salt", "unit": "to-taste" },
-        { "ingredient": "black_pepper", "unit": "to-taste" }
+        {
+          "ingredient": "beef_chuck",
+          "amount": 800,
+          "unit": "g",
+          "note": "diced (or another braising cut)",
+          "assumed": true
+        },
+        {
+          "ingredient": "vegetable_oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "leek",
+          "amount": 1,
+          "unit": "piece",
+          "note": "diced",
+          "assumed": true
+        },
+        {
+          "ingredient": "onion",
+          "amount": 1,
+          "unit": "piece",
+          "note": "diced",
+          "assumed": true
+        },
+        {
+          "ingredient": "carrot",
+          "amount": 2,
+          "unit": "piece",
+          "note": "diced",
+          "assumed": true
+        },
+        {
+          "ingredient": "stock",
+          "amount": 500,
+          "unit": "ml",
+          "note": "veal stock",
+          "assumed": true
+        },
+        {
+          "ingredient": "bay_leaf",
+          "amount": 2,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        }
       ]
     },
     {
       "name": "Duchess potatoes",
       "items": [
-        { "ingredient": "potato", "amount": 1, "unit": "kg", "note": "floury, peeled", "assumed": true },
-        { "ingredient": "butter", "amount": 80, "unit": "g", "assumed": true },
-        { "ingredient": "egg_yolk", "amount": 3, "unit": "piece", "assumed": true },
-        { "ingredient": "salt", "unit": "to-taste" },
-        { "ingredient": "nutmeg", "unit": "to-taste", "optional": true }
+        {
+          "ingredient": "potato",
+          "amount": 1,
+          "unit": "kg",
+          "note": "floury, peeled",
+          "assumed": true
+        },
+        {
+          "ingredient": "butter",
+          "amount": 80,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "egg_yolk",
+          "amount": 3,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "nutmeg",
+          "unit": "to-taste",
+          "optional": true
+        }
       ]
     },
     {
       "name": "Topping",
       "items": [
-        { "ingredient": "comte", "amount": 60, "unit": "g", "note": "finely grated", "assumed": true }
+        {
+          "ingredient": "comte",
+          "amount": 60,
+          "unit": "g",
+          "note": "finely grated",
+          "assumed": true
+        }
       ]
     }
   ],

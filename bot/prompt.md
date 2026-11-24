@@ -18,7 +18,7 @@ If the caption links to the creator's own recipe page, you can't open it; work f
 ## What to write
 
 1. Read `src/types.ts` (the `RecipeSource` and `Ingredient` types), `data/ingredients.json`, and two or three files in `data/recipes/` as examples of the style.
-2. Write `data/recipes/<id>.json`. The id is the reel's shortcode.
+2. Write `data/recipes/<id>.json`. The id is the reel's shortcode; set `addedAt` to the date given below.
 3. Add any missing ingredients to `data/ingredients.json`.
 4. Run `npm run catalog` and fix any error it reports until it passes.
 

@@ -58,6 +58,8 @@ export interface RecipeSource {
   language: string;
   creator: string;
   reelUrl: string;
+  /** YYYY-MM-DD the reel was first shared (in the DMs, or to the recipe bot). Date only: the repo is public. */
+  addedAt: string;
   /** Creator's own written recipe, when the reel points to one. */
   sourceUrl?: string;
   servings: number;

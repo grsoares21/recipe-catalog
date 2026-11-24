@@ -5,32 +5,88 @@
   "language": "pt",
   "creator": "andressaschuchh",
   "reelUrl": "https://www.instagram.com/reel/Df20Tl7q3GI/",
+  "addedAt": "2026-11-17",
   "servings": 6,
   "servingsEstimated": true,
   "yield": "10 × 23 cm pan",
-  "tags": ["dessert", "baking", "cheesecake", "chocolate"],
+  "tags": [
+    "dessert",
+    "baking",
+    "cheesecake",
+    "chocolate"
+  ],
   "status": "complete",
   "ingredientGroups": [
     {
       "name": "Cream cheese layer",
       "items": [
-        { "ingredient": "cream_cheese", "amount": 250, "unit": "g" },
-        { "ingredient": "sugar", "amount": 50, "unit": "g" },
-        { "ingredient": "egg", "amount": 1, "unit": "piece" }
+        {
+          "ingredient": "cream_cheese",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 1,
+          "unit": "piece"
+        }
       ]
     },
     {
       "name": "Brownie",
       "items": [
-        { "ingredient": "unsalted_butter", "amount": 100, "unit": "g" },
-        { "ingredient": "dark_chocolate", "amount": 70, "unit": "g", "note": "50% cocoa" },
-        { "ingredient": "egg", "amount": 1, "unit": "piece" },
-        { "ingredient": "sugar", "amount": 80, "unit": "g" },
-        { "ingredient": "wheat_flour", "amount": 100, "unit": "g" },
-        { "ingredient": "cocoa_powder", "amount": 5, "unit": "g" },
-        { "ingredient": "red_food_coloring", "unit": "to-taste", "note": "add a little at a time until you like the colour" },
-        { "ingredient": "salt", "amount": 1, "unit": "pinch" },
-        { "ingredient": "white_chocolate", "amount": 23, "unit": "g", "note": "chopped" }
+        {
+          "ingredient": "unsalted_butter",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "ingredient": "dark_chocolate",
+          "amount": 70,
+          "unit": "g",
+          "note": "50% cocoa"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "ingredient": "cocoa_powder",
+          "amount": 5,
+          "unit": "g"
+        },
+        {
+          "ingredient": "red_food_coloring",
+          "unit": "to-taste",
+          "note": "add a little at a time until you like the colour"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch"
+        },
+        {
+          "ingredient": "white_chocolate",
+          "amount": 23,
+          "unit": "g",
+          "note": "chopped"
+        }
       ]
     }
   ],

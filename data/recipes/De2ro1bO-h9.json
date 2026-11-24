@@ -5,11 +5,25 @@
   "language": "pt",
   "creator": "sobrevictoria",
   "reelUrl": "https://www.instagram.com/reel/De2ro1bO-h9/",
+  "addedAt": "2026-10-27",
   "servings": 1,
-  "tags": ["tip", "garlic", "microwave"],
+  "tags": [
+    "tip",
+    "garlic",
+    "microwave"
+  ],
   "status": "complete",
   "ingredientGroups": [
-    { "items": [{ "ingredient": "garlic", "amount": 1, "unit": "piece", "note": "whole head" }] }
+    {
+      "items": [
+        {
+          "ingredient": "garlic",
+          "amount": 1,
+          "unit": "piece",
+          "note": "whole head"
+        }
+      ]
+    }
   ],
   "steps": [
     "Microwave a whole head of garlic for about 1 minute. Start with 30 seconds if your microwave is powerful.",

@@ -5,20 +5,60 @@
   "language": "fr",
   "creator": "testedbycolette",
   "reelUrl": "https://www.instagram.com/reel/DWMcIY1jJe_/",
+  "addedAt": "2026-04-01",
   "servings": 4,
-  "tags": ["main", "vegetarian", "low-carb"],
+  "tags": [
+    "main",
+    "vegetarian",
+    "low-carb"
+  ],
   "status": "complete",
   "ingredientGroups": [
     {
       "items": [
-        { "ingredient": "leek", "amount": 3, "unit": "piece", "note": "large" },
-        { "ingredient": "onion", "amount": 1, "unit": "piece" },
-        { "ingredient": "mushroom", "amount": 400, "unit": "g" },
-        { "ingredient": "parsley", "amount": 10, "unit": "g", "assumed": true },
-        { "ingredient": "soy_cooking_cream", "amount": 200, "unit": "ml", "assumed": true },
-        { "ingredient": "emmental", "amount": 60, "unit": "g", "note": "grated", "assumed": true },
-        { "ingredient": "salt", "unit": "to-taste" },
-        { "ingredient": "black_pepper", "unit": "to-taste" }
+        {
+          "ingredient": "leek",
+          "amount": 3,
+          "unit": "piece",
+          "note": "large"
+        },
+        {
+          "ingredient": "onion",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "mushroom",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "ingredient": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "soy_cooking_cream",
+          "amount": 200,
+          "unit": "ml",
+          "assumed": true
+        },
+        {
+          "ingredient": "emmental",
+          "amount": 60,
+          "unit": "g",
+          "note": "grated",
+          "assumed": true
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        }
       ]
     }
   ],

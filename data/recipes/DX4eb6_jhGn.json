@@ -5,24 +5,80 @@
   "language": "it",
   "creator": "giallozafferano",
   "reelUrl": "https://www.instagram.com/reel/DX4eb6_jhGn/",
+  "addedAt": "2026-05-03",
   "servings": 6,
   "yield": "30 × 26 cm tray",
-  "tags": ["main", "vegetarian", "baked", "potatoes"],
+  "tags": [
+    "main",
+    "vegetarian",
+    "baked",
+    "potatoes"
+  ],
   "status": "complete",
   "ingredientGroups": [
     {
       "items": [
-        { "ingredient": "potato", "amount": 250, "unit": "g", "note": "peeled and finely grated raw" },
-        { "ingredient": "carrot", "amount": 100, "unit": "g", "note": "finely grated raw" },
-        { "ingredient": "red_onion", "amount": 100, "unit": "g", "note": "1 large, thinly sliced" },
-        { "ingredient": "egg", "amount": 2, "unit": "piece", "note": "large" },
-        { "ingredient": "wheat_flour", "amount": 160, "unit": "g", "note": "type 00" },
-        { "ingredient": "baking_powder", "amount": 8, "unit": "g", "note": "half a sachet of instant yeast for savoury bakes" },
-        { "ingredient": "milk", "amount": 30, "unit": "ml", "note": "or plant milk" },
-        { "ingredient": "parmesan", "amount": 30, "unit": "g" },
-        { "ingredient": "provola", "amount": 200, "unit": "g", "note": "diced; or mixed cheeses like emmental or stracchino" },
-        { "ingredient": "salt", "unit": "to-taste" },
-        { "ingredient": "black_pepper", "unit": "to-taste" }
+        {
+          "ingredient": "potato",
+          "amount": 250,
+          "unit": "g",
+          "note": "peeled and finely grated raw"
+        },
+        {
+          "ingredient": "carrot",
+          "amount": 100,
+          "unit": "g",
+          "note": "finely grated raw"
+        },
+        {
+          "ingredient": "red_onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "1 large, thinly sliced"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "large"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 160,
+          "unit": "g",
+          "note": "type 00"
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 8,
+          "unit": "g",
+          "note": "half a sachet of instant yeast for savoury bakes"
+        },
+        {
+          "ingredient": "milk",
+          "amount": 30,
+          "unit": "ml",
+          "note": "or plant milk"
+        },
+        {
+          "ingredient": "parmesan",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "ingredient": "provola",
+          "amount": 200,
+          "unit": "g",
+          "note": "diced; or mixed cheeses like emmental or stracchino"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        }
       ]
     }
   ],

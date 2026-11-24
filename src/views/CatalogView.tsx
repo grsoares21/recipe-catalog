@@ -9,10 +9,22 @@ function ingredientIds(r: Recipe) {
   return new Set(r.ingredientGroups.flatMap((g) => g.items.map((i) => i.ingredient)));
 }
 
+const byName = (a: Recipe, b: Recipe) => a.title.localeCompare(b.title, undefined, { sensitivity: 'base' });
+
+// To add a criterion: add an entry here; the select picks them up.
+const SORTS = {
+  newest: { label: 'Newest first', compare: (a: Recipe, b: Recipe) => b.addedAt.localeCompare(a.addedAt) || byName(a, b) },
+  oldest: { label: 'Oldest first', compare: (a: Recipe, b: Recipe) => a.addedAt.localeCompare(b.addedAt) || byName(a, b) },
+  name: { label: 'Name (A–Z)', compare: byName },
+} satisfies Record<string, { label: string; compare: (a: Recipe, b: Recipe) => number }>;
+type SortKey = keyof typeof SORTS;
+
 export default function CatalogView({ catalog, selection }: { catalog: Catalog; selection: Selection }) {
   const [query, setQuery] = useStoredState('query', '');
   const [withIngredients, setWithIngredients] = useStoredState<string[]>('withIngredients', []);
   const [tag, setTag] = useStoredState<string>('tag', '');
+  const [sort, setSort] = useStoredState<SortKey>('sort', 'newest');
+  const compare = (SORTS[sort] ?? SORTS.newest).compare;
 
   const tags = useMemo(() => [...new Set(catalog.recipes.flatMap((r) => r.tags))].sort(), [catalog]);
 
@@ -37,8 +49,8 @@ export default function CatalogView({ catalog, selection }: { catalog: Catalog; 
       if (!q) return true;
       const haystack = [r.title, r.creator, ...r.tags, ...[...ids].map((id) => catalog.ingredients[id].name)].map(normalize);
       return haystack.some((h) => h.includes(q));
-    });
-  }, [catalog, query, withIngredients, tag]);
+    }).sort(compare);
+  }, [catalog, query, withIngredients, tag, compare]);
 
   return (
     <div className="page">
@@ -77,7 +89,15 @@ export default function CatalogView({ catalog, selection }: { catalog: Catalog; 
         </div>
       </header>
 
-      <p className="count">{results.length} of {catalog.recipes.length}</p>
+      <div className="list-bar">
+        <p className="count">{results.length} of {catalog.recipes.length}</p>
+        <label className="sort">
+          Sort
+          <select value={sort} onChange={(e) => setSort(e.target.value as SortKey)}>
+            {Object.entries(SORTS).map(([key, s]) => <option key={key} value={key}>{s.label}</option>)}
+          </select>
+        </label>
+      </div>
       <ul className="grid">
         {results.map((r) => (
           <li key={r.id}>

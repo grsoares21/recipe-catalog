@@ -5,15 +5,30 @@
   "language": "pt",
   "creator": "tatiellencoutinho",
   "reelUrl": "https://www.instagram.com/reel/DdXJvBypSc5/",
+  "addedAt": "2026-10-28",
   "servings": 1,
   "yield": "3 small rolls",
-  "tags": ["snack", "brazilian", "air-fryer", "quick", "gluten-free"],
+  "tags": [
+    "snack",
+    "brazilian",
+    "air-fryer",
+    "quick",
+    "gluten-free"
+  ],
   "status": "complete",
   "ingredientGroups": [
     {
       "items": [
-        { "ingredient": "mozzarella", "amount": 3, "unit": "slice" },
-        { "ingredient": "tapioca_hydrated", "amount": 3, "unit": "tbsp" }
+        {
+          "ingredient": "mozzarella",
+          "amount": 3,
+          "unit": "slice"
+        },
+        {
+          "ingredient": "tapioca_hydrated",
+          "amount": 3,
+          "unit": "tbsp"
+        }
       ]
     }
   ],
