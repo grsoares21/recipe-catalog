@@ -1,0 +1,67 @@
+{
+  "id": "DS3bAotCUaL",
+  "kind": "recipe",
+  "title": "Ajos machos",
+  "language": "es",
+  "creator": "chefomimeri",
+  "reelUrl": "https://www.instagram.com/reel/DS3bAotCUaL/",
+  "servings": 16,
+  "servingsEstimated": true,
+  "tags": [
+    "condiment",
+    "spicy",
+    "mexican"
+  ],
+  "status": "incomplete",
+  "statusNote": "The caption lists ingredients only. The steps are the usual method for this garlic chilli oil.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "garlic",
+          "amount": 1,
+          "unit": "piece",
+          "note": "whole head, peeled"
+        },
+        {
+          "ingredient": "avocado_oil",
+          "amount": 1,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "chili_powder",
+          "amount": 0.25,
+          "unit": "cup",
+          "note": "ground chile de árbol"
+        },
+        {
+          "ingredient": "peanuts",
+          "amount": 0.25,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "sesame_seeds",
+          "amount": 0.25,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "piloncillo",
+          "amount": 1,
+          "unit": "tsp",
+          "note": "or brown sugar"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "tsp"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Fry the garlic cloves gently in the oil until golden.",
+    "Add the peanuts and sesame and toast briefly.",
+    "Off the heat, stir in the chile, piloncillo and salt.",
+    "Cool and keep in a jar."
+  ]
+}

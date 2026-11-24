@@ -1,0 +1,73 @@
+{
+  "id": "DbIs59SMOJs",
+  "kind": "recipe",
+  "title": "Vegan Biscoff Ice-Cream Tacos",
+  "language": "en",
+  "creator": "thelittleblogofvegan",
+  "reelUrl": "https://www.instagram.com/reel/DbIs59SMOJs/",
+  "sourceUrl": "https://www.thelittleblogofvegan.com/2026/07/vegan-biscoff-ice-cream-tacos.html",
+  "servings": 9,
+  "yield": "8–10 tacos",
+  "tags": [
+    "dessert",
+    "frozen",
+    "vegan",
+    "no-bake"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Ice cream",
+      "items": [
+        {
+          "ingredient": "vegan_whipping_cream",
+          "amount": 425,
+          "unit": "g"
+        },
+        {
+          "ingredient": "vegan_condensed_milk",
+          "amount": 320,
+          "unit": "g"
+        },
+        {
+          "ingredient": "biscoff_spread",
+          "amount": 2,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "name": "To assemble",
+      "items": [
+        {
+          "ingredient": "stroopwafels",
+          "amount": 9,
+          "unit": "piece",
+          "note": "vegan",
+          "assumed": true
+        },
+        {
+          "ingredient": "biscoff_spread",
+          "amount": 80,
+          "unit": "g",
+          "note": "melted, for dunking",
+          "assumed": true
+        },
+        {
+          "ingredient": "speculoos_biscuits",
+          "amount": 30,
+          "unit": "g",
+          "note": "crumbled",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Whip the cream and condensed milk on high speed for 3–5 minutes until thick and holding a peak.",
+    "Fold in 2 tbsp Biscoff spread, spread into a lined loaf tin, swirl in a little melted Biscoff if you like, cover and freeze at least 6 hours, ideally overnight.",
+    "Warm each stroopwafel in a dry pan for 15–20 seconds per side until it bends, fold it into a taco shape and chill to set.",
+    "Fill the shells with ice cream, smooth the top and freeze for 40–60 minutes.",
+    "Dunk the tops in melted (cooled) Biscoff spread and sprinkle with biscuit crumbs."
+  ]
+}

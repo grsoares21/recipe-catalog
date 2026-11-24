@@ -1,0 +1,92 @@
+{
+  "id": "DeHWdnYRoTj",
+  "kind": "recipe",
+  "title": "Chilli oil",
+  "language": "pt",
+  "creator": "amadeusvictor_",
+  "reelUrl": "https://www.instagram.com/reel/DeHWdnYRoTj/",
+  "servings": 20,
+  "servingsEstimated": true,
+  "yield": "about 200 ml",
+  "tags": [
+    "sauce",
+    "condiment",
+    "spicy",
+    "make-ahead"
+  ],
+  "status": "incomplete",
+  "statusNote": "The method is only shown in the video. The steps follow the standard way of making chilli oil.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "garlic",
+          "amount": 4,
+          "unit": "clove",
+          "note": "chopped"
+        },
+        {
+          "ingredient": "black_sesame",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "paprika",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "hot"
+        },
+        {
+          "ingredient": "ginger",
+          "amount": 1,
+          "unit": "tsp",
+          "note": "fresh or ground"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "msg",
+          "unit": "to-taste",
+          "optional": true
+        },
+        {
+          "ingredient": "chili_flakes",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "annatto",
+          "unit": "to-taste",
+          "note": "colorau, for colour",
+          "optional": true
+        },
+        {
+          "ingredient": "vegetable_oil",
+          "amount": 175,
+          "unit": "ml",
+          "note": "150–200 ml, neutral oil"
+        },
+        {
+          "ingredient": "star_anise",
+          "unit": "to-taste",
+          "note": "plus cinnamon and cardamom, to flavour the oil",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Put the garlic, sesame, paprika, ginger, sugar, salt, MSG, chilli flakes and colorau in a heatproof bowl.",
+    "Heat the oil gently with the star anise, cinnamon and cardamom to infuse it, then strain out the whole spices.",
+    "Pour the hot oil over the bowl of aromatics; it should sizzle. Stir and let it cool.",
+    "Keep in a jar in the fridge."
+  ],
+  "notes": "Everything is adjustable: use more or less chilli to taste."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "DWbmqUokULr",
+  "kind": "tip",
+  "title": "Greek yogurt scrambled eggs",
+  "language": "en",
+  "creator": "elevatemindhq",
+  "reelUrl": "https://www.instagram.com/reel/DWbmqUokULr/",
+  "servings": 1,
+  "tags": [
+    "tip",
+    "breakfast",
+    "eggs",
+    "high-protein"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "egg",
+          "amount": 3,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "greek_yogurt",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Whisk a spoonful of Greek yogurt into the eggs before scrambling them gently.",
+    "The yogurt makes them extra creamy and adds protein."
+  ]
+}

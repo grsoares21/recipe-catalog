@@ -1,0 +1,32 @@
+{
+  "id": "DYPqaOzOIBl",
+  "kind": "recipe",
+  "title": "Kiwi or banana \"soft serve\"",
+  "language": "en",
+  "creator": "ann_aknows",
+  "reelUrl": "https://www.instagram.com/reel/DYPqaOzOIBl/",
+  "servings": 1,
+  "tags": [
+    "dessert",
+    "kids",
+    "fruit",
+    "no-sugar"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "kiwi",
+          "amount": 1,
+          "unit": "piece",
+          "note": "very soft, or a ripe banana"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Press the soft fruit through a textured (grater-style) plate.",
+    "It comes out like creamy soft-serve."
+  ]
+}

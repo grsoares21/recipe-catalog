@@ -1,0 +1,80 @@
+{
+  "id": "Dc8_GajC1hL",
+  "kind": "recipe",
+  "title": "Chickpea Peanut Butter Cookies",
+  "language": "en",
+  "creator": "firsttakehadrian",
+  "reelUrl": "https://www.instagram.com/reel/Dc8_GajC1hL/",
+  "servings": 4,
+  "yield": "4 cookies",
+  "tags": [
+    "dessert",
+    "snack",
+    "cookies",
+    "gluten-free",
+    "baking"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "chickpeas",
+          "amount": 125,
+          "unit": "g",
+          "note": "rinsed, drained and patted dry"
+        },
+        {
+          "ingredient": "peanut_butter",
+          "amount": 65,
+          "unit": "g",
+          "note": "creamy"
+        },
+        {
+          "ingredient": "honey",
+          "amount": 40,
+          "unit": "g",
+          "note": "or maple syrup"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch",
+          "optional": true
+        },
+        {
+          "ingredient": "dark_chocolate",
+          "amount": 30,
+          "unit": "g",
+          "note": "chips"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C and line a baking sheet with parchment.",
+    "Blend the chickpeas, peanut butter, honey, vanilla, baking powder and salt until completely smooth.",
+    "Fold in the chocolate chips.",
+    "Scoop into 4 portions on the sheet and flatten the tops slightly.",
+    "Bake 10–12 minutes until the edges are golden, then cool on the sheet for at least 10 minutes to firm up."
+  ],
+  "creatorNutrition": {
+    "kcal": 150.0,
+    "protein": 5.0,
+    "carbs": 18.0,
+    "fat": 7.0,
+    "fiber": 3.0,
+    "per": "cookie"
+  },
+  "notes": "Original by @marco.madewell."
+}

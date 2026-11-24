@@ -1,0 +1,59 @@
+{
+  "id": "DVbSPYvERKL",
+  "kind": "recipe",
+  "title": "Bolinhas de iogurte no azeite",
+  "language": "pt",
+  "creator": "vitorporpino",
+  "reelUrl": "https://www.instagram.com/reel/DVbSPYvERKL/",
+  "servings": 10,
+  "servingsEstimated": true,
+  "tags": [
+    "starter",
+    "dairy",
+    "make-ahead"
+  ],
+  "status": "incomplete",
+  "statusNote": "The creator gives no amounts. The ≈ amounts are estimates.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "greek_yogurt",
+          "amount": 500,
+          "unit": "g",
+          "note": "strained into labneh",
+          "assumed": true
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 300,
+          "unit": "ml",
+          "assumed": true
+        },
+        {
+          "ingredient": "paprika",
+          "amount": 1,
+          "unit": "tsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "lemon_pepper",
+          "amount": 1,
+          "unit": "tsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "dried_herbs",
+          "amount": 1,
+          "unit": "tsp",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Strain the yogurt in a coffee filter until most of the whey drains, then chill 2 hours to firm up.",
+    "With oiled hands, roll into balls and coat each in a different seasoning (paprika, lemon pepper, herbs).",
+    "Pack into a jar and cover with olive oil. Keeps a long time in the fridge, and the oil can be reused."
+  ]
+}

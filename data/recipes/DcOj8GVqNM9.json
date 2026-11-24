@@ -1,0 +1,90 @@
+{
+  "id": "DcOj8GVqNM9",
+  "kind": "recipe",
+  "title": "White Chocolate and Berry Blondie",
+  "language": "en",
+  "creator": "abowlofstew",
+  "reelUrl": "https://www.instagram.com/reel/DcOj8GVqNM9/",
+  "servings": 9,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "baking",
+    "berries",
+    "one-pan"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "butter",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "ingredient": "brown_sugar",
+          "amount": 150,
+          "unit": "g",
+          "note": "light"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 100,
+          "unit": "g",
+          "note": "caster"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 225,
+          "unit": "g"
+        },
+        {
+          "ingredient": "raspberries",
+          "amount": 70,
+          "unit": "g"
+        },
+        {
+          "ingredient": "blueberries",
+          "amount": 70,
+          "unit": "g"
+        },
+        {
+          "ingredient": "white_chocolate",
+          "amount": 150,
+          "unit": "g",
+          "note": "chopped"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch"
+        },
+        {
+          "ingredient": "vanilla_ice_cream",
+          "unit": "to-taste",
+          "note": "to serve",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Melt the butter in an oven-safe pan over medium-low heat.",
+    "Once bubbling, turn off the heat and stir in both sugars. If it splits, whisk in a little boiling water.",
+    "Stir in the vanilla, cool 2 minutes, then whisk in the eggs one at a time, quickly.",
+    "Mix in the flour and salt to a thick batter, then fold in the white chocolate and berries, pressing extra chocolate chunks on top.",
+    "Bake at 180 °C for 30 minutes.",
+    "Serve with ice cream, a drizzle of melted white chocolate and raspberries."
+  ]
+}

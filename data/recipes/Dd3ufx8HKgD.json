@@ -1,0 +1,55 @@
+{
+  "id": "Dd3ufx8HKgD",
+  "kind": "recipe",
+  "title": "Shaved halloumi eggs",
+  "language": "en",
+  "creator": "eatinghealthytoday",
+  "reelUrl": "https://www.instagram.com/reel/Dd3ufx8HKgD/",
+  "servings": 1,
+  "tags": [
+    "breakfast",
+    "eggs",
+    "high-protein",
+    "quick"
+  ],
+  "status": "incomplete",
+  "statusNote": "No recipe is given. The ingredients and steps are reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "halloumi",
+          "amount": 40,
+          "unit": "g",
+          "note": "shaved with a peeler",
+          "assumed": true
+        },
+        {
+          "ingredient": "egg",
+          "amount": 3,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "bread",
+          "amount": 1,
+          "unit": "slice",
+          "note": "toasted",
+          "assumed": true
+        },
+        {
+          "ingredient": "avocado",
+          "amount": 0.5,
+          "unit": "piece",
+          "note": "sliced",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Shave the halloumi straight into a hot non-stick pan and let it start to crisp.",
+    "Crack the eggs on top and cook until set.",
+    "Fold the eggs over so the crispy halloumi is on the outside.",
+    "Serve with avocado toast."
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "DUD-P7TiVj2",
+  "kind": "recipe",
+  "title": "Cuscuz de frigideira com ovo e queijo",
+  "language": "pt",
+  "creator": "lailareceitasfit",
+  "reelUrl": "https://www.instagram.com/reel/DUD-P7TiVj2/",
+  "servings": 1,
+  "tags": [
+    "breakfast",
+    "brazilian",
+    "eggs",
+    "quick"
+  ],
+  "status": "incomplete",
+  "statusNote": "The caption lists ingredients only. The steps are reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "butter",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "mozzarella",
+          "amount": 2,
+          "unit": "slice"
+        },
+        {
+          "ingredient": "flocao",
+          "amount": 40,
+          "unit": "g",
+          "note": "hydrated with water for 5 minutes"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch"
+        },
+        {
+          "ingredient": "dried_oregano",
+          "amount": 1,
+          "unit": "pinch"
+        },
+        {
+          "ingredient": "requeijao",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "light",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Melt the butter in a frying pan and lay the mozzarella slices in it.",
+    "Spread the hydrated flocão over the cheese and let it crisp.",
+    "Beat the eggs with salt and oregano, pour over and cook until set.",
+    "Fold or flip, and finish with requeijão."
+  ],
+  "notes": "Credits @mirnacozinha."
+}

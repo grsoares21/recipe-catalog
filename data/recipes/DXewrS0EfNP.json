@@ -1,0 +1,82 @@
+{
+  "id": "DXewrS0EfNP",
+  "kind": "recipe",
+  "title": "Chickpea tzatziki salad",
+  "language": "en",
+  "creator": "plantyou",
+  "reelUrl": "https://www.instagram.com/reel/DXewrS0EfNP/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "tags": [
+    "salad",
+    "vegan",
+    "meal-prep",
+    "chickpeas"
+  ],
+  "status": "incomplete",
+  "statusNote": "The full recipe is on the creator's website. The ≈ amounts are estimates.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "chickpeas",
+          "amount": 480,
+          "unit": "g",
+          "note": "2 cans, drained",
+          "assumed": true
+        },
+        {
+          "ingredient": "cucumber",
+          "amount": 1,
+          "unit": "piece",
+          "note": "diced",
+          "assumed": true
+        },
+        {
+          "ingredient": "cherry_tomato",
+          "amount": 200,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "red_onion",
+          "amount": 0.5,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "vegan_yogurt",
+          "amount": 200,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 1,
+          "unit": "clove",
+          "assumed": true
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "juice",
+          "assumed": true
+        },
+        {
+          "ingredient": "dill",
+          "unit": "to-taste",
+          "assumed": true
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix the yogurt with grated garlic, lemon juice, dill and salt to make a tzatziki dressing.",
+    "Toss with the chickpeas, cucumber, tomatoes and onion. Keeps well for meal prep."
+  ]
+}

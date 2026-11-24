@@ -1,0 +1,81 @@
+{
+  "id": "DT-kzRIlBtl",
+  "kind": "recipe",
+  "title": "Pastel de abóbora fit",
+  "language": "pt",
+  "creator": "caroline_rafasky",
+  "reelUrl": "https://www.instagram.com/reel/DT-kzRIlBtl/",
+  "servings": 5,
+  "yield": "5 pastéis",
+  "tags": [
+    "snack",
+    "gluten-free",
+    "air-fryer",
+    "pumpkin"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "pumpkin",
+          "amount": 200,
+          "unit": "g",
+          "note": "cooked"
+        },
+        {
+          "ingredient": "oat_flour",
+          "amount": 90,
+          "unit": "g"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "chicken_breast_cooked",
+          "amount": 100,
+          "unit": "g",
+          "note": "shredded, for the filling",
+          "assumed": true
+        },
+        {
+          "ingredient": "requeijao",
+          "amount": 50,
+          "unit": "g",
+          "note": "light",
+          "assumed": true
+        },
+        {
+          "ingredient": "mozzarella",
+          "amount": 50,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "egg_yolk",
+          "amount": 1,
+          "unit": "piece",
+          "note": "or olive oil, to brush",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cook the pumpkin (7 minutes in the microwave with a damp paper towel works), then mash.",
+    "Mix with the oat flour and salt, adding the flour gradually until you get a mouldable dough.",
+    "Roll out between plastic sheets, fill, close using the plastic and press the edges with a fork.",
+    "Brush with egg yolk or oil and air-fry at 180 °C for 8 minutes."
+  ],
+  "creatorNutrition": {
+    "kcal": 145.0,
+    "protein": 8.0,
+    "carbs": 17.0,
+    "fat": 5.0,
+    "fiber": 0.0,
+    "per": "pastel"
+  },
+  "notes": "Credits @nutrinathalia_oficial."
+}

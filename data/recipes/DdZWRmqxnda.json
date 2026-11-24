@@ -1,0 +1,84 @@
+{
+  "id": "DdZWRmqxnda",
+  "kind": "recipe",
+  "title": "Bolo de abacaxi",
+  "language": "pt",
+  "creator": "arymirelle",
+  "reelUrl": "https://www.instagram.com/reel/DdZWRmqxnda/",
+  "servings": 12,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "cake",
+    "brazilian",
+    "fruit"
+  ],
+  "status": "incomplete",
+  "statusNote": "The caption doesn't explain how to assemble the cake. The steps follow the standard upside-down method.",
+  "ingredientGroups": [
+    {
+      "name": "Cake",
+      "items": [
+        {
+          "ingredient": "egg",
+          "amount": 4,
+          "unit": "piece",
+          "note": "separated, whites beaten to stiff peaks"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 2,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "butter",
+          "amount": 3,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 3,
+          "unit": "cup",
+          "note": "sifted"
+        },
+        {
+          "ingredient": "milk",
+          "amount": 1,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 1,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "name": "Caramel and pineapple",
+      "items": [
+        {
+          "ingredient": "sugar",
+          "amount": 2,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "water",
+          "amount": 1,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "pineapple",
+          "amount": 1,
+          "unit": "piece",
+          "note": "in rings"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Melt 2 cups of sugar in the tin until it turns to caramel, add 1 cup of water and let it dissolve. Arrange the pineapple rings over the caramel.",
+    "Beat the yolks with the sugar and butter, add the milk and flour alternately, then fold in the baking powder and beaten whites.",
+    "Pour the batter over the pineapple and bake at 180 °C for 40 minutes.",
+    "Turn out while still warm."
+  ]
+}

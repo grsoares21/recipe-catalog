@@ -1,0 +1,48 @@
+{
+  "id": "DezOEipiZwu",
+  "kind": "recipe",
+  "title": "Oreo catacomb brownies",
+  "language": "en",
+  "creator": "emsfoodiefix",
+  "reelUrl": "https://www.instagram.com/reel/DezOEipiZwu/",
+  "servings": 12,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "halloween",
+    "chocolate"
+  ],
+  "status": "incomplete",
+  "statusNote": "Only the Oreo skull decoration is explained. Use any brownie recipe for the base.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "cookies",
+          "amount": 15,
+          "unit": "piece",
+          "note": "Oreo-style chocolate sandwich cookies, crushed",
+          "assumed": true
+        },
+        {
+          "ingredient": "double_cream",
+          "amount": 2,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "brownie_mix",
+          "amount": 1,
+          "unit": "piece",
+          "note": "or a tray of your favourite brownies",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Blitz the Oreos and mix with a little cream into a mouldable dough.",
+    "Press into mini skull moulds and chill until firm.",
+    "Unmould and arrange the skulls on top of a tray of brownies."
+  ]
+}

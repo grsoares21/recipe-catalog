@@ -1,0 +1,106 @@
+{
+  "id": "DbLO1TDRtXq",
+  "kind": "recipe",
+  "title": "Bolinhas de sorvete de chocolate branco e framboesa",
+  "language": "pt",
+  "creator": "bellabolaria",
+  "reelUrl": "https://www.instagram.com/reel/DbLO1TDRtXq/",
+  "servings": 20,
+  "yield": "20 balls",
+  "tags": [
+    "dessert",
+    "frozen",
+    "raspberries"
+  ],
+  "status": "incomplete",
+  "statusNote": "The caption doesn't explain the method. The steps are reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "name": "Raspberry filling",
+      "items": [
+        {
+          "ingredient": "cornstarch",
+          "amount": 2,
+          "unit": "tsp",
+          "note": "dissolved in a little water"
+        },
+        {
+          "ingredient": "raspberries",
+          "amount": 300,
+          "unit": "g",
+          "note": "frozen or fresh"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 70,
+          "unit": "g"
+        },
+        {
+          "ingredient": "lemon",
+          "unit": "to-taste",
+          "note": "a little juice"
+        }
+      ]
+    },
+    {
+      "name": "Ice cream",
+      "items": [
+        {
+          "ingredient": "white_chocolate",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "ingredient": "double_cream",
+          "amount": 35,
+          "unit": "g"
+        },
+        {
+          "ingredient": "double_cream",
+          "amount": 200,
+          "unit": "ml",
+          "note": "for whipping"
+        },
+        {
+          "ingredient": "condensed_milk",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 0.5,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "name": "Coating",
+      "items": [
+        {
+          "ingredient": "white_chocolate",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "ingredient": "cocoa_butter",
+          "amount": 40,
+          "unit": "g",
+          "note": "or coconut oil"
+        },
+        {
+          "ingredient": "freeze_dried_raspberries",
+          "unit": "to-taste",
+          "note": "crunchy flakes",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cook the raspberries with the sugar and lemon juice, thicken with the cornstarch, then cool and freeze in small portions.",
+    "Melt the white chocolate with 35 g cream. Whip the 200 ml cream with the condensed milk and vanilla, then fold in the chocolate.",
+    "Fill half-sphere moulds with the ice cream, add a frozen raspberry centre, close and freeze until firm.",
+    "Melt the white chocolate with the cocoa butter, dip the frozen balls and sprinkle with raspberry flakes."
+  ],
+  "notes": "Original by @adidinstag."
+}

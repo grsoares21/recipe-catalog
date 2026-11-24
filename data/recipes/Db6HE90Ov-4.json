@@ -1,0 +1,55 @@
+{
+  "id": "Db6HE90Ov-4",
+  "kind": "recipe",
+  "title": "Cultured butter",
+  "language": "en",
+  "creator": "chef.sam.black",
+  "reelUrl": "https://www.instagram.com/reel/Db6HE90Ov-4/",
+  "servings": 20,
+  "servingsEstimated": true,
+  "yield": "about 400 g butter plus buttermilk",
+  "tags": [
+    "basics",
+    "dairy",
+    "fermentation",
+    "make-ahead"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "double_cream",
+          "amount": 1,
+          "unit": "l"
+        },
+        {
+          "ingredient": "yogurt",
+          "amount": 100,
+          "unit": "g",
+          "note": "natural live yogurt"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "herbs",
+          "amount": 20,
+          "unit": "g",
+          "note": "fresh, finely chopped, for compound butter",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix the cream and yogurt, cover with a clean cloth and leave at room temperature for 24–36 hours, until thick and pleasantly sour.",
+    "Chill for at least 4–5 hours, preferably overnight.",
+    "Churn with a stand mixer, whisk or even a spoon until the butter separates from the buttermilk.",
+    "Drain off the buttermilk and keep it for pancakes, baking and marinades.",
+    "Wash the butter in ice-cold water, kneading and changing the water until it runs clear.",
+    "Salt to taste, shape, and wrap in greaseproof paper. Keep in the fridge or freeze."
+  ],
+  "notes": "Nutrition counts all the cream, though part of it ends up in the buttermilk."
+}

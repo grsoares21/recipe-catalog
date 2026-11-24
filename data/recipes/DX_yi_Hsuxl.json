@@ -1,0 +1,103 @@
+{
+  "id": "DX_yi_Hsuxl",
+  "kind": "recipe",
+  "title": "Pamonha doce e salgada sem palha",
+  "language": "pt",
+  "creator": "olhaqloko",
+  "reelUrl": "https://www.instagram.com/reel/DX_yi_Hsuxl/",
+  "servings": 2,
+  "servingsEstimated": true,
+  "yield": "1 sweet and 1 savoury",
+  "tags": [
+    "snack",
+    "brazilian",
+    "corn"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Sweet pamonha",
+      "items": [
+        {
+          "ingredient": "corn_on_the_cob",
+          "amount": 2,
+          "unit": "piece",
+          "note": "or 1 can of corn"
+        },
+        {
+          "ingredient": "butter",
+          "amount": 2,
+          "unit": "tsp",
+          "note": "1 dessert spoon"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "milk",
+          "amount": 60,
+          "unit": "ml",
+          "note": "6 dessert spoons"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch"
+        },
+        {
+          "ingredient": "goiabada",
+          "unit": "to-taste",
+          "note": "a few cubes",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "name": "Savoury pamonha",
+      "items": [
+        {
+          "ingredient": "corn_on_the_cob",
+          "amount": 2,
+          "unit": "piece",
+          "note": "or 1 can of corn"
+        },
+        {
+          "ingredient": "butter",
+          "amount": 2,
+          "unit": "tsp",
+          "note": "1 dessert spoon"
+        },
+        {
+          "ingredient": "cornstarch",
+          "amount": 2,
+          "unit": "tsp",
+          "note": "1 dessert spoon"
+        },
+        {
+          "ingredient": "milk",
+          "amount": 60,
+          "unit": "ml",
+          "note": "6 dessert spoons"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch"
+        },
+        {
+          "ingredient": "queijo_minas",
+          "unit": "to-taste",
+          "note": "a few cubes",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Sweet: blend everything except the guava paste. Pour into corn husks in a steamer, add a few cubes of guava paste if you like, cover and steam for 20 minutes.",
+    "Savoury: blend everything except the cheese and pour into a buttered mug with a few cubes of cheese inside.",
+    "Cover the mug with a saucer and cook it in a pan of water, covered, for 30 minutes (at least 50 minutes for a firmer pamonha)."
+  ]
+}

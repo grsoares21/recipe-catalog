@@ -1,0 +1,54 @@
+{
+  "id": "DWbmDWOkRK-",
+  "kind": "recipe",
+  "title": "Alho fermentado no mel com pimenta",
+  "language": "pt",
+  "creator": "gigivilela",
+  "reelUrl": "https://www.instagram.com/reel/DWbmDWOkRK-/",
+  "servings": 20,
+  "servingsEstimated": true,
+  "tags": [
+    "condiment",
+    "fermentation",
+    "garlic",
+    "make-ahead"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "garlic",
+          "amount": 2,
+          "unit": "piece",
+          "note": "heads, peeled (any amount works)",
+          "assumed": true
+        },
+        {
+          "ingredient": "honey",
+          "amount": 300,
+          "unit": "g",
+          "note": "enough to cover",
+          "assumed": true
+        },
+        {
+          "ingredient": "chili_pepper",
+          "amount": 2,
+          "unit": "piece",
+          "note": "sliced",
+          "optional": true
+        },
+        {
+          "ingredient": "thyme",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Put peeled garlic (and chilli and herbs) in a sterilised jar and cover with honey.",
+    "Close and leave at room temperature. After 4 days it starts to get interesting; taste until you like it, opening daily to release gas.",
+    "Then keep it in the fridge. Lovely on toast with burrata."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "DedzE7pNqzg",
+  "kind": "recipe",
+  "title": "Ofenkäse – Pizzaiolo Edition",
+  "language": "de",
+  "creator": "chrispy.pizza",
+  "reelUrl": "https://www.instagram.com/reel/DedzE7pNqzg/",
+  "servings": 6,
+  "yield": "6 dough balls of about 285 g",
+  "tags": [
+    "main",
+    "pizza",
+    "cheese",
+    "baking"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Dough",
+      "items": [
+        {
+          "ingredient": "wheat_flour",
+          "amount": 1000,
+          "unit": "g",
+          "note": "pizza flour"
+        },
+        {
+          "ingredient": "water",
+          "amount": 720,
+          "unit": "ml"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "ingredient": "fresh_yeast",
+          "amount": 3,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "name": "Per pizza",
+      "items": [
+        {
+          "ingredient": "camembert",
+          "amount": 6,
+          "unit": "piece",
+          "note": "one whole cheese per pizza"
+        },
+        {
+          "ingredient": "olive_oil",
+          "unit": "to-taste",
+          "optional": true
+        },
+        {
+          "ingredient": "dried_herbs",
+          "unit": "to-taste",
+          "note": "a few spices",
+          "optional": true
+        },
+        {
+          "ingredient": "cranberry_sauce",
+          "unit": "to-taste",
+          "note": "to finish"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Knead all the dough ingredients into a smooth dough and let it rest, covered, for 30 minutes.",
+    "Divide into balls of about 285 g, shape them tight and leave to mature in the fridge. Take them out about 4 hours before baking.",
+    "Open a dough ball, pushing the air into the rim, and set a whole Camembert in the middle with a few spices and a splash of oil.",
+    "Bake at 350 °C top and bottom heat for 4–5 minutes in a pizza oven.",
+    "Finish with a spoonful of cranberry sauce and eat straight away."
+  ],
+  "notes": "Baked in an electric pizza oven. The bottom heat cooks the slightly thicker base under the cheese."
+}

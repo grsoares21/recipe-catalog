@@ -1,0 +1,113 @@
+{
+  "id": "DVk-ShzjtJp",
+  "kind": "recipe",
+  "title": "Coffee chocolate granola & cold brew smoothie",
+  "language": "en",
+  "creator": "spicymoustache",
+  "reelUrl": "https://www.instagram.com/reel/DVk-ShzjtJp/",
+  "servings": 8,
+  "servingsEstimated": true,
+  "tags": [
+    "breakfast",
+    "zero-waste",
+    "coffee",
+    "vegan"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Coffee chocolate granola",
+      "items": [
+        {
+          "ingredient": "oats",
+          "amount": 2,
+          "unit": "cup",
+          "note": "rolled"
+        },
+        {
+          "ingredient": "ground_coffee",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "used, dried",
+          "assumed": true
+        },
+        {
+          "ingredient": "cocoa_powder",
+          "amount": 0.25,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "tahini",
+          "amount": 0.25,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "maple_syrup",
+          "amount": 0.33,
+          "unit": "cup",
+          "note": "or agave or honey"
+        },
+        {
+          "ingredient": "mixed_nuts",
+          "amount": 0.5,
+          "unit": "cup",
+          "note": "chopped"
+        },
+        {
+          "ingredient": "dark_chocolate",
+          "amount": 0.33,
+          "unit": "cup",
+          "note": "chips"
+        }
+      ]
+    },
+    {
+      "name": "Cold brew smoothie",
+      "items": [
+        {
+          "ingredient": "water",
+          "amount": 4,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "ground_coffee",
+          "amount": 0.5,
+          "unit": "cup",
+          "note": "used",
+          "assumed": true
+        },
+        {
+          "ingredient": "banana",
+          "amount": 1,
+          "unit": "piece",
+          "note": "ripe"
+        },
+        {
+          "ingredient": "almond_milk",
+          "amount": 0.5,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "ice",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "cinnamon",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Granola: heat the oven to 160 °C. Mix the oats, coffee grounds, cocoa and nuts, then the tahini and syrup until coated.",
+    "Spread on a lined sheet and bake 20–25 minutes, stirring once, until golden. Cool completely, then stir in the chocolate. Keeps 2 weeks airtight.",
+    "Cold brew: stir the water and coffee grounds in a jar and refrigerate 12–18 hours, then strain.",
+    "Blend the banana, almond milk, vanilla and ice. Fill a glass halfway with ice and cold brew, then gently pour the smoothie on top and dust with cinnamon."
+  ]
+}

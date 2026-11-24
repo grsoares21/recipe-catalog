@@ -1,0 +1,54 @@
+{
+  "id": "DaA2h98M4c7",
+  "kind": "recipe",
+  "title": "Snickers glacés à la banane",
+  "language": "fr",
+  "creator": "paulnapo_food",
+  "reelUrl": "https://www.instagram.com/reel/DaA2h98M4c7/",
+  "servings": 2,
+  "tags": [
+    "dessert",
+    "frozen",
+    "banana",
+    "peanuts"
+  ],
+  "status": "incomplete",
+  "statusNote": "The creator gives no amounts. The ≈ amounts are estimates.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "banana",
+          "amount": 1,
+          "unit": "piece",
+          "note": "halved, on sticks"
+        },
+        {
+          "ingredient": "peanut_butter",
+          "amount": 30,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "peanuts",
+          "amount": 20,
+          "unit": "g",
+          "note": "crushed",
+          "assumed": true
+        },
+        {
+          "ingredient": "dark_chocolate",
+          "amount": 50,
+          "unit": "g",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cut the banana in half and push an ice-lolly stick into each half.",
+    "Spread generously with peanut butter and press crushed peanuts all over.",
+    "Freeze 15 minutes.",
+    "Dip in melted dark chocolate and freeze another 30 minutes until the shell hardens."
+  ]
+}

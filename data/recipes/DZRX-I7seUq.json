@@ -1,0 +1,64 @@
+{
+  "id": "DZRX-I7seUq",
+  "kind": "recipe",
+  "title": "Omelette toast",
+  "language": "ru",
+  "creator": "aygun_.kitchen",
+  "reelUrl": "https://www.instagram.com/reel/DZRX-I7seUq/",
+  "servings": 1,
+  "tags": [
+    "breakfast",
+    "eggs",
+    "quick"
+  ],
+  "status": "incomplete",
+  "statusNote": "No recipe is given. The ingredients and steps are reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "egg",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "sausage",
+          "amount": 30,
+          "unit": "g",
+          "note": "diced",
+          "assumed": true
+        },
+        {
+          "ingredient": "tomato",
+          "amount": 0.5,
+          "unit": "piece",
+          "note": "diced",
+          "assumed": true
+        },
+        {
+          "ingredient": "grated_cheese",
+          "amount": 20,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "bread",
+          "amount": 1,
+          "unit": "slice",
+          "assumed": true
+        },
+        {
+          "ingredient": "parsley",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Spread the egg white thinly over a hot oiled pan, keeping the yolk aside.",
+    "Add the yolk back in the middle with the sausage, tomato and cheese.",
+    "Fold the sides in to make a square parcel.",
+    "Set the parcel on a slice of bread, flip and toast both sides. Finish with parsley."
+  ]
+}

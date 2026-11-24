@@ -1,0 +1,54 @@
+{
+  "id": "DWCzxpNkeSc",
+  "kind": "recipe",
+  "title": "1-Ingredient Buckwheat Bread",
+  "language": "en",
+  "creator": "mattwalterfit",
+  "reelUrl": "https://www.instagram.com/reel/DWCzxpNkeSc/",
+  "servings": 8,
+  "yield": "1 loaf, 8 slices",
+  "tags": [
+    "baking",
+    "bread",
+    "gluten-free",
+    "vegan"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "buckwheat",
+          "amount": 2,
+          "unit": "cup",
+          "note": "raw whole groats"
+        },
+        {
+          "ingredient": "water",
+          "amount": 0.75,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Soak the buckwheat in water for 12 hours or overnight.",
+    "Drain without rinsing and blend with ¾ cup fresh water into a smooth batter.",
+    "Cover and leave to ferment on the counter for 24 hours.",
+    "Stir in salt, pour into a lined loaf tin and bake at 175 °C for about 60 minutes.",
+    "Cool at least 30 minutes before slicing."
+  ],
+  "creatorNutrition": {
+    "kcal": 140.0,
+    "protein": 2.0,
+    "carbs": 34.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "per": "slice"
+  },
+  "notes": "Original video by @lilsipper."
+}

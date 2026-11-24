@@ -1,0 +1,79 @@
+{
+  "id": "DWCbuWLCThB",
+  "kind": "recipe",
+  "title": "Empadinha de grão-de-bico com frango",
+  "language": "pt",
+  "creator": "1001_receitasfit",
+  "reelUrl": "https://www.instagram.com/reel/DWCbuWLCThB/",
+  "servings": 8,
+  "yield": "8 empadinhas",
+  "tags": [
+    "snack",
+    "high-protein",
+    "chickpeas",
+    "meal-prep",
+    "gluten-free"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Dough",
+      "items": [
+        {
+          "ingredient": "chickpeas",
+          "amount": 400,
+          "unit": "g",
+          "note": "cooked (2 cups)"
+        },
+        {
+          "ingredient": "oat_flour",
+          "amount": 42,
+          "unit": "g",
+          "note": "6 tbsp"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "ingredient": "water",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "if needed to blend",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "name": "Filling (per empadinha)",
+      "items": [
+        {
+          "ingredient": "chicken_breast_cooked",
+          "amount": 120,
+          "unit": "g",
+          "note": "shredded, 15 g each"
+        },
+        {
+          "ingredient": "requeijao",
+          "amount": 8,
+          "unit": "tbsp",
+          "note": "light, 1 tbsp each"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Blend the chickpeas, oat flour and olive oil into a dough, adding a spoon of water if needed.",
+    "With wet hands, line small moulds with the dough, fill with chicken and requeijão and close with more dough.",
+    "Bake until golden (the method is shown in the video). They freeze well."
+  ],
+  "creatorNutrition": {
+    "kcal": 166.0,
+    "protein": 10.6,
+    "carbs": 23.2,
+    "fat": 5.2,
+    "fiber": 0.0,
+    "per": "empadinha"
+  }
+}

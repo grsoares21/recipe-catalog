@@ -1,0 +1,51 @@
+{
+  "id": "DXKl-Efk66P",
+  "kind": "recipe",
+  "title": "Omelete turca de batata",
+  "language": "pt",
+  "creator": "bettoauge",
+  "reelUrl": "https://www.instagram.com/reel/DXKl-Efk66P/",
+  "servings": 1,
+  "tags": [
+    "breakfast",
+    "eggs",
+    "potatoes",
+    "quick"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "olive_oil",
+          "amount": 1,
+          "unit": "tsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "potato",
+          "amount": 0.5,
+          "unit": "piece",
+          "note": "very thinly sliced"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "mozzarella",
+          "amount": 40,
+          "unit": "g",
+          "note": "\"cheese without shame\"",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Drizzle olive oil in a small pan and arrange the potato slices in a single layer. Cook until golden underneath.",
+    "Crack the egg over the potatoes, cover with plenty of cheese and cook covered until the egg is set and the cheese melts."
+  ],
+  "notes": "Original by @hediye_tepehan."
+}

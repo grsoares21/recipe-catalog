@@ -1,0 +1,92 @@
+{
+  "id": "DclqsngxtT1",
+  "kind": "recipe",
+  "title": "Bombom de morango cravejado na travessa",
+  "language": "pt",
+  "creator": "danichoma",
+  "reelUrl": "https://www.instagram.com/reel/DclqsngxtT1/",
+  "servings": 10,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "strawberries",
+    "brazilian",
+    "no-bake"
+  ],
+  "status": "incomplete",
+  "statusNote": "The caption doesn't explain how to make the cream or the sugar crystals. The steps are the usual method.",
+  "ingredientGroups": [
+    {
+      "name": "White cream",
+      "items": [
+        {
+          "ingredient": "condensed_milk",
+          "amount": 395,
+          "unit": "g",
+          "note": "1 can"
+        },
+        {
+          "ingredient": "creme_de_leite",
+          "amount": 200,
+          "unit": "g",
+          "note": "1 box"
+        },
+        {
+          "ingredient": "milk",
+          "amount": 400,
+          "unit": "ml"
+        },
+        {
+          "ingredient": "whole_milk_powder",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "ingredient": "cornstarch",
+          "amount": 16,
+          "unit": "g"
+        },
+        {
+          "ingredient": "double_cream",
+          "amount": 200,
+          "unit": "ml",
+          "note": "whipped"
+        }
+      ]
+    },
+    {
+      "name": "Jam",
+      "items": [
+        {
+          "ingredient": "strawberries",
+          "amount": 400,
+          "unit": "g",
+          "note": "frozen"
+        }
+      ]
+    },
+    {
+      "name": "To finish",
+      "items": [
+        {
+          "ingredient": "white_chocolate",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 1,
+          "unit": "cup",
+          "note": "melted into crystals"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cream: cook the condensed milk, creme de leite, milk, milk powder and cornstarch over medium heat, stirring, until thick. Cool completely, then fold in the whipped cream.",
+    "Jam: cook the strawberries until reduced and thick. Cool.",
+    "Layer the cream and jam in a dish and chill well.",
+    "Melt the white chocolate and pour over the top.",
+    "Melt the sugar into a caramel, let it harden into a thin sheet, break into crystals and stud them over the top."
+  ]
+}

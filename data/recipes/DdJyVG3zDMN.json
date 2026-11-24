@@ -1,0 +1,79 @@
+{
+  "id": "DdJyVG3zDMN",
+  "kind": "recipe",
+  "title": "Honey Balsamic Roasted Carrots",
+  "language": "en",
+  "creator": "kalefornia_kravings",
+  "reelUrl": "https://www.instagram.com/reel/DdJyVG3zDMN/",
+  "sourceUrl": "https://kaleforniakravings.com/honey-balsamic-roasted-carrots/",
+  "servings": 4,
+  "tags": [
+    "side",
+    "vegetarian",
+    "carrots",
+    "roasted"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "carrot",
+          "amount": 1,
+          "unit": "lb",
+          "note": "peeled"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "or avocado oil"
+        },
+        {
+          "ingredient": "balsamic_vinegar",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "honey",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 2,
+          "unit": "clove",
+          "note": "minced"
+        },
+        {
+          "ingredient": "dried_thyme",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "goat_cheese",
+          "amount": 0.25,
+          "unit": "cup",
+          "note": "crumbled",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat the oven to 220 °C and line a baking sheet with parchment.",
+    "Cut the carrots diagonally into pieces of about 4 cm, halving thick ones lengthwise.",
+    "Whisk 1 tbsp balsamic, 1 tbsp honey and the oil, pour over the carrots, add garlic, thyme, salt and pepper and toss.",
+    "Lift the carrots onto the tray, keeping the liquid. Roast 20–25 minutes, brushing with the reserved liquid for the last 5–10 minutes.",
+    "Drizzle with the remaining balsamic and honey mixed together, toss, and serve with the goat cheese."
+  ]
+}

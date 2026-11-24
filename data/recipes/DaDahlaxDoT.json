@@ -1,0 +1,65 @@
+{
+  "id": "DaDahlaxDoT",
+  "kind": "recipe",
+  "title": "Mango ice cream bars",
+  "language": "en",
+  "creator": "giallolovesitaly",
+  "reelUrl": "https://www.instagram.com/reel/DaDahlaxDoT/",
+  "servings": 8,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "frozen",
+    "fruit"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "mango",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "yogurt",
+          "amount": 250,
+          "unit": "g",
+          "note": "plain"
+        },
+        {
+          "ingredient": "honey",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "to taste",
+          "assumed": true
+        },
+        {
+          "ingredient": "white_chocolate",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "ingredient": "coconut_oil",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "desiccated_coconut",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "coconut flakes",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Peel, chop and blend the mango until smooth.",
+    "Mix with the yogurt and sweeten with honey.",
+    "Pour into ice-cream bar moulds and freeze until completely firm, 4–6 hours or overnight.",
+    "Melt the white chocolate with the coconut oil (stir in the coconut flakes if using).",
+    "Unmould the bars, dip them in the chocolate and let the coating set."
+  ],
+  "notes": "Via @cookingwithbello. The chocolate amount is for dipping; you'll have some left over."
+}

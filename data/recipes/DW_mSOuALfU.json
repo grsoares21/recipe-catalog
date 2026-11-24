@@ -1,0 +1,65 @@
+{
+  "id": "DW_mSOuALfU",
+  "kind": "recipe",
+  "title": "Pan con tomate",
+  "language": "en",
+  "creator": "olga.hatters",
+  "reelUrl": "https://www.instagram.com/reel/DW_mSOuALfU/",
+  "servings": 2,
+  "servingsEstimated": true,
+  "tags": [
+    "breakfast",
+    "spanish",
+    "vegetarian",
+    "quick"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "bread",
+          "amount": 4,
+          "unit": "slice",
+          "note": "toasted",
+          "assumed": true
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 2,
+          "unit": "clove",
+          "note": "\"half a head if you let him\"",
+          "assumed": true
+        },
+        {
+          "ingredient": "tomato",
+          "amount": 2,
+          "unit": "piece",
+          "note": "ripe, grated or sliced",
+          "assumed": true
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "good extra-virgin",
+          "assumed": true
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "iberian_ham",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Toast the bread and rub it generously with raw garlic.",
+    "Top with grated (or sliced) tomato.",
+    "Drizzle with good olive oil and add salt. Add jamón ibérico if you like."
+  ]
+}

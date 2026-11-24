@@ -1,0 +1,85 @@
+{
+  "id": "Dfe8H6txism",
+  "kind": "recipe",
+  "title": "Cuca de farofa Romeu e Julieta",
+  "language": "pt",
+  "creator": "mahperezz",
+  "reelUrl": "https://www.instagram.com/reel/Dfe8H6txism/",
+  "servings": 12,
+  "servingsEstimated": true,
+  "yield": "24 cm tin",
+  "tags": [
+    "dessert",
+    "baking",
+    "brazilian",
+    "cheese"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Filling",
+      "items": [
+        {
+          "ingredient": "queijo_coalho",
+          "amount": 200,
+          "unit": "g",
+          "note": "diced"
+        },
+        {
+          "ingredient": "goiabada",
+          "amount": 300,
+          "unit": "g",
+          "note": "diced"
+        },
+        {
+          "ingredient": "condensed_milk",
+          "amount": 395,
+          "unit": "g",
+          "note": "1 can"
+        }
+      ]
+    },
+    {
+      "name": "Crumble",
+      "items": [
+        {
+          "ingredient": "wheat_flour",
+          "amount": 1.5,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 0.5,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "whole_milk_powder",
+          "amount": 3,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "margarine",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "unsalted"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix the filling ingredients and set aside.",
+    "Rub the crumble ingredients together with your fingertips until you get a moist, sandy crumble.",
+    "Cover the bottom of a 24 cm tin with crumble, add the filling and finish with the rest of the crumble.",
+    "Bake in a preheated oven at 180 °C for about 30 minutes, until golden."
+  ]
+}

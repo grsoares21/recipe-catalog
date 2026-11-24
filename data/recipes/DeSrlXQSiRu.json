@@ -1,0 +1,75 @@
+{
+  "id": "DeSrlXQSiRu",
+  "kind": "recipe",
+  "title": "Skull mushroom risotto",
+  "language": "en",
+  "creator": "asanebo_restaurant",
+  "reelUrl": "https://www.instagram.com/reel/DeSrlXQSiRu/",
+  "servings": 2,
+  "servingsEstimated": true,
+  "tags": [
+    "main",
+    "rice",
+    "mushrooms",
+    "halloween"
+  ],
+  "status": "incomplete",
+  "statusNote": "No recipe is given. The ingredients and steps are reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "mushroom",
+          "amount": 200,
+          "unit": "g",
+          "note": "button mushrooms, carved into skulls",
+          "assumed": true
+        },
+        {
+          "ingredient": "bacon",
+          "amount": 80,
+          "unit": "g",
+          "note": "diced",
+          "assumed": true
+        },
+        {
+          "ingredient": "arborio_rice",
+          "amount": 160,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "squid_ink",
+          "amount": 1,
+          "unit": "tsp",
+          "note": "for the black colour",
+          "assumed": true
+        },
+        {
+          "ingredient": "stock",
+          "amount": 800,
+          "unit": "ml",
+          "assumed": true
+        },
+        {
+          "ingredient": "butter",
+          "amount": 20,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "parmesan",
+          "amount": 30,
+          "unit": "g",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Carve faces into the mushroom caps and pan-fry them in butter until golden.",
+    "Fry the bacon, add the rice and toast it, then add hot stock a ladle at a time, stirring, until creamy and al dente.",
+    "Stir in the squid ink, butter and Parmesan.",
+    "Serve topped with the mushroom skulls."
+  ]
+}

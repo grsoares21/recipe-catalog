@@ -1,0 +1,74 @@
+{
+  "id": "DViWmL1FMzY",
+  "kind": "recipe",
+  "title": "Chickpea banana cake cookies",
+  "language": "en",
+  "creator": "chloeevegan",
+  "reelUrl": "https://www.instagram.com/reel/DViWmL1FMzY/",
+  "servings": 10,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "cookies",
+    "gluten-free",
+    "vegan"
+  ],
+  "status": "incomplete",
+  "statusNote": "The full recipe is sent by DM. The ≈ amounts are estimates from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "chickpeas",
+          "amount": 240,
+          "unit": "g",
+          "note": "1 can, drained",
+          "assumed": true
+        },
+        {
+          "ingredient": "banana",
+          "amount": 2,
+          "unit": "piece",
+          "note": "overripe",
+          "assumed": true
+        },
+        {
+          "ingredient": "maple_syrup",
+          "amount": 2,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "peanut_butter",
+          "amount": 2,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "oat_flour",
+          "amount": 40,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 1,
+          "unit": "tsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "dark_chocolate",
+          "amount": 80,
+          "unit": "g",
+          "note": "chunks",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Blend the chickpeas, bananas, maple syrup and peanut butter until smooth.",
+    "Mix in the oat flour and baking powder, then fold in the chocolate.",
+    "Scoop onto a lined tray and bake at 180 °C for 15–18 minutes."
+  ]
+}

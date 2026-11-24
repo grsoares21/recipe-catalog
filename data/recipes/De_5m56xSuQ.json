@@ -1,0 +1,73 @@
+{
+  "id": "De_5m56xSuQ",
+  "kind": "recipe",
+  "title": "Pistachio carbonara",
+  "language": "en",
+  "creator": "aldentedreams",
+  "reelUrl": "https://www.instagram.com/reel/De_5m56xSuQ/",
+  "servings": 3,
+  "yield": "serves 2–3",
+  "tags": [
+    "main",
+    "pasta",
+    "nuts"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "dried_pasta",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "ingredient": "pistachios",
+          "amount": 150,
+          "unit": "g",
+          "note": "shelled"
+        },
+        {
+          "ingredient": "egg_yolk",
+          "amount": 3,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "pecorino",
+          "amount": 1,
+          "unit": "cup",
+          "note": "finely grated"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "water",
+          "unit": "to-taste",
+          "note": "½–1 cup reserved pasta water"
+        },
+        {
+          "ingredient": "black_pepper",
+          "amount": 1,
+          "unit": "tsp",
+          "note": "freshly cracked"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix the egg yolks, Pecorino and black pepper into a thick paste and set aside.",
+    "Fry the pistachios gently in the olive oil until fragrant and lightly toasted.",
+    "Blend the pistachios until smooth, then add a ladle of pasta water to loosen it into a cream.",
+    "Cook the pasta until al dente, keeping some of the water.",
+    "Warm the pistachio cream in a pan with a splash of pasta water, add the pasta and toss.",
+    "Turn off the heat, add the yolk mixture and toss vigorously, adding pasta water until creamy."
+  ],
+  "notes": "The caption lists the Pecorino twice (in the yolk paste and the pistachio cream). One cup in total is used here."
+}

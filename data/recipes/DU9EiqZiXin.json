@@ -1,0 +1,61 @@
+{
+  "id": "DU9EiqZiXin",
+  "kind": "recipe",
+  "title": "Ovo de pudim",
+  "language": "pt",
+  "creator": "pablofigueiredoc",
+  "reelUrl": "https://www.instagram.com/reel/DU9EiqZiXin/",
+  "servings": 6,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "pudding",
+    "easter",
+    "brazilian"
+  ],
+  "status": "incomplete",
+  "statusNote": "No recipe is given. The ≈ amounts and steps are reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "white_chocolate",
+          "amount": 300,
+          "unit": "g",
+          "note": "for the egg shells",
+          "assumed": true
+        },
+        {
+          "ingredient": "condensed_milk",
+          "amount": 395,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "milk",
+          "amount": 395,
+          "unit": "ml",
+          "assumed": true
+        },
+        {
+          "ingredient": "egg",
+          "amount": 3,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "doce_de_leite",
+          "amount": 100,
+          "unit": "g",
+          "note": "or caramel, to fill the centre",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Coat egg moulds with melted white chocolate and let them set.",
+    "Blend the condensed milk, milk and eggs and bake in a water bath until set to make a pudim, then chill.",
+    "Fill the chocolate shells with pudim and a spoonful of caramel or doce de leite in the centre."
+  ]
+}

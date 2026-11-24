@@ -1,0 +1,76 @@
+{
+  "id": "DYU_s9dsHVo",
+  "kind": "recipe",
+  "title": "Leftover lemon cookies",
+  "language": "en",
+  "creator": "cookingwithbello",
+  "reelUrl": "https://www.instagram.com/reel/DYU_s9dsHVo/",
+  "servings": 20,
+  "servingsEstimated": true,
+  "yield": "about 20 cookies",
+  "tags": [
+    "dessert",
+    "cookies",
+    "baking",
+    "lemon",
+    "zero-waste"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "lemon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "leftover squeezed lemon halves"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 85,
+          "unit": "g"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 280,
+          "unit": "g"
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "for chewy cookies (or 1 egg and 60 ml lemon juice)",
+          "optional": true
+        },
+        {
+          "ingredient": "powdered_sugar",
+          "amount": 30,
+          "unit": "g",
+          "note": "for rolling",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Boil the lemon scraps for 15 minutes, then blend them with the sugar and oil (add the eggs now for chewy cookies).",
+    "Mix in the flour, baking powder and salt.",
+    "Shape into cookies, roll them in powdered sugar and bake at 180 °C for 15–20 minutes until golden."
+  ],
+  "notes": "Idea from @ilgolosomangiaresano."
+}

@@ -1,0 +1,78 @@
+{
+  "id": "DWClgiEjs8-",
+  "kind": "recipe",
+  "title": "Pão de queijo de flocão no liquidificador",
+  "language": "pt",
+  "creator": "receitassdevo",
+  "reelUrl": "https://www.instagram.com/reel/DWClgiEjs8-/",
+  "servings": 15,
+  "servingsEstimated": true,
+  "tags": [
+    "snack",
+    "brazilian",
+    "cheese",
+    "baking",
+    "gluten-free"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "flocao",
+          "amount": 1,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "water",
+          "unit": "to-taste",
+          "note": "to cover"
+        },
+        {
+          "ingredient": "milk",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "ingredient": "vegetable_oil",
+          "amount": 120,
+          "unit": "ml"
+        },
+        {
+          "ingredient": "mozzarella",
+          "amount": 1,
+          "unit": "cup",
+          "note": "grated"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "polvilho_azedo",
+          "amount": 3,
+          "unit": "cup",
+          "note": "sweet polvilho, added gradually"
+        },
+        {
+          "ingredient": "parmesan",
+          "amount": 150,
+          "unit": "g",
+          "note": "grated, to coat"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cover the flocão with water and the salt, stir and leave 15 minutes to hydrate, then put it in the blender.",
+    "Bring the milk and oil to the boil, pour into the blender and blend with the flocão for 5 minutes.",
+    "Transfer to a bowl, add the mozzarella and egg, then the polvilho gradually, kneading by hand when it gets thick.",
+    "Roll into balls, coat in grated Parmesan and bake in a preheated oven at 180 °C for 25–30 minutes."
+  ]
+}

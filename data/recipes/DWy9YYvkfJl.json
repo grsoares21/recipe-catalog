@@ -1,0 +1,66 @@
+{
+  "id": "DWy9YYvkfJl",
+  "kind": "recipe",
+  "title": "Manteiga de tomate",
+  "language": "pt",
+  "creator": "gigivilela",
+  "reelUrl": "https://www.instagram.com/reel/DWy9YYvkfJl/",
+  "servings": 30,
+  "servingsEstimated": true,
+  "yield": "about 600 g",
+  "tags": [
+    "basics",
+    "condiment",
+    "make-ahead",
+    "tomatoes"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "cherry_tomato",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 1,
+          "unit": "piece",
+          "note": "whole head, peeled"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 4,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "basil",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "lemon_pepper",
+          "amount": 2,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "butter",
+          "amount": 300,
+          "unit": "g",
+          "note": "softened"
+        },
+        {
+          "ingredient": "honey",
+          "amount": 2,
+          "unit": "tbsp"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Roast the tomatoes and garlic cloves with the olive oil until soft and blistered.",
+    "Mash or blend them with the basil, lemon pepper, honey and softened butter.",
+    "Shape in baking paper or pack into a sterilised jar. Keeps 1–2 weeks in the fridge or 3 months in the freezer."
+  ],
+  "notes": "Homemade lemon pepper: dry lemon peel in the oven at 100 °C, then grind it with black pepper."
+}

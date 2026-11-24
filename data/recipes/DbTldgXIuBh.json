@@ -1,0 +1,54 @@
+{
+  "id": "DbTldgXIuBh",
+  "kind": "recipe",
+  "title": "2-minute protein brownie",
+  "language": "en",
+  "creator": "stephenhewittcoaching",
+  "reelUrl": "https://www.instagram.com/reel/DbTldgXIuBh/",
+  "servings": 1,
+  "tags": [
+    "dessert",
+    "high-protein",
+    "microwave",
+    "quick"
+  ],
+  "status": "incomplete",
+  "statusNote": "The caption gives ingredients only. The microwave method is the usual one for mug brownies.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "egg",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "greek_yogurt",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "ingredient": "cocoa_powder",
+          "amount": 20,
+          "unit": "g"
+        },
+        {
+          "ingredient": "maple_syrup",
+          "amount": 20,
+          "unit": "g",
+          "note": "sugar-free"
+        },
+        {
+          "ingredient": "protein_powder",
+          "amount": 30,
+          "unit": "g",
+          "note": "whey"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix everything into a smooth batter in a microwave-safe bowl.",
+    "Microwave for about 2 minutes, until just set."
+  ]
+}

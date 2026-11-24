@@ -1,0 +1,61 @@
+{
+  "id": "DcWoNwJIKa9",
+  "kind": "recipe",
+  "title": "Nidos vegetales",
+  "language": "es",
+  "creator": "jorgesaludable",
+  "reelUrl": "https://www.instagram.com/reel/DcWoNwJIKa9/",
+  "servings": 2,
+  "servingsEstimated": true,
+  "tags": [
+    "dinner",
+    "vegetarian",
+    "air-fryer",
+    "gluten-free"
+  ],
+  "status": "incomplete",
+  "statusNote": "The caption gives no shaping method. The steps are reconstructed for the air fryer.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "zucchini",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "carrot",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "potato",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "cornstarch",
+          "amount": 0.25,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "parmesan",
+          "amount": 0.5,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "medium"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Grate the zucchini, carrot and potato and squeeze out as much water as you can.",
+    "Mix with the cornstarch, Parmesan and eggs.",
+    "Shape into small nests on air-fryer paper.",
+    "Air-fry at 180 °C for 15 minutes."
+  ]
+}

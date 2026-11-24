@@ -1,0 +1,45 @@
+{
+  "id": "DVXN4pejnYk",
+  "kind": "recipe",
+  "title": "Confit eggs",
+  "language": "en",
+  "creator": "byrontalbott",
+  "reelUrl": "https://www.instagram.com/reel/DVXN4pejnYk/",
+  "servings": 2,
+  "servingsEstimated": true,
+  "tags": [
+    "eggs",
+    "technique"
+  ],
+  "status": "incomplete",
+  "statusNote": "The full recipe is on the creator's Substack. The ≈ amounts and steps are reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "egg_yolk",
+          "amount": 4,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 1,
+          "unit": "tbsp",
+          "assumed": true,
+          "note": "absorbed; you need about 200 ml to confit the yolks (reuse it after)"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste",
+          "note": "flaky"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Warm the olive oil to a low temperature (about 60 °C).",
+    "Slip the yolks into the oil and confit them gently until thickened but still runny.",
+    "Lift out, season with flaky salt and use on toast, pasta, rice or salads."
+  ],
+  "notes": "Save the whites for meringue."
+}

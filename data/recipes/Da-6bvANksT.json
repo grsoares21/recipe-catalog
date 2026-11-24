@@ -1,0 +1,98 @@
+{
+  "id": "Da-6bvANksT",
+  "kind": "recipe",
+  "title": "Roasted apricots with burrata",
+  "language": "en",
+  "creator": "notimefoodie",
+  "reelUrl": "https://www.instagram.com/reel/Da-6bvANksT/",
+  "servings": 3,
+  "yield": "serves 2–4 as a starter",
+  "tags": [
+    "starter",
+    "vegetarian",
+    "fruit",
+    "cheese"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "apricot",
+          "amount": 8,
+          "unit": "piece",
+          "note": "halved and pitted"
+        },
+        {
+          "ingredient": "honey",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "thyme",
+          "amount": 4,
+          "unit": "sprig"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        }
+      ]
+    },
+    {
+      "name": "Pickled shallots",
+      "items": [
+        {
+          "ingredient": "shallot",
+          "amount": 1,
+          "unit": "piece",
+          "note": "thinly sliced"
+        },
+        {
+          "ingredient": "red_wine_vinegar",
+          "amount": 2,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "name": "To serve",
+      "items": [
+        {
+          "ingredient": "burrata",
+          "amount": 2,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "pine_nuts",
+          "amount": 70,
+          "unit": "g",
+          "note": "toasted"
+        },
+        {
+          "ingredient": "bread",
+          "amount": 6,
+          "unit": "slice",
+          "note": "baguette or other fresh bread",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat the oven to 200 °C. Lay the apricot halves cut-side up in a baking dish, drizzle with oil and honey, season with salt and scatter over the thyme.",
+    "Bake 15 minutes until soft and lightly caramelised.",
+    "Meanwhile, mix the shallot with the vinegar and leave to pickle for 15 minutes.",
+    "Tear the burrata over a plate, top with the warm apricots and their juices, the pickled shallots and pine nuts.",
+    "Season and serve straight away with crusty bread."
+  ]
+}

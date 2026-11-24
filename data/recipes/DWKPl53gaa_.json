@@ -1,0 +1,77 @@
+{
+  "id": "DWKPl53gaa_",
+  "kind": "recipe",
+  "title": "Pizza da vovó",
+  "language": "pt",
+  "creator": "receitassdevo",
+  "reelUrl": "https://www.instagram.com/reel/DWKPl53gaa_/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "yield": "2 pizzas",
+  "tags": [
+    "main",
+    "pizza",
+    "baking",
+    "dough"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "water",
+          "amount": 1,
+          "unit": "cup",
+          "note": "warm"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "heaped"
+        },
+        {
+          "ingredient": "instant_yeast",
+          "amount": 5,
+          "unit": "g",
+          "note": "½ packet"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 3,
+          "unit": "cup",
+          "note": "sifted"
+        },
+        {
+          "ingredient": "tomato_passata",
+          "amount": 200,
+          "unit": "g",
+          "note": "for topping",
+          "assumed": true
+        },
+        {
+          "ingredient": "mozzarella",
+          "amount": 200,
+          "unit": "g",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix the water, olive oil, yeast, salt and sugar, then add the flour gradually.",
+    "Knead for 5 minutes until smooth and no longer sticky.",
+    "Cover and let rise 30–40 minutes.",
+    "Divide in two, roll into discs, top with sauce and cheese and bake in a very hot oven until golden."
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "DfZwbWOoYAc",
+  "kind": "recipe",
+  "title": "Hasselback butternut squash with tofu & bean ricotta",
+  "language": "en",
+  "creator": "vegangirlboss",
+  "reelUrl": "https://www.instagram.com/reel/DfZwbWOoYAc/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "tags": [
+    "brunch",
+    "main",
+    "vegan",
+    "high-protein",
+    "baked"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Squash",
+      "items": [
+        {
+          "ingredient": "butternut_squash",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 3,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "garlic_powder",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "paprika",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "thyme",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "pecans",
+          "amount": 30,
+          "unit": "g",
+          "note": "to serve",
+          "assumed": true
+        }
+      ]
+    },
+    {
+      "name": "Tofu & bean ricotta",
+      "items": [
+        {
+          "ingredient": "tofu_firm",
+          "amount": 450,
+          "unit": "g"
+        },
+        {
+          "ingredient": "white_beans",
+          "amount": 200,
+          "unit": "g",
+          "note": "cooked"
+        },
+        {
+          "ingredient": "water",
+          "amount": 7,
+          "unit": "tbsp",
+          "note": "6–8 tbsp"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "zest of 1, juice of ½"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Halve the squash, peel it and scoop out the seeds. Pre-bake at 180 °C for 10–12 minutes to soften slightly.",
+    "Lay a wooden spoon or chopstick along each side and cut thin slices, stopping before you cut all the way through.",
+    "Mix the olive oil with the spices, brush it all over and roast at 200 °C for 50–60 minutes until tender.",
+    "Blend the ricotta ingredients for 2–3 minutes until silky. If it's grainy, add water or oil a tablespoon at a time, and season well.",
+    "Swirl the ricotta over a plate, set the squash on top and finish with pecans and a drizzle of olive oil."
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "DV9VqWjClLf",
+  "kind": "recipe",
+  "title": "Geleia de pimenta com manga",
+  "language": "pt",
+  "creator": "andressaschuchh",
+  "reelUrl": "https://www.instagram.com/reel/DV9VqWjClLf/",
+  "servings": 15,
+  "servingsEstimated": true,
+  "yield": "1 small jar",
+  "tags": [
+    "condiment",
+    "spicy",
+    "mango",
+    "make-ahead"
+  ],
+  "status": "incomplete",
+  "statusNote": "The caption doesn't include the method. The steps are the usual method for pepper jam.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "chili_pepper",
+          "amount": 4,
+          "unit": "piece",
+          "note": "dedo-de-moça, seeded (use gloves)"
+        },
+        {
+          "ingredient": "mango",
+          "amount": 300,
+          "unit": "g",
+          "note": "peeled and diced"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "ingredient": "lime",
+          "amount": 1,
+          "unit": "piece",
+          "note": "juice"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch"
+        },
+        {
+          "ingredient": "cachaca",
+          "amount": 25,
+          "unit": "ml",
+          "note": "half a shot",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Finely chop the chillies (wear gloves and keep your hands away from your eyes).",
+    "Cook the mango, chillies, sugar, lime juice and salt over medium heat, stirring, until thick and jammy.",
+    "Add the cachaça at the end if using, cook a minute more and jar."
+  ]
+}

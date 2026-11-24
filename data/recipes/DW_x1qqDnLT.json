@@ -1,0 +1,73 @@
+{
+  "id": "DW_x1qqDnLT",
+  "kind": "recipe",
+  "title": "Kimchi carbonara",
+  "language": "en",
+  "creator": "albert_cancook",
+  "reelUrl": "https://www.instagram.com/reel/DW_x1qqDnLT/",
+  "servings": 2,
+  "servingsEstimated": true,
+  "tags": [
+    "main",
+    "pasta",
+    "korean",
+    "fusion"
+  ],
+  "status": "incomplete",
+  "statusNote": "No recipe is given. The ≈ amounts and steps are reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "dried_pasta",
+          "amount": 200,
+          "unit": "g",
+          "note": "spaghetti",
+          "assumed": true
+        },
+        {
+          "ingredient": "guanciale",
+          "amount": 100,
+          "unit": "g",
+          "note": "diced",
+          "assumed": true
+        },
+        {
+          "ingredient": "kimchi",
+          "amount": 150,
+          "unit": "g",
+          "note": "chopped",
+          "assumed": true
+        },
+        {
+          "ingredient": "egg_yolk",
+          "amount": 4,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "pecorino",
+          "amount": 50,
+          "unit": "g",
+          "note": "grated",
+          "assumed": true
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "spring_onion",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Render the guanciale until crisp, then fry the kimchi in the fat.",
+    "Mix the yolks with the grated cheese and pepper.",
+    "Toss the cooked pasta with the kimchi and guanciale, then off the heat with the yolk mixture and pasta water until creamy.",
+    "Finish with spring onion."
+  ]
+}

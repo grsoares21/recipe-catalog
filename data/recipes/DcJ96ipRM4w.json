@@ -1,0 +1,64 @@
+{
+  "id": "DcJ96ipRM4w",
+  "kind": "recipe",
+  "title": "Creme de alho confitado para pão de alho",
+  "language": "pt",
+  "creator": "gigivilela",
+  "reelUrl": "https://www.instagram.com/reel/DcJ96ipRM4w/",
+  "servings": 8,
+  "servingsEstimated": true,
+  "tags": [
+    "spread",
+    "garlic",
+    "air-fryer"
+  ],
+  "status": "incomplete",
+  "statusNote": "The creator gives no amounts. The ≈ amounts are estimates.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "garlic",
+          "amount": 2,
+          "unit": "piece",
+          "note": "heads, peeled",
+          "assumed": true
+        },
+        {
+          "ingredient": "thyme",
+          "amount": 2,
+          "unit": "sprig",
+          "assumed": true
+        },
+        {
+          "ingredient": "rosemary",
+          "amount": 1,
+          "unit": "sprig",
+          "assumed": true
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 100,
+          "unit": "ml",
+          "assumed": true
+        },
+        {
+          "ingredient": "ricotta_cream",
+          "amount": 150,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Put the peeled garlic, thyme and rosemary in a small heatproof pot and cover with olive oil.",
+    "Air-fry until the garlic is soft and golden.",
+    "Blend the garlic (with a little of the oil) with ricotta cream and salt.",
+    "Spread on bread and toast, or use it on salads, pasta and meat."
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "DTd4CuIj2-9",
+  "kind": "recipe",
+  "title": "Bolota proteica recheada",
+  "language": "pt",
+  "creator": "brunascimentos",
+  "reelUrl": "https://www.instagram.com/reel/DTd4CuIj2-9/",
+  "servings": 5,
+  "yield": "5 balls of 120 g",
+  "tags": [
+    "snack",
+    "high-protein",
+    "chicken",
+    "low-carb",
+    "air-fryer"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Balls",
+      "items": [
+        {
+          "ingredient": "chicken_breast_cooked",
+          "amount": 500,
+          "unit": "g",
+          "note": "shredded and seasoned"
+        },
+        {
+          "ingredient": "requeijao",
+          "amount": 100,
+          "unit": "g",
+          "note": "light"
+        },
+        {
+          "ingredient": "queijo_minas",
+          "amount": 100,
+          "unit": "g",
+          "note": "light, 20 g in each"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "beaten",
+          "optional": true
+        },
+        {
+          "ingredient": "panko",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "name": "Protein mayo",
+      "items": [
+        {
+          "ingredient": "egg",
+          "amount": 3,
+          "unit": "piece",
+          "note": "hard-boiled"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "juice, or vinegar"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 1,
+          "unit": "clove",
+          "note": "cooked"
+        },
+        {
+          "ingredient": "requeijao",
+          "amount": 100,
+          "unit": "g",
+          "note": "light"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix the chicken and requeijão and divide into 5 portions of 120 g.",
+    "Fill each with 20 g of cheese and shape into balls.",
+    "Dip in egg and panko if you like, and air-fry for about 13 minutes until golden (or bake).",
+    "Mayo: blend all the ingredients until smooth."
+  ],
+  "creatorNutrition": {
+    "kcal": 250.0,
+    "protein": 38.0,
+    "carbs": 1.0,
+    "fat": 9.0,
+    "fiber": 0.0,
+    "per": "ball"
+  },
+  "notes": "To freeze, wrap in plastic and air-fry straight from frozen."
+}

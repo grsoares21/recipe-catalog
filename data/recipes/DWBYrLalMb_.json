@@ -1,0 +1,44 @@
+{
+  "id": "DWBYrLalMb_",
+  "kind": "recipe",
+  "title": "Café com pimenta",
+  "language": "pt",
+  "creator": "cafezura",
+  "reelUrl": "https://www.instagram.com/reel/DWBYrLalMb_/",
+  "servings": 1,
+  "tags": [
+    "drink",
+    "coffee"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "ground_coffee",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "ingredient": "black_pepper",
+          "amount": 2,
+          "unit": "piece",
+          "note": "a few whole peppercorns, lightly crushed",
+          "assumed": true
+        },
+        {
+          "ingredient": "water",
+          "amount": 250,
+          "unit": "ml",
+          "note": "hot"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Put the pepper directly on top of the ground coffee, before brewing.",
+    "Pour the water through so it passes through the coffee and pepper together.",
+    "The heat almost disappears, leaving a fresh, slightly warming finish and a softer bitterness."
+  ],
+  "notes": "A traditional way of drinking coffee in Morocco and Ethiopia."
+}

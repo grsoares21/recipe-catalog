@@ -1,0 +1,61 @@
+{
+  "id": "DdCpanTuwLd",
+  "kind": "recipe",
+  "title": "Ovo cozido gratinado com tomate",
+  "language": "pt",
+  "creator": "sarahmbonet",
+  "reelUrl": "https://www.instagram.com/reel/DdCpanTuwLd/",
+  "servings": 1,
+  "tags": [
+    "breakfast",
+    "snack",
+    "eggs",
+    "quick",
+    "high-protein"
+  ],
+  "status": "incomplete",
+  "statusNote": "The caption lists ingredients only. The steps are reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "hard-boiled"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "dried_oregano",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "tomato",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "diced"
+        },
+        {
+          "ingredient": "requeijao",
+          "amount": 2,
+          "unit": "tsp",
+          "note": "light"
+        },
+        {
+          "ingredient": "mozzarella",
+          "amount": 3,
+          "unit": "slice"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Halve the boiled eggs and place them in a small dish.",
+    "Season with salt and oregano, top with the tomato and a little requeijão.",
+    "Cover with the mozzarella and melt it in the air fryer, oven or microwave."
+  ],
+  "notes": "Recipe seen on @bella.camargo's profile."
+}

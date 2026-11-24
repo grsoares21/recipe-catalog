@@ -1,0 +1,117 @@
+{
+  "id": "DbVlHrKpold",
+  "kind": "recipe",
+  "title": "Salted caramel cheesecake",
+  "language": "en",
+  "creator": "bakedbyyu_",
+  "reelUrl": "https://www.instagram.com/reel/DbVlHrKpold/",
+  "servings": 10,
+  "servingsEstimated": true,
+  "yield": "18 cm cheesecake",
+  "tags": [
+    "dessert",
+    "cheesecake",
+    "baking",
+    "caramel"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Salted caramel",
+      "items": [
+        {
+          "ingredient": "sugar",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "ingredient": "unsalted_butter",
+          "amount": 85,
+          "unit": "g",
+          "note": "cubed, room temperature"
+        },
+        {
+          "ingredient": "double_cream",
+          "amount": 120,
+          "unit": "ml",
+          "note": "warm"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "note": "flaky sea salt"
+        }
+      ]
+    },
+    {
+      "name": "Crust",
+      "items": [
+        {
+          "ingredient": "speculoos_biscuits",
+          "amount": 200,
+          "unit": "g",
+          "note": "about 32 Biscoff cookies"
+        },
+        {
+          "ingredient": "unsalted_butter",
+          "amount": 80,
+          "unit": "g",
+          "note": "melted"
+        }
+      ]
+    },
+    {
+      "name": "Cheesecake",
+      "items": [
+        {
+          "ingredient": "cream_cheese",
+          "amount": 400,
+          "unit": "g",
+          "note": "room temperature"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "ingredient": "sour_cream",
+          "amount": 100,
+          "unit": "g",
+          "note": "plus 1–2 heaped tbsp of the salted caramel"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "large"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 1,
+          "unit": "tbsp"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Caramel: melt the sugar in a saucepan over medium heat, stirring now and then, until amber. Lower the heat, whisk in the butter, then slowly the cream. Off the heat, stir in the salt and let it cool.",
+    "Crust: crush the biscuits, mix with the melted butter and press into the bottom and sides of a lined 18 cm tin. Freeze until needed.",
+    "Beat the cream cheese and sugar until smooth, then add the sour cream, 1–2 tbsp caramel, vanilla and salt.",
+    "Beat in the eggs one at a time, then the flour.",
+    "Pour over the crust, wrap the bottom of the tin in foil and bake in a water bath at 160 °C for 50–55 minutes.",
+    "Turn off the oven and leave the cheesecake inside for 1 hour with the door ajar. Cool completely and chill overnight.",
+    "Spread the remaining caramel on top and finish with flaky salt."
+  ]
+}

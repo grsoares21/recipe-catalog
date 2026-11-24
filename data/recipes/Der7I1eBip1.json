@@ -1,0 +1,124 @@
+{
+  "id": "Der7I1eBip1",
+  "kind": "recipe",
+  "title": "Pull-apart garlic bread",
+  "language": "en",
+  "creator": "dr.vegan",
+  "reelUrl": "https://www.instagram.com/reel/Der7I1eBip1/",
+  "sourceUrl": "https://www.drveganblog.com/pull-apart-garlic-bread/",
+  "servings": 8,
+  "yield": "24 pieces in a 23 × 13 cm loaf tin",
+  "tags": [
+    "baking",
+    "bread",
+    "vegan",
+    "side"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Dough",
+      "items": [
+        {
+          "ingredient": "soy_milk",
+          "amount": 0.75,
+          "unit": "cup",
+          "note": "unsweetened, lukewarm"
+        },
+        {
+          "ingredient": "instant_yeast",
+          "amount": 1.125,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "vegan_butter",
+          "amount": 2.67,
+          "unit": "tbsp",
+          "note": "melted and cooled"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 250,
+          "unit": "g",
+          "note": "plus up to ½ cup more if needed"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 0.5,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "name": "Garlic coating",
+      "items": [
+        {
+          "ingredient": "garlic",
+          "amount": 2,
+          "unit": "piece",
+          "note": "whole heads, peeled"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "plus about ½ cup to confit the garlic"
+        },
+        {
+          "ingredient": "vegan_butter",
+          "amount": 0.25,
+          "unit": "cup",
+          "note": "softened"
+        },
+        {
+          "ingredient": "parsley",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "finely chopped"
+        },
+        {
+          "ingredient": "dried_oregano",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "black_pepper",
+          "amount": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "chili_flakes",
+          "amount": 0.25,
+          "unit": "tsp",
+          "optional": true
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "vegan_parmesan",
+          "amount": 0.5,
+          "unit": "cup",
+          "note": "finely grated"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Dough: mix the warm milk, yeast and sugar, then the melted butter, salt and 2 cups (250 g) of flour. Knead 5–8 minutes until elastic, adding flour a spoon at a time only if needed.",
+    "Leave in an oiled, covered bowl somewhere warm for 60–90 minutes, until doubled.",
+    "Cover the garlic cloves with olive oil and bake covered at 160 °C for 45–60 minutes (or on the lowest heat on the stove for 30–40 minutes) until soft.",
+    "Mash the garlic with the soft butter and 1 tbsp of the garlic oil, then stir in the parsley, oregano, pepper, chilli flakes and salt to taste.",
+    "Grease and line the loaf tin. Divide the dough into 24 pieces, roll into balls, coat each in garlic butter, then in the Parmesan, and arrange loosely in two layers.",
+    "Cover and leave for 30–45 minutes until puffy, heating the oven to 175 °C.",
+    "Bake for 40–50 minutes until golden and cooked in the centre, covering with foil if it browns too fast.",
+    "Rest 10 minutes, lift out, sprinkle with parsley and serve warm."
+  ],
+  "notes": "The creator lists 270 kcal per serving."
+}

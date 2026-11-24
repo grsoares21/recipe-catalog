@@ -1,0 +1,98 @@
+{
+  "id": "Dd1jsGLIHV3",
+  "kind": "recipe",
+  "title": "Spooky Clown Brie Charcuterie Board",
+  "language": "en",
+  "creator": "mysnackcorner1",
+  "reelUrl": "https://www.instagram.com/reel/Dd1jsGLIHV3/",
+  "servings": 8,
+  "servingsEstimated": true,
+  "tags": [
+    "snack",
+    "party",
+    "cheese",
+    "halloween"
+  ],
+  "status": "incomplete",
+  "statusNote": "A board to assemble, with no amounts.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "brie",
+          "amount": 1,
+          "unit": "piece",
+          "note": "whole wheel"
+        },
+        {
+          "ingredient": "cherries",
+          "unit": "to-taste",
+          "note": "one for the nose"
+        },
+        {
+          "ingredient": "cookies",
+          "unit": "to-taste",
+          "note": "for the eyes",
+          "optional": true
+        },
+        {
+          "ingredient": "olives",
+          "unit": "to-taste",
+          "optional": true
+        },
+        {
+          "ingredient": "mortadella",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "prosciutto",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "blackberries",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "figs",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "crackers",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "blue_cheese",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "walnuts",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "almonds",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "dried_apricots",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "stuffed_vine_leaves",
+          "unit": "to-taste",
+          "optional": true
+        },
+        {
+          "ingredient": "rosemary",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Decorate the brie wheel as a clown face: cookie and olive eyes, a cherry nose, a wicked smile and a few cracks.",
+    "Set it in the middle of a board and fold the mortadella and prosciutto around it.",
+    "Fill the gaps with blackberries, figs, crackers, blue cheese, nuts, dried apricots and stuffed vine leaves.",
+    "Garnish with rosemary and herbs."
+  ]
+}

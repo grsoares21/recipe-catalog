@@ -1,0 +1,129 @@
+{
+  "id": "DZ-NTSzRgMx",
+  "kind": "recipe",
+  "title": "Arroz com grão-de-bico, leite de coco e cebola caramelizada",
+  "language": "pt",
+  "creator": "jucoutto",
+  "reelUrl": "https://www.instagram.com/reel/DZ-NTSzRgMx/",
+  "servings": 6,
+  "servingsEstimated": true,
+  "tags": [
+    "main",
+    "vegan",
+    "rice",
+    "chickpeas",
+    "meal-prep"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Rice",
+      "items": [
+        {
+          "ingredient": "rice",
+          "amount": 1,
+          "unit": "cup",
+          "note": "white"
+        },
+        {
+          "ingredient": "chickpeas",
+          "amount": 2,
+          "unit": "piece",
+          "note": "cans, rinsed"
+        },
+        {
+          "ingredient": "coconut_milk",
+          "amount": 200,
+          "unit": "ml",
+          "note": "plus 200 ml water"
+        },
+        {
+          "ingredient": "water",
+          "amount": 2,
+          "unit": "cup",
+          "note": "hot"
+        },
+        {
+          "ingredient": "red_pepper",
+          "amount": 1,
+          "unit": "piece",
+          "note": "chopped"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 4,
+          "unit": "clove"
+        },
+        {
+          "ingredient": "ginger",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "chopped"
+        },
+        {
+          "ingredient": "cumin",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "turmeric",
+          "amount": 2,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "allspice",
+          "amount": 2,
+          "unit": "tsp",
+          "note": "pimenta síria"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 0.25,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "coriander",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "assumed": true
+        }
+      ]
+    },
+    {
+      "name": "Caramelised onions",
+      "items": [
+        {
+          "ingredient": "vegetable_oil",
+          "amount": 4,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "onion",
+          "amount": 3,
+          "unit": "piece",
+          "note": "white, thinly sliced"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Fry the garlic and ginger in olive oil, add the chopped pepper and brown well.",
+    "Add the dry spices and stir for a few minutes, then add the rice and 2 cups of hot water. Season with salt and cook.",
+    "When the rice is almost dry, add the chickpeas with the coconut milk and 200 ml water and let it come together for a few minutes.",
+    "Finish with lemon and coriander.",
+    "Onions: cook the onions in the oil, stirring patiently, until deeply caramelised and reduced. Salt at the end and pile on top of the rice."
+  ],
+  "notes": "Makes a big batch that freezes well."
+}

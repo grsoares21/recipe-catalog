@@ -1,0 +1,34 @@
+{
+  "id": "DZyCvgtNd8Y",
+  "kind": "recipe",
+  "title": "Batata-doce assada à japonesa",
+  "language": "pt",
+  "creator": "cozinhatina",
+  "reelUrl": "https://www.instagram.com/reel/DZyCvgtNd8Y/",
+  "servings": 2,
+  "servingsEstimated": true,
+  "tags": [
+    "side",
+    "sweet-potato",
+    "baked",
+    "vegan"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "sweet_potato",
+          "amount": 2,
+          "unit": "piece"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cut off both ends and score a cut all around the middle.",
+    "Roast at 190 °C for 20 minutes.",
+    "Plunge straight into ice-cold water for 2 minutes.",
+    "Roast another 20 minutes. It caramelises in its own sugars."
+  ]
+}

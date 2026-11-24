@@ -1,0 +1,71 @@
+{
+  "id": "DTtVjuejiMh",
+  "kind": "recipe",
+  "title": "Gema confitada",
+  "language": "pt",
+  "creator": "fabiobarbero",
+  "reelUrl": "https://www.instagram.com/reel/DTtVjuejiMh/",
+  "servings": 2,
+  "tags": [
+    "breakfast",
+    "eggs",
+    "toast"
+  ],
+  "status": "incomplete",
+  "statusNote": "The creator doesn't give the time or temperature. The ≈ amounts and steps are reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "egg_yolk",
+          "amount": 3,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "absorbed; you need about 200 ml to confit the yolks (reuse it after)",
+          "assumed": true
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "peel",
+          "assumed": true
+        },
+        {
+          "ingredient": "rosemary",
+          "amount": 2,
+          "unit": "sprig",
+          "assumed": true
+        },
+        {
+          "ingredient": "pink_peppercorns",
+          "amount": 1,
+          "unit": "tsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "bread",
+          "amount": 3,
+          "unit": "slice",
+          "note": "toasted",
+          "assumed": true
+        },
+        {
+          "ingredient": "parmesan",
+          "unit": "to-taste",
+          "note": "grated",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Warm the olive oil gently with lemon peel, rosemary and pink peppercorns.",
+    "Slip the yolks into the warm (not hot) oil and confit them at low temperature until thick and jammy but still soft.",
+    "Spread a yolk on each slice of toast and finish with grated cheese."
+  ]
+}

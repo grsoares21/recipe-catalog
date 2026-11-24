@@ -1,0 +1,66 @@
+{
+  "id": "DaS-2PjBkJ9",
+  "kind": "recipe",
+  "title": "Aglio e olio (emulsified)",
+  "language": "en",
+  "creator": "chefitalianochannel",
+  "reelUrl": "https://www.instagram.com/reel/DaS-2PjBkJ9/",
+  "servings": 2,
+  "servingsEstimated": true,
+  "tags": [
+    "main",
+    "pasta",
+    "italian",
+    "garlic"
+  ],
+  "status": "incomplete",
+  "statusNote": "The full recipe is on the creator's Substack. The ≈ amounts and steps are reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "dried_pasta",
+          "amount": 200,
+          "unit": "g",
+          "note": "spaghetti",
+          "assumed": true
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 4,
+          "unit": "clove",
+          "note": "sliced",
+          "assumed": true
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 4,
+          "unit": "tbsp",
+          "note": "extra-virgin",
+          "assumed": true
+        },
+        {
+          "ingredient": "chili_flakes",
+          "amount": 0.5,
+          "unit": "tsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "parsley",
+          "unit": "to-taste",
+          "optional": true
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Blanch the sliced garlic in water for 1 minute and drain. Repeat 4 times to soften its bite.",
+    "Fry the garlic gently in olive oil with chilli.",
+    "Blend the garlic oil with a ladle of pasta water into a creamy emulsion.",
+    "Toss the cooked pasta in the pan with the emulsion and stir vigorously: the starch keeps it glossy, not greasy."
+  ]
+}

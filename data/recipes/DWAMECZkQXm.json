@@ -1,0 +1,63 @@
+{
+  "id": "DWAMECZkQXm",
+  "kind": "recipe",
+  "title": "Calzone proteico",
+  "language": "pt",
+  "creator": "camilleelis.r",
+  "reelUrl": "https://www.instagram.com/reel/DWAMECZkQXm/",
+  "servings": 1,
+  "tags": [
+    "lunch",
+    "high-protein",
+    "low-carb",
+    "chicken",
+    "air-fryer"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "ground_chicken",
+          "amount": 115,
+          "unit": "g"
+        },
+        {
+          "ingredient": "gouda",
+          "amount": 1,
+          "unit": "slice"
+        },
+        {
+          "ingredient": "mixed_vegetables",
+          "amount": 50,
+          "unit": "g",
+          "note": "any you like",
+          "assumed": true
+        },
+        {
+          "ingredient": "parmesan",
+          "amount": 0.5,
+          "unit": "cup",
+          "note": "grated"
+        },
+        {
+          "ingredient": "egg_yolk",
+          "amount": 1,
+          "unit": "piece",
+          "note": "beaten, to brush",
+          "optional": true
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Flatten the ground chicken into a thin circle on a sheet of non-stick paper.",
+    "Put the cheese and vegetables on one half and fold the other half over using the paper.",
+    "Brush with beaten yolk, cover both sides with Parmesan and air-fry at 200 °C for 15–20 minutes."
+  ],
+  "notes": "Recipe from @ketosnackz."
+}

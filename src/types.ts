@@ -82,7 +82,8 @@ export interface Nutrition extends Macros {
 }
 
 export interface Recipe extends RecipeSource {
-  photo: string;
+  /** Missing when the reel's thumbnail couldn't be fetched. */
+  photo?: string;
   nutrition?: Nutrition;
 }
 

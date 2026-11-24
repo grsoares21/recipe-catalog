@@ -1,0 +1,70 @@
+{
+  "id": "DZ1YgjLuKom",
+  "kind": "recipe",
+  "title": "Costelinha na panela do Fábio",
+  "language": "pt",
+  "creator": "fabiobarbero",
+  "reelUrl": "https://www.instagram.com/reel/DZ1YgjLuKom/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "tags": [
+    "main",
+    "pork",
+    "brazilian",
+    "one-pot"
+  ],
+  "status": "incomplete",
+  "statusNote": "The creator measures everything with the same can. The ≈ amounts are estimates.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "pork_ribs",
+          "amount": 1,
+          "unit": "kg",
+          "assumed": true
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 0.5,
+          "unit": "cup",
+          "note": "one can (any size), used as the measure",
+          "assumed": true
+        },
+        {
+          "ingredient": "vinegar",
+          "amount": 0.5,
+          "unit": "cup",
+          "note": "the same can",
+          "assumed": true
+        },
+        {
+          "ingredient": "soy_sauce",
+          "amount": 0.5,
+          "unit": "cup",
+          "note": "the same can, regular (salty) soy sauce",
+          "assumed": true
+        },
+        {
+          "ingredient": "water",
+          "amount": 1,
+          "unit": "cup",
+          "note": "about 2 cans",
+          "assumed": true
+        },
+        {
+          "ingredient": "mashed_potato",
+          "unit": "to-taste",
+          "note": "to serve",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Put the ribs in a regular pan with one can of sugar, one can of vinegar and one can of soy sauce, without browning or seasoning.",
+    "Add water to cover (less if the ribs aren't fatty) and cook, covered, until the meat is tender.",
+    "Uncover and reduce until the sauce is as thick as you like.",
+    "Serve with mashed potatoes."
+  ]
+}

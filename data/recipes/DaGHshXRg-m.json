@@ -1,0 +1,54 @@
+{
+  "id": "DaGHshXRg-m",
+  "kind": "recipe",
+  "title": "Cuscuz com ovo feito na peneira",
+  "language": "pt",
+  "creator": "brucduarte",
+  "reelUrl": "https://www.instagram.com/reel/DaGHshXRg-m/",
+  "servings": 1,
+  "tags": [
+    "breakfast",
+    "brazilian",
+    "eggs",
+    "gluten-free"
+  ],
+  "status": "incomplete",
+  "statusNote": "No recipe is given. The ≈ amounts and steps follow the usual method.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "flocao",
+          "amount": 60,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "water",
+          "amount": 80,
+          "unit": "ml",
+          "assumed": true
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "butter",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Hydrate the flocão with salted water for 10 minutes.",
+    "Steam it in a sieve set over a pan of simmering water, covered, for about 10 minutes.",
+    "Serve with a fried egg and a knob of butter."
+  ]
+}

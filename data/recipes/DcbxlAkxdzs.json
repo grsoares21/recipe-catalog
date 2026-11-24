@@ -1,0 +1,91 @@
+{
+  "id": "DcbxlAkxdzs",
+  "kind": "recipe",
+  "title": "Bolo de cenoura com flocão de milho",
+  "language": "pt",
+  "creator": "receitasdoyan",
+  "reelUrl": "https://www.instagram.com/reel/DcbxlAkxdzs/",
+  "servings": 10,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "cake",
+    "brazilian",
+    "gluten-free",
+    "carrots"
+  ],
+  "status": "incomplete",
+  "statusNote": "The caption doesn't give the method. The steps are a standard method for this kind of blender cake.",
+  "ingredientGroups": [
+    {
+      "name": "Cake",
+      "items": [
+        {
+          "ingredient": "flocao",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "ingredient": "desiccated_coconut",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "ingredient": "whey",
+          "amount": 170,
+          "unit": "ml",
+          "note": "liquid whey left over from homemade ricotta"
+        },
+        {
+          "ingredient": "carrot",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 3,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "butter",
+          "amount": 20,
+          "unit": "ml",
+          "note": "melted"
+        },
+        {
+          "ingredient": "dates",
+          "amount": 100,
+          "unit": "g",
+          "note": "pitted"
+        }
+      ]
+    },
+    {
+      "name": "Topping",
+      "items": [
+        {
+          "ingredient": "whole_milk_powder",
+          "amount": 3,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "cocoa_powder",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "level"
+        },
+        {
+          "ingredient": "sweetener",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Blend the carrot, eggs, whey, butter and dates until smooth.",
+    "Stir in the flocão and coconut and let the batter rest for a few minutes.",
+    "Pour into a greased tin and bake in a preheated oven at 180 °C for 30–40 minutes.",
+    "Topping: mix the milk powder and cocoa with a little water (and sweetener if you like) into a thick cream and spread over the cake."
+  ]
+}

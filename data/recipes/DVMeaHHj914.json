@@ -1,0 +1,95 @@
+{
+  "id": "DVMeaHHj914",
+  "kind": "recipe",
+  "title": "Salada crocante de milho",
+  "language": "pt",
+  "creator": "bettoauge",
+  "reelUrl": "https://www.instagram.com/reel/DVMeaHHj914/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "tags": [
+    "salad",
+    "side",
+    "vegetarian",
+    "air-fryer"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Dressing",
+      "items": [
+        {
+          "ingredient": "yogurt",
+          "amount": 340,
+          "unit": "g",
+          "note": "2 pots, plain"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "extra-virgin"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 0.5,
+          "unit": "piece",
+          "note": "juice"
+        },
+        {
+          "ingredient": "garlic_powder",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        }
+      ]
+    },
+    {
+      "name": "Salad",
+      "items": [
+        {
+          "ingredient": "corn",
+          "amount": 2,
+          "unit": "cup",
+          "note": "cooked, or canned"
+        },
+        {
+          "ingredient": "cucumber",
+          "amount": 1,
+          "unit": "piece",
+          "note": "seeded, diced"
+        },
+        {
+          "ingredient": "cherry_tomato",
+          "amount": 2,
+          "unit": "cup",
+          "note": "sliced"
+        },
+        {
+          "ingredient": "red_onion",
+          "amount": 0.5,
+          "unit": "piece",
+          "note": "chopped"
+        },
+        {
+          "ingredient": "parsley",
+          "amount": 0.5,
+          "unit": "cup",
+          "note": "fresh, chopped"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Air-fry the corn at 200 °C for about 16 minutes until crisp.",
+    "Mix with the cucumber, tomatoes, onion and parsley.",
+    "Whisk the dressing ingredients and pour over. Serve with crackers or crisps for dipping."
+  ]
+}

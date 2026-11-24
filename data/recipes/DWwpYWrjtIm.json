@@ -1,0 +1,45 @@
+{
+  "id": "DWwpYWrjtIm",
+  "kind": "recipe",
+  "title": "Sorvete de chocolate",
+  "language": "pt",
+  "creator": "igorochaoficial",
+  "reelUrl": "https://www.instagram.com/reel/DWwpYWrjtIm/",
+  "servings": 8,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "frozen",
+    "chocolate"
+  ],
+  "status": "incomplete",
+  "statusNote": "The method is only shown in the video. The steps are the usual custard-based method.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "double_cream",
+          "amount": 500,
+          "unit": "ml",
+          "note": "fresh"
+        },
+        {
+          "ingredient": "egg_yolk",
+          "amount": 4,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "semisweet_chocolate",
+          "amount": 400,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat the cream until steaming.",
+    "Whisk the yolks, pour in some hot cream while whisking, then return everything to the pan and stir over low heat until it thickens slightly.",
+    "Pour over the chopped chocolate and stir until smooth.",
+    "Cool, then freeze, stirring every 30–40 minutes for the first few hours (or churn in an ice-cream maker)."
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "DbblJPnOCeg",
+  "kind": "recipe",
+  "title": "Tomatatin",
+  "language": "en",
+  "creator": "abowlofstew",
+  "reelUrl": "https://www.instagram.com/reel/DbblJPnOCeg/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "yield": "24 cm pan",
+  "tags": [
+    "main",
+    "vegetarian",
+    "tomatoes",
+    "baking"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "tomato",
+          "amount": 4.5,
+          "unit": "piece",
+          "note": "cut into 2 cm slices"
+        },
+        {
+          "ingredient": "shallot",
+          "amount": 1.5,
+          "unit": "piece",
+          "note": "cut into 2 cm slices"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 2,
+          "unit": "clove",
+          "note": "thinly sliced"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste",
+          "note": "a big pinch"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "balsamic_vinegar",
+          "amount": 4,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "honey",
+          "amount": 3,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "basil",
+          "unit": "to-taste",
+          "note": "a small bunch"
+        },
+        {
+          "ingredient": "puff_pastry",
+          "amount": 1,
+          "unit": "piece",
+          "note": "pre-rolled, cut to the pan"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "feta",
+          "unit": "to-taste",
+          "note": "crumbled, to garnish",
+          "optional": true
+        },
+        {
+          "ingredient": "balsamic_glaze",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Fry the tomatoes and shallots in the oil over medium-low heat with a big pinch of salt for 5 minutes to draw out moisture.",
+    "Add the garlic, pepper, honey and balsamic on top and simmer 5 minutes without stirring.",
+    "Turn off the heat, lay basil leaves over and cover with the puff pastry. Prick it, tuck in the sides and bake at 190 °C for 25 minutes.",
+    "Rest 5 minutes, then turn out onto a plate. Finish with basil, feta and balsamic glaze."
+  ]
+}

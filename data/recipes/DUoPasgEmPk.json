@@ -1,0 +1,69 @@
+{
+  "id": "DUoPasgEmPk",
+  "kind": "recipe",
+  "title": "Biscoito de fubá com creme de leite",
+  "language": "pt",
+  "creator": "luanaofcsousa",
+  "reelUrl": "https://www.instagram.com/reel/DUoPasgEmPk/",
+  "servings": 10,
+  "servingsEstimated": true,
+  "tags": [
+    "snack",
+    "brazilian",
+    "gluten-free",
+    "cheese"
+  ],
+  "status": "incomplete",
+  "statusNote": "The method is only shown in the video. The steps are the usual scalded-dough method.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "cornmeal",
+          "amount": 1,
+          "unit": "cup",
+          "note": "fubá"
+        },
+        {
+          "ingredient": "creme_de_leite",
+          "amount": 200,
+          "unit": "g",
+          "note": "1 box"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch"
+        },
+        {
+          "ingredient": "polvilho_azedo",
+          "amount": 2,
+          "unit": "cup",
+          "note": "sweet or sour polvilho"
+        },
+        {
+          "ingredient": "vegetable_oil",
+          "amount": 150,
+          "unit": "ml",
+          "note": "very hot"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "parmesan",
+          "amount": 1,
+          "unit": "cup",
+          "note": "or queijo meia cura, grated"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix the fubá, polvilho and salt, pour over the very hot oil and mix (it scalds the starch).",
+    "Add the cream, egg and cheese and knead until smooth. Add more polvilho if the dough is too soft.",
+    "Shape and bake in a preheated oven at 185 °C for about 35 minutes, or air-fry at 180 °C for about 25 minutes."
+  ]
+}

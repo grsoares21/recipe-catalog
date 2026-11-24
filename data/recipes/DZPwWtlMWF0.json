@@ -1,0 +1,56 @@
+{
+  "id": "DZPwWtlMWF0",
+  "kind": "recipe",
+  "title": "Glace Franui",
+  "language": "fr",
+  "creator": "les_recettes_de_joanna",
+  "reelUrl": "https://www.instagram.com/reel/DZPwWtlMWF0/",
+  "servings": 8,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "frozen",
+    "raspberries",
+    "chocolate"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "raspberries",
+          "amount": 350,
+          "unit": "g"
+        },
+        {
+          "ingredient": "water",
+          "amount": 105,
+          "unit": "ml"
+        },
+        {
+          "ingredient": "powdered_sugar",
+          "amount": 35,
+          "unit": "g"
+        },
+        {
+          "ingredient": "white_chocolate",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "ingredient": "milk_chocolate",
+          "amount": 300,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Blend the raspberries and sieve out the seeds.",
+    "Heat the water and powdered sugar in a pan until syrupy, then mix into the raspberry purée.",
+    "Pour into moulds, insert sticks and freeze 5 hours.",
+    "Unmould. Dip each ice lolly first in melted white chocolate (in a tall glass), then in melted milk chocolate.",
+    "Set on baking paper and keep in the freezer."
+  ],
+  "notes": "Most of the chocolate is for dipping; you'll have some left over."
+}

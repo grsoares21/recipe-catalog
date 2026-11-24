@@ -1,0 +1,44 @@
+{
+  "id": "DV8vKMzkbpz",
+  "kind": "recipe",
+  "title": "Geleia de chia com morango e laranja",
+  "language": "pt",
+  "creator": "gigivilela",
+  "reelUrl": "https://www.instagram.com/reel/DV8vKMzkbpz/",
+  "servings": 12,
+  "servingsEstimated": true,
+  "tags": [
+    "breakfast",
+    "spread",
+    "chia",
+    "no-sugar"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "strawberries",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "ingredient": "orange",
+          "amount": 1.5,
+          "unit": "cup",
+          "note": "juice, preferably fresh"
+        },
+        {
+          "ingredient": "chia_seeds",
+          "amount": 3,
+          "unit": "tbsp"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cook the strawberries with the orange juice until soft and reduced.",
+    "Mash, stir in the chia seeds and let it thicken.",
+    "Keep in the fridge and add to yogurt, fruit or smoothies. Honey or sugar is optional."
+  ]
+}

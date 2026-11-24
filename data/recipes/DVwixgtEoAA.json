@@ -1,0 +1,43 @@
+{
+  "id": "DVwixgtEoAA",
+  "kind": "recipe",
+  "title": "Cupulate caseiro",
+  "language": "pt",
+  "creator": "well.chef",
+  "reelUrl": "https://www.instagram.com/reel/DVwixgtEoAA/",
+  "servings": 10,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "chocolate",
+    "brazilian",
+    "fermentation"
+  ],
+  "status": "incomplete",
+  "statusNote": "This is a process video (fermenting, drying and roasting cupuaçu seeds) with no amounts.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "cupuacu_seeds",
+          "amount": 500,
+          "unit": "g",
+          "note": "from fresh cupuaçu",
+          "assumed": true
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 150,
+          "unit": "g",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Remove the seeds from the cupuaçu and ferment them for about 6 days.",
+    "Dry them in the sun for 5–10 days.",
+    "Roast, shell and grind them with sugar into a smooth paste, as with chocolate.",
+    "Temper and mould."
+  ]
+}

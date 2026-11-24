@@ -1,0 +1,85 @@
+{
+  "id": "DXu6O1LDnTO",
+  "kind": "recipe",
+  "title": "High protein cottage cheese grilled cheese",
+  "language": "en",
+  "creator": "carlylembofit",
+  "reelUrl": "https://www.instagram.com/reel/DXu6O1LDnTO/",
+  "servings": 1,
+  "tags": [
+    "lunch",
+    "high-protein",
+    "low-carb",
+    "cheese"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "cottage_cheese",
+          "amount": 1,
+          "unit": "cup",
+          "note": "blended smooth"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "large"
+        },
+        {
+          "ingredient": "garlic_powder",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "onion_powder",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "mozzarella",
+          "amount": 0.5,
+          "unit": "cup",
+          "note": "shredded, plus extra for the filling"
+        },
+        {
+          "ingredient": "cheddar",
+          "amount": 0.25,
+          "unit": "cup",
+          "note": "shredded"
+        },
+        {
+          "ingredient": "parmesan",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "grated"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat the oven to 190 °C and line a baking sheet with parchment.",
+    "Blend the cottage cheese, eggs and seasonings until smooth, then stir in the three cheeses.",
+    "Spread into 2 thin rectangles (\"bread\" slices) and bake 18–22 minutes until set and golden.",
+    "Cool slightly, flip one piece, add extra cheese and top with the other.",
+    "Pan-sear like a grilled cheese until crisp on both sides."
+  ],
+  "creatorNutrition": {
+    "kcal": 400.0,
+    "protein": 40.0,
+    "carbs": 6.0,
+    "fat": 22.0,
+    "fiber": 0.0,
+    "per": "sandwich"
+  }
+}

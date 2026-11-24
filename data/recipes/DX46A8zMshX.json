@@ -1,0 +1,119 @@
+{
+  "id": "DX46A8zMshX",
+  "kind": "recipe",
+  "title": "Lemon blueberry cake bars",
+  "language": "en",
+  "creator": "cookwithshaaa",
+  "reelUrl": "https://www.instagram.com/reel/DX46A8zMshX/",
+  "servings": 16,
+  "servingsEstimated": true,
+  "yield": "20 cm square pan",
+  "tags": [
+    "dessert",
+    "baking",
+    "lemon",
+    "blueberries"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Cake",
+      "items": [
+        {
+          "ingredient": "sugar",
+          "amount": 200,
+          "unit": "g",
+          "note": "caster"
+        },
+        {
+          "ingredient": "unsalted_butter",
+          "amount": 115,
+          "unit": "g",
+          "note": "room temperature"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "large"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "zest, plus 2 tbsp juice"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 205,
+          "unit": "g"
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "baking_soda",
+          "amount": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "greek_yogurt",
+          "amount": 80,
+          "unit": "g",
+          "note": "plus 30–40 g milk or water"
+        },
+        {
+          "ingredient": "milk",
+          "amount": 35,
+          "unit": "g"
+        },
+        {
+          "ingredient": "blueberries",
+          "amount": 150,
+          "unit": "g",
+          "note": "fresh"
+        }
+      ]
+    },
+    {
+      "name": "Glaze",
+      "items": [
+        {
+          "ingredient": "powdered_sugar",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "ingredient": "lemon_curd",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "double_cream",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "blueberry_sauce",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat the oven to 180 °C (170 °C fan) and line a 20 cm square pan.",
+    "Sift the flour, baking powder, baking soda and salt.",
+    "Cream the butter and sugar until fluffy, add the eggs one at a time, then the lemon zest and juice.",
+    "Fold in the dry ingredients and the yogurt-milk mixture in batches.",
+    "Toss the blueberries in a little flour and fold them in. Spread in the pan.",
+    "Bake 30–40 minutes, until a toothpick comes out clean. Cool, then drizzle with the glaze and blueberry sauce."
+  ]
+}

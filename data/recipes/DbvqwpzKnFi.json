@@ -1,0 +1,56 @@
+{
+  "id": "DbvqwpzKnFi",
+  "kind": "recipe",
+  "title": "Roasted Apricots with Honey and Thyme",
+  "language": "en",
+  "creator": "la.cuisine.de.geraldine",
+  "reelUrl": "https://www.instagram.com/reel/DbvqwpzKnFi/",
+  "sourceUrl": "https://www.lacuisinedegeraldine.fr/en/roasted-apricots-with-honey-and-thyme",
+  "servings": 4,
+  "tags": [
+    "dessert",
+    "fruit",
+    "quick"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "apricot",
+          "amount": 8,
+          "unit": "piece",
+          "note": "ripe, pitted and halved"
+        },
+        {
+          "ingredient": "butter",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "honey",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "thyme",
+          "amount": 4,
+          "unit": "sprig"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat the butter with the honey and thyme over medium-low heat.",
+    "Once the butter has melted, add the apricots cut-side down and cook 3–4 minutes until caramelised. Turn and cook another minute.",
+    "Serve sweet with yogurt, skyr or vanilla ice cream, or savoury on rocket with burrata and prosciutto."
+  ],
+  "creatorNutrition": {
+    "kcal": 149.0,
+    "protein": 2.0,
+    "carbs": 24.0,
+    "fat": 6.0,
+    "fiber": 3.0,
+    "per": "serving"
+  }
+}

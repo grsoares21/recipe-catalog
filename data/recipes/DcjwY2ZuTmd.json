@@ -1,0 +1,45 @@
+{
+  "id": "DcjwY2ZuTmd",
+  "kind": "recipe",
+  "title": "Chia seed wrap",
+  "language": "en",
+  "creator": "ann_aknows",
+  "reelUrl": "https://www.instagram.com/reel/DcjwY2ZuTmd/",
+  "servings": 1,
+  "tags": [
+    "breakfast",
+    "vegan",
+    "gluten-free",
+    "wrap"
+  ],
+  "status": "incomplete",
+  "statusNote": "The creator gives no amounts. The ≈ amounts are estimates from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "chia_seeds",
+          "amount": 3,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "water",
+          "amount": 6,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix the chia seeds with the water and a pinch of salt and let them gel for 10–15 minutes.",
+    "Spread thinly into a round in a non-stick pan over medium-low heat.",
+    "Cook until it holds together, flip and cook the other side.",
+    "Fill and fold like a tortilla."
+  ]
+}

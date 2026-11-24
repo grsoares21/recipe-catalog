@@ -1,0 +1,35 @@
+{
+  "id": "Da3Xg2JISUZ",
+  "kind": "recipe",
+  "title": "Helado de sandía viral",
+  "language": "es",
+  "creator": "jorgesaludable",
+  "reelUrl": "https://www.instagram.com/reel/Da3Xg2JISUZ/",
+  "servings": 2,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "frozen",
+    "fruit",
+    "no-sugar"
+  ],
+  "status": "incomplete",
+  "statusNote": "No recipe is given. The ingredients and steps are reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "watermelon",
+          "amount": 0.5,
+          "unit": "piece",
+          "note": "small, frozen with the rind",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Freeze half a watermelon with the rind on.",
+    "Scrape and stir the frozen flesh with a spoon until it turns into a sorbet, using the frozen shell as the bowl (it stops it melting)."
+  ]
+}

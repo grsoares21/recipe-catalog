@@ -1,0 +1,80 @@
+{
+  "id": "DVOxHlPAE7N",
+  "kind": "recipe",
+  "title": "Pudim de coco",
+  "language": "pt",
+  "creator": "mais_receitas_",
+  "reelUrl": "https://www.instagram.com/reel/DVOxHlPAE7N/",
+  "servings": 16,
+  "servingsEstimated": true,
+  "yield": "23 cm ring tin, 8 cm deep",
+  "tags": [
+    "dessert",
+    "pudding",
+    "brazilian",
+    "coconut"
+  ],
+  "status": "incomplete",
+  "statusNote": "The caption lists ingredients only. The steps are the usual method for a baked pudim.",
+  "ingredientGroups": [
+    {
+      "name": "Caramel",
+      "items": [
+        {
+          "ingredient": "sugar",
+          "amount": 2,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "water",
+          "amount": 1,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
+      "name": "Pudim",
+      "items": [
+        {
+          "ingredient": "milk",
+          "amount": 800,
+          "unit": "ml",
+          "note": "whole"
+        },
+        {
+          "ingredient": "desiccated_coconut",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "ingredient": "coconut_milk",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "ingredient": "condensed_milk",
+          "amount": 1185,
+          "unit": "g",
+          "note": "3 cans"
+        },
+        {
+          "ingredient": "egg_white",
+          "amount": 4,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "egg_yolk",
+          "amount": 10,
+          "unit": "piece",
+          "note": "sieved"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Melt the sugar into a caramel, add the water, dissolve and coat the tin.",
+    "Blend the milk, coconut, coconut milk, condensed milk, whites and sieved yolks.",
+    "Pour into the tin, cover with foil and bake in a water bath at 180 °C for about 1½ hours, until set.",
+    "Cool, chill overnight and turn out."
+  ]
+}

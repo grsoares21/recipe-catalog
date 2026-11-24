@@ -1,0 +1,72 @@
+{
+  "id": "DdwNlzBuxP_",
+  "kind": "recipe",
+  "title": "Coxinha proteica",
+  "language": "pt",
+  "creator": "brunascimentos",
+  "reelUrl": "https://www.instagram.com/reel/DdwNlzBuxP_/",
+  "servings": 10,
+  "yield": "10 coxinhas",
+  "tags": [
+    "snack",
+    "high-protein",
+    "air-fryer",
+    "chicken",
+    "meal-prep",
+    "brazilian"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "potato",
+          "amount": 450,
+          "unit": "g",
+          "note": "cooked"
+        },
+        {
+          "ingredient": "chicken_breast_cooked",
+          "amount": 450,
+          "unit": "g",
+          "note": "shredded and dry"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch"
+        },
+        {
+          "ingredient": "queijo_minas",
+          "amount": 170,
+          "unit": "g",
+          "note": "light, 17 g per coxinha"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "panko",
+          "amount": 80,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mash the potatoes and mix with the chicken and salt into a dough you can shape. The chicken must be very dry.",
+    "Divide into 10 balls of 90 g, fill each with 17 g of cheese and shape into coxinhas.",
+    "Brush with beaten egg and coat in panko.",
+    "Air-fry at 180 °C for about 12 minutes."
+  ],
+  "creatorNutrition": {
+    "kcal": 187.0,
+    "protein": 20.1,
+    "carbs": 13.7,
+    "fat": 5.2,
+    "fiber": 0.0,
+    "per": "coxinha"
+  }
+}

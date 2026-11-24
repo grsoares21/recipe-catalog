@@ -1,0 +1,40 @@
+{
+  "id": "DXFWz2hEVo4",
+  "kind": "recipe",
+  "title": "Café com garapa",
+  "language": "pt",
+  "creator": "cristalchacara",
+  "reelUrl": "https://www.instagram.com/reel/DXFWz2hEVo4/",
+  "servings": 2,
+  "servingsEstimated": true,
+  "tags": [
+    "drink",
+    "coffee",
+    "brazilian"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "sugarcane_juice",
+          "amount": 300,
+          "unit": "ml",
+          "note": "garapa",
+          "assumed": true
+        },
+        {
+          "ingredient": "ground_coffee",
+          "amount": 2,
+          "unit": "tbsp",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Bring the sugarcane juice to the boil.",
+    "Add the ground coffee, let it come to the boil once more, then strain through a cloth filter."
+  ],
+  "notes": "The garapa sweetens the coffee on its own."
+}

@@ -1,0 +1,100 @@
+{
+  "id": "DVb7zVigW-n",
+  "kind": "recipe",
+  "title": "Enroladinho de frango com massa de pastel",
+  "language": "pt",
+  "creator": "lucaslacerdanutri",
+  "reelUrl": "https://www.instagram.com/reel/DVb7zVigW-n/",
+  "servings": 7,
+  "servingsEstimated": true,
+  "yield": "about 7 rolls of 60 g",
+  "tags": [
+    "snack",
+    "chicken",
+    "high-protein",
+    "air-fryer"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "chicken_breast",
+          "amount": 200,
+          "unit": "g",
+          "note": "raw"
+        },
+        {
+          "ingredient": "onion",
+          "amount": 1,
+          "unit": "piece",
+          "note": "medium"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 3,
+          "unit": "clove"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "paprika",
+          "unit": "to-taste",
+          "note": "hot"
+        },
+        {
+          "ingredient": "curry_powder",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "lemon_pepper",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "parsley",
+          "unit": "to-taste",
+          "note": "fresh"
+        },
+        {
+          "ingredient": "mint",
+          "unit": "to-taste",
+          "note": "fresh"
+        },
+        {
+          "ingredient": "pastel_dough",
+          "amount": 150,
+          "unit": "g",
+          "note": "rolled"
+        },
+        {
+          "ingredient": "egg_yolk",
+          "amount": 1,
+          "unit": "piece",
+          "note": "to brush"
+        },
+        {
+          "ingredient": "black_sesame",
+          "amount": 1,
+          "unit": "tbsp"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cook the chicken with the onion, garlic and seasonings, then shred and add the fresh herbs.",
+    "Spread the filling over the pastel dough, roll up and slice into rolls of about 60 g.",
+    "Brush with yolk and sprinkle with black sesame.",
+    "Bake in the air fryer or oven at 180 °C for about 15 minutes."
+  ],
+  "creatorNutrition": {
+    "kcal": 101.0,
+    "protein": 7.0,
+    "carbs": 10.0,
+    "fat": 4.0,
+    "fiber": 0.0,
+    "per": "roll (60 g)"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "DVzE6BfjVwK",
+  "kind": "recipe",
+  "title": "Tortina nel barattolo",
+  "language": "it",
+  "creator": "nonnasilviofficial",
+  "reelUrl": "https://www.instagram.com/reel/DVzE6BfjVwK/",
+  "servings": 4,
+  "yield": "4 jars",
+  "tags": [
+    "dessert",
+    "chocolate",
+    "cake"
+  ],
+  "status": "incomplete",
+  "statusNote": "No recipe is given. The ≈ amounts are estimates from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "egg",
+          "amount": 4,
+          "unit": "piece",
+          "note": "one per jar"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 8,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "cocoa_powder",
+          "amount": 4,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "vegetable_oil",
+          "amount": 8,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "milk",
+          "amount": 8,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 12,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 1,
+          "unit": "tsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "dark_chocolate",
+          "amount": 40,
+          "unit": "g",
+          "note": "chips",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Put an egg, sugar, cocoa, oil, milk, flour and baking powder in each jar.",
+    "Close and shake hard until smooth, then add chocolate chips.",
+    "Cook the jars in a pan of simmering water: lid off for a taller, softer cake, lid on for a denser, brownie-like one."
+  ]
+}

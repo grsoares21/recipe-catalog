@@ -1,0 +1,57 @@
+{
+  "id": "Dd9y7DCBz0d",
+  "kind": "recipe",
+  "title": "Edible butter candle",
+  "language": "en",
+  "creator": "eddelbuttel_nutrition",
+  "reelUrl": "https://www.instagram.com/reel/Dd9y7DCBz0d/",
+  "servings": 8,
+  "servingsEstimated": true,
+  "tags": [
+    "snack",
+    "party",
+    "bread",
+    "butter"
+  ],
+  "status": "incomplete",
+  "statusNote": "This reel only introduces the series. The ingredients and steps are reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "butter",
+          "amount": 250,
+          "unit": "g",
+          "note": "for the candle",
+          "assumed": true
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 1,
+          "unit": "piece",
+          "note": "roasted head",
+          "assumed": true
+        },
+        {
+          "ingredient": "rosemary",
+          "amount": 2,
+          "unit": "sprig",
+          "assumed": true
+        },
+        {
+          "ingredient": "bread",
+          "amount": 1,
+          "unit": "piece",
+          "note": "round sourdough loaf",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Melt the butter with the roasted garlic and herbs and season.",
+    "Pour into a container with a food-safe cotton wick and chill until solid.",
+    "Cut a crosshatch into the loaf, set the butter candle in the middle and light it.",
+    "As it melts, dip the bread into the warm garlic butter."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "DT_Pg8VCTA3",
+  "kind": "recipe",
+  "title": "Cold brew de maracujá com mel",
+  "language": "pt",
+  "creator": "fabio.cafes",
+  "reelUrl": "https://www.instagram.com/reel/DT_Pg8VCTA3/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "yield": "about 700 ml",
+  "tags": [
+    "drink",
+    "coffee",
+    "passion-fruit",
+    "make-ahead"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "ground_coffee",
+          "amount": 60,
+          "unit": "g",
+          "note": "coarse"
+        },
+        {
+          "ingredient": "passion_fruit_pulp",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "ingredient": "honey",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "water",
+          "amount": 700,
+          "unit": "ml"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix everything and leave in the fridge for 8–24 hours.",
+    "Strain and serve."
+  ]
+}

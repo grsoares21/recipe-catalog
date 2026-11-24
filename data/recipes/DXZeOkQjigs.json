@@ -1,0 +1,71 @@
+{
+  "id": "DXZeOkQjigs",
+  "kind": "recipe",
+  "title": "Leftover rice and pea chips",
+  "language": "en",
+  "creator": "spicymoustache",
+  "reelUrl": "https://www.instagram.com/reel/DXZeOkQjigs/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "tags": [
+    "snack",
+    "vegan",
+    "zero-waste",
+    "fried"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "cooked_rice",
+          "amount": 150,
+          "unit": "g",
+          "note": "leftover"
+        },
+        {
+          "ingredient": "water",
+          "amount": 90,
+          "unit": "ml"
+        },
+        {
+          "ingredient": "peas",
+          "amount": 100,
+          "unit": "g",
+          "note": "cooked, or any legume"
+        },
+        {
+          "ingredient": "herbs",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "chopped chives, parsley or coriander"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 1,
+          "unit": "clove",
+          "optional": true
+        },
+        {
+          "ingredient": "nutritional_yeast",
+          "amount": 1,
+          "unit": "tbsp",
+          "optional": true
+        },
+        {
+          "ingredient": "vegetable_oil",
+          "amount": 50,
+          "unit": "ml",
+          "note": "absorbed while frying",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Blend everything except the oil until perfectly smooth.",
+    "Spread thinly between two sheets of baking paper.",
+    "Dehydrate at 45–50 °C for 6–12 hours.",
+    "Break into pieces (not too small) and fry them one at a time in very hot oil."
+  ]
+}

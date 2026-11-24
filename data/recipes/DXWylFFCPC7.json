@@ -1,0 +1,67 @@
+{
+  "id": "DXWylFFCPC7",
+  "kind": "recipe",
+  "title": "Apple rose tarts",
+  "language": "en",
+  "creator": "jeffandlaurenshow",
+  "reelUrl": "https://www.instagram.com/reel/DXWylFFCPC7/",
+  "servings": 6,
+  "yield": "6 roses",
+  "tags": [
+    "dessert",
+    "apple",
+    "puff-pastry",
+    "baking"
+  ],
+  "status": "incomplete",
+  "statusNote": "No recipe is given. The ≈ amounts and steps follow the usual method.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "apple",
+          "amount": 2,
+          "unit": "piece",
+          "note": "red, thinly sliced",
+          "assumed": true
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 0.5,
+          "unit": "piece",
+          "note": "juice",
+          "assumed": true
+        },
+        {
+          "ingredient": "puff_pastry",
+          "amount": 1,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "apricot_jam",
+          "amount": 3,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "cinnamon",
+          "amount": 1,
+          "unit": "tsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "powdered_sugar",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Microwave the thin apple slices in water with lemon juice for 2–3 minutes until bendable, then drain.",
+    "Cut the pastry into 6 long strips, brush with jam and sprinkle with cinnamon.",
+    "Line apple slices along the top edge of each strip, peel side out, fold the bottom up and roll into a rose.",
+    "Bake in a muffin tin at 190 °C for about 40 minutes. Dust with powdered sugar."
+  ]
+}

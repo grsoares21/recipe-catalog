@@ -1,0 +1,109 @@
+{
+  "id": "DWqiFO_jPH8",
+  "kind": "recipe",
+  "title": "Portokalopita",
+  "language": "en",
+  "creator": "christianapa_",
+  "reelUrl": "https://www.instagram.com/reel/DWqiFO_jPH8/",
+  "servings": 12,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "cake",
+    "greek",
+    "orange"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Cake",
+      "items": [
+        {
+          "ingredient": "filo_pastry",
+          "amount": 350,
+          "unit": "g",
+          "note": "10–12 sheets"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 4,
+          "unit": "piece",
+          "note": "large"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "ingredient": "greek_yogurt",
+          "amount": 250,
+          "unit": "g",
+          "note": "full-fat"
+        },
+        {
+          "ingredient": "unsalted_butter",
+          "amount": 150,
+          "unit": "g",
+          "note": "melted, slightly cooled"
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 1,
+          "unit": "tsp",
+          "optional": true
+        },
+        {
+          "ingredient": "orange",
+          "amount": 2.5,
+          "unit": "piece",
+          "note": "zest only"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch"
+        }
+      ]
+    },
+    {
+      "name": "Syrup",
+      "items": [
+        {
+          "ingredient": "sugar",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "ingredient": "orange",
+          "amount": 3.5,
+          "unit": "piece",
+          "note": "200 ml juice, plus zest of 1"
+        },
+        {
+          "ingredient": "water",
+          "amount": 100,
+          "unit": "ml"
+        },
+        {
+          "ingredient": "cinnamon_stick",
+          "amount": 1,
+          "unit": "piece"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Syrup: boil the sugar, orange juice, water, zest and cinnamon for 5–7 minutes, then cool.",
+    "Fold the filo, cut into strips and let them dry for 1–2 hours, or dry them in the oven at 150 °C for 10–15 minutes without browning.",
+    "Whisk the eggs and sugar until pale and fluffy, then add the yogurt, butter, vanilla, orange zest, baking powder and salt.",
+    "Crumble the dried filo in (pieces, not powder) and wait 5–10 minutes for it to hydrate. The batter should be thick; add filo if too wet or a splash of orange juice if too dry.",
+    "Pour into a greased tin and bake at 180 °C for 45–50 minutes until golden.",
+    "Pour the syrup over the cake (hot syrup on hot cake, or cold syrup on warm cake) and let it soak in. Brush with a little fresh orange juice before serving."
+  ]
+}

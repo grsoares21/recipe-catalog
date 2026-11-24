@@ -1,0 +1,45 @@
+{
+  "id": "DUyC6vSjiTh",
+  "kind": "recipe",
+  "title": "Creme de paçoca proteico",
+  "language": "pt",
+  "creator": "opedrosabel",
+  "reelUrl": "https://www.instagram.com/reel/DUyC6vSjiTh/",
+  "servings": 6,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "spread",
+    "high-protein",
+    "brazilian"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "skim_milk_powder",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "ingredient": "pacoca",
+          "amount": 2,
+          "unit": "piece",
+          "note": "sugar-free paçoquinhas"
+        },
+        {
+          "ingredient": "water",
+          "amount": 0.33,
+          "unit": "cup",
+          "note": "warm"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Crumble the paçoquinhas and blend with the milk powder and warm water until smooth.",
+    "Keeps in the fridge. Each tablespoon has about 86 kcal and 6.6 g protein."
+  ],
+  "notes": "Idea from @ceciliamaiac. Use it on yogurt with fruit or as a sweet treat."
+}

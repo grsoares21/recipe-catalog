@@ -1,0 +1,30 @@
+{
+  "id": "DboZiGeB6ha",
+  "kind": "tip",
+  "title": "Ovo nuvem",
+  "language": "pt",
+  "creator": "patytorresrj",
+  "reelUrl": "https://www.instagram.com/reel/DboZiGeB6ha/",
+  "servings": 1,
+  "tags": [
+    "tip",
+    "eggs",
+    "breakfast"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "egg",
+          "amount": 1,
+          "unit": "piece"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cook the eggs in the special egg pan shown in the video. As soon as the water boils, cover the pan and start timing.",
+    "4 minutes for a soft yolk, 6 minutes for creamy-soft, 8 minutes for creamy."
+  ]
+}

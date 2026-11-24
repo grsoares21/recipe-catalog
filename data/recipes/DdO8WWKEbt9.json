@@ -1,0 +1,61 @@
+{
+  "id": "DdO8WWKEbt9",
+  "kind": "recipe",
+  "title": "Fake carbonara di zucca",
+  "language": "it",
+  "creator": "giallozafferano",
+  "reelUrl": "https://www.instagram.com/reel/DdO8WWKEbt9/",
+  "servings": 2,
+  "servingsEstimated": true,
+  "tags": [
+    "main",
+    "pasta",
+    "pumpkin",
+    "air-fryer"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "dried_pasta",
+          "amount": 180,
+          "unit": "g",
+          "note": "spaghetti"
+        },
+        {
+          "ingredient": "pumpkin",
+          "amount": 600,
+          "unit": "g",
+          "note": "delica squash"
+        },
+        {
+          "ingredient": "guanciale",
+          "amount": 130,
+          "unit": "g"
+        },
+        {
+          "ingredient": "pecorino",
+          "amount": 3,
+          "unit": "tbsp",
+          "note": "grated"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Halve the squash and cook it in the air fryer at 180 °C for 25–30 minutes, or in the oven at 190 °C for about 45 minutes.",
+    "Scoop out the flesh and blend with a pinch of salt and some water into a smooth cream.",
+    "Cut the guanciale into strips and fry until crisp, then set aside, leaving the fat in the pan.",
+    "Cook the spaghetti in salted water, drain al dente and add to the pan with the squash cream and pecorino. Toss until coated.",
+    "Serve topped with the crispy guanciale and pepper."
+  ]
+}

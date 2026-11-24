@@ -1,0 +1,68 @@
+{
+  "id": "DXSHOZeiSfF",
+  "kind": "recipe",
+  "title": "Pistachio torta Caprese",
+  "language": "en",
+  "creator": "cookwithmanuela",
+  "reelUrl": "https://www.instagram.com/reel/DXSHOZeiSfF/",
+  "servings": 10,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "cake",
+    "gluten-free",
+    "pistachio"
+  ],
+  "status": "incomplete",
+  "statusNote": "The full recipe is on the creator's website. The ≈ amounts are estimates from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "white_chocolate",
+          "amount": 150,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "butter",
+          "amount": 150,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 120,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "pistachios",
+          "amount": 200,
+          "unit": "g",
+          "note": "finely ground",
+          "assumed": true
+        },
+        {
+          "ingredient": "egg",
+          "amount": 4,
+          "unit": "piece",
+          "note": "separated",
+          "assumed": true
+        },
+        {
+          "ingredient": "powdered_sugar",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Melt the white chocolate with the butter until smooth.",
+    "Beat the yolks with the sugar, add the chocolate mixture and ground pistachios.",
+    "Whisk the whites to soft peaks and fold them gently in.",
+    "Bake at 170 °C until just set, with a soft, moist centre (about 35 minutes).",
+    "Cool and dust with powdered sugar."
+  ]
+}

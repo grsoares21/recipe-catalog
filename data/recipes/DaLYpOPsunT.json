@@ -1,0 +1,82 @@
+{
+  "id": "DaLYpOPsunT",
+  "kind": "recipe",
+  "title": "Easy tomato pasta",
+  "language": "en",
+  "creator": "cookingwithbello",
+  "reelUrl": "https://www.instagram.com/reel/DaLYpOPsunT/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "tags": [
+    "main",
+    "pasta",
+    "vegetarian",
+    "quick"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "tomato",
+          "amount": 4,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "onion",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 1,
+          "unit": "clove"
+        },
+        {
+          "ingredient": "tomato_paste",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "dried_oregano",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "chili_flakes",
+          "unit": "to-taste",
+          "optional": true
+        },
+        {
+          "ingredient": "parmesan",
+          "amount": 60,
+          "unit": "g",
+          "note": "Grana Padano, grated"
+        },
+        {
+          "ingredient": "dried_pasta",
+          "amount": 360,
+          "unit": "g"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cook the whole tomatoes with the onion in olive oil for 10 minutes, then peel and crush the tomatoes.",
+    "Add the garlic, tomato paste, seasonings and grated cheese and cook 5 more minutes.",
+    "Toss in the boiled pasta and serve."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "DcjpKVGySWs",
+  "kind": "recipe",
+  "title": "Peach nice cream",
+  "language": "en",
+  "creator": "mountain_mothering",
+  "reelUrl": "https://www.instagram.com/reel/DcjpKVGySWs/",
+  "servings": 3,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "frozen",
+    "fruit",
+    "quick"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "peach",
+          "amount": 4,
+          "unit": "piece",
+          "note": "frozen"
+        },
+        {
+          "ingredient": "banana",
+          "amount": 1,
+          "unit": "piece",
+          "note": "frozen"
+        },
+        {
+          "ingredient": "greek_yogurt",
+          "amount": 0.33,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "maple_syrup",
+          "amount": 0.25,
+          "unit": "cup"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Blend the frozen peaches and banana.",
+    "Add the yogurt and maple syrup and blend again until smooth."
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "DfAda0hNJk2",
+  "kind": "recipe",
+  "title": "2-Ingredient Onion Ring Chips",
+  "language": "en",
+  "creator": "firsttakehadrian",
+  "reelUrl": "https://www.instagram.com/reel/DfAda0hNJk2/",
+  "servings": 1,
+  "tags": [
+    "snack",
+    "high-protein",
+    "baked",
+    "quick"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "onion",
+          "amount": 1,
+          "unit": "piece",
+          "note": "white, sliced into rings"
+        },
+        {
+          "ingredient": "parmesan",
+          "amount": 40,
+          "unit": "g",
+          "note": "grated"
+        },
+        {
+          "ingredient": "olive_oil",
+          "unit": "to-taste",
+          "note": "a couple of sprays",
+          "optional": true
+        },
+        {
+          "ingredient": "garlic_powder",
+          "unit": "to-taste",
+          "optional": true
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste",
+          "optional": true
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Spread the Parmesan on a parchment-lined baking sheet.",
+    "Lay the onion rings on top.",
+    "Season and spray with a little olive oil.",
+    "Bake at 200 °C for 20–25 minutes, watching closely at the end, until golden and crisp at the edges.",
+    "Let them cool on the tray so the cheese hardens into crisps."
+  ],
+  "creatorNutrition": {
+    "kcal": 200.0,
+    "protein": 20.0,
+    "carbs": 10.0,
+    "fat": 11.0,
+    "fiber": 2.0,
+    "per": "serving"
+  },
+  "notes": "Original idea by @hungry.happens."
+}

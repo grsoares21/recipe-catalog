@@ -1,0 +1,159 @@
+{
+  "id": "DSQOzfBCPcg",
+  "kind": "recipe",
+  "title": "Buffalo Chicken Hot Pockets",
+  "language": "en",
+  "creator": "fairfiteats",
+  "reelUrl": "https://www.instagram.com/reel/DSQOzfBCPcg/",
+  "servings": 10,
+  "yield": "10 hot pockets",
+  "tags": [
+    "main",
+    "meal-prep",
+    "high-protein",
+    "chicken"
+  ],
+  "status": "incomplete",
+  "statusNote": "The caption doesn't explain how to make the filling or shape and bake the hot pockets. Those steps are the usual method.",
+  "ingredientGroups": [
+    {
+      "name": "Dough",
+      "items": [
+        {
+          "ingredient": "self_raising_flour",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "ingredient": "greek_yogurt_nonfat",
+          "amount": 520,
+          "unit": "g"
+        },
+        {
+          "ingredient": "garlic_salt",
+          "amount": 15,
+          "unit": "g"
+        },
+        {
+          "ingredient": "italian_seasoning",
+          "amount": 8,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "name": "Buffalo chicken filling",
+      "items": [
+        {
+          "ingredient": "chicken_breast",
+          "amount": 1135,
+          "unit": "g"
+        },
+        {
+          "ingredient": "garlic_salt",
+          "amount": 7,
+          "unit": "g"
+        },
+        {
+          "ingredient": "smoked_paprika",
+          "amount": 3,
+          "unit": "g"
+        },
+        {
+          "ingredient": "ranch_seasoning",
+          "amount": 8,
+          "unit": "g"
+        },
+        {
+          "ingredient": "black_pepper",
+          "amount": 3,
+          "unit": "g"
+        },
+        {
+          "ingredient": "salsa",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "ingredient": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "diced"
+        },
+        {
+          "ingredient": "buffalo_sauce",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "ingredient": "mozzarella",
+          "amount": 392,
+          "unit": "g",
+          "note": "fat-free"
+        },
+        {
+          "ingredient": "chives",
+          "amount": 10,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "name": "Protein buffalo sauce",
+      "items": [
+        {
+          "ingredient": "cottage_cheese",
+          "amount": 335,
+          "unit": "g"
+        },
+        {
+          "ingredient": "cream_cheese",
+          "amount": 56,
+          "unit": "g",
+          "note": "light"
+        },
+        {
+          "ingredient": "garlic_salt",
+          "amount": 7,
+          "unit": "g"
+        },
+        {
+          "ingredient": "black_pepper",
+          "amount": 3,
+          "unit": "g"
+        },
+        {
+          "ingredient": "onion_powder",
+          "amount": 3,
+          "unit": "g"
+        },
+        {
+          "ingredient": "buffalo_sauce",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "ingredient": "skim_milk",
+          "amount": 60,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix the flour, yogurt and seasonings into a dough.",
+    "Cook and shred the chicken, then mix with the seasonings, salsa, onion and buffalo sauce.",
+    "Blend the sauce ingredients until smooth and mix with the chicken, mozzarella and chives.",
+    "Divide the dough into 10, roll out, fill, fold and seal.",
+    "Bake at 200 °C until golden.",
+    "To freeze: wrap in foil or a freezer bag (up to 1 month). Reheat wrapped in a damp paper towel in the microwave for 3–4 minutes, then crisp in a pan or air fryer."
+  ],
+  "creatorNutrition": {
+    "kcal": 425.0,
+    "protein": 50.0,
+    "carbs": 44.0,
+    "fat": 4.0,
+    "fiber": 0.0,
+    "per": "hot pocket"
+  }
+}

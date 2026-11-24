@@ -1,0 +1,93 @@
+{
+  "id": "DWR_VPjil5B",
+  "kind": "recipe",
+  "title": "Bolo de chocolate com ganache sem untar a forma",
+  "language": "pt",
+  "creator": "rafulltorres",
+  "reelUrl": "https://www.instagram.com/reel/DWR_VPjil5B/",
+  "servings": 15,
+  "servingsEstimated": true,
+  "yield": "28 × 20 cm dish",
+  "tags": [
+    "dessert",
+    "cake",
+    "chocolate",
+    "baking"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Cake",
+      "items": [
+        {
+          "ingredient": "wheat_flour",
+          "amount": 1.5,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "cocoa_powder",
+          "amount": 0.5,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 1.5,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "baking_soda",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "yogurt",
+          "amount": 200,
+          "unit": "g",
+          "note": "1 pot, plain"
+        },
+        {
+          "ingredient": "vegetable_oil",
+          "amount": 0.5,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "water",
+          "amount": 0.5,
+          "unit": "cup",
+          "note": "hot"
+        }
+      ]
+    },
+    {
+      "name": "Ganache",
+      "items": [
+        {
+          "ingredient": "creme_de_leite",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "ingredient": "milk_chocolate",
+          "amount": 400,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix all the cake ingredients until smooth.",
+    "Pour into the 28 × 20 cm dish (no need to grease it) and bake in a preheated oven at 180 °C for about 30 minutes, until a toothpick comes out clean.",
+    "Melt the chocolate with the cream and spread it over the cake."
+  ],
+  "notes": "Halve the recipe for a smaller cake."
+}

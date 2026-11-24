@@ -1,0 +1,65 @@
+{
+  "id": "DXaT3GcEd36",
+  "kind": "recipe",
+  "title": "Batatovo",
+  "language": "pt",
+  "creator": "camilleelis.r",
+  "reelUrl": "https://www.instagram.com/reel/DXaT3GcEd36/",
+  "servings": 1,
+  "tags": [
+    "breakfast",
+    "eggs",
+    "potatoes",
+    "quick"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "potato",
+          "amount": 1,
+          "unit": "piece",
+          "note": "small, very thinly sliced"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "gouda",
+          "amount": 30,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "paprika",
+          "unit": "to-taste",
+          "note": "sweet",
+          "optional": true
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 1,
+          "unit": "tsp",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Oil a frying pan and shave the potato straight into it with a vegetable peeler. Season and let it brown lightly.",
+    "Add the eggs, break the yolks and let them cook.",
+    "Add the cheese and any other filling you like, and season."
+  ],
+  "notes": "Recipe from @fit4lunch."
+}

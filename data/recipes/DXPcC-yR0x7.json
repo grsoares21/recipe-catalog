@@ -1,0 +1,133 @@
+{
+  "id": "DXPcC-yR0x7",
+  "kind": "recipe",
+  "title": "Coconut chilli ramen with crispy pork",
+  "language": "en",
+  "creator": "thegoodbite",
+  "reelUrl": "https://www.instagram.com/reel/DXPcC-yR0x7/",
+  "servings": 4,
+  "tags": [
+    "main",
+    "noodles",
+    "pork",
+    "high-protein"
+  ],
+  "status": "incomplete",
+  "statusNote": "The full recipe is in the creator's app. The ≈ amounts and steps are reconstructed from the video, and the creator's macros only include kcal and protein.",
+  "ingredientGroups": [
+    {
+      "name": "Broth",
+      "items": [
+        {
+          "ingredient": "garlic",
+          "amount": 4,
+          "unit": "clove",
+          "assumed": true
+        },
+        {
+          "ingredient": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "spring_onion",
+          "amount": 3,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "coconut_milk",
+          "amount": 400,
+          "unit": "ml",
+          "assumed": true
+        },
+        {
+          "ingredient": "stock",
+          "amount": 800,
+          "unit": "ml",
+          "assumed": true
+        },
+        {
+          "ingredient": "peanut_butter",
+          "amount": 2,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "chili_oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "assumed": true
+        }
+      ]
+    },
+    {
+      "name": "Crispy pork",
+      "items": [
+        {
+          "ingredient": "ground_pork",
+          "amount": 500,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "hoisin",
+          "amount": 2,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "black_bean_sauce",
+          "amount": 1,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "soy_sauce",
+          "amount": 2,
+          "unit": "tbsp",
+          "assumed": true
+        }
+      ]
+    },
+    {
+      "name": "To serve",
+      "items": [
+        {
+          "ingredient": "ramen_noodles",
+          "amount": 300,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "cucumber",
+          "amount": 1,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "egg",
+          "amount": 4,
+          "unit": "piece",
+          "note": "soft-boiled",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Chop the aromatics, fry them, then add the coconut milk, stock, peanut butter and chilli oil to make the broth.",
+    "Fry the pork mince in a very hot pan in small pieces until extra crispy, then add the hoisin, black bean and soy sauce.",
+    "Cook the noodles, divide into bowls with the broth and top with pork, cucumber and a soft-boiled egg."
+  ],
+  "creatorNutrition": {
+    "kcal": 650.0,
+    "protein": 42.0,
+    "carbs": 0.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "per": "serving"
+  },
+  "notes": "Good for meal prep: keep the components separate until serving."
+}

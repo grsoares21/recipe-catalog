@@ -1,0 +1,105 @@
+{
+  "id": "DVuAdWIEYSd",
+  "kind": "recipe",
+  "title": "Tofu na crosta de gergelim",
+  "language": "pt",
+  "creator": "comida.sem.regra",
+  "reelUrl": "https://www.instagram.com/reel/DVuAdWIEYSd/",
+  "servings": 3,
+  "servingsEstimated": true,
+  "tags": [
+    "main",
+    "vegan",
+    "tofu",
+    "crispy"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Tofu and marinade",
+      "items": [
+        {
+          "ingredient": "tofu_firm",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "ingredient": "ginger",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "chopped"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "chopped"
+        },
+        {
+          "ingredient": "soy_sauce",
+          "amount": 4,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "sesame_oil",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 1,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "name": "Coating",
+      "items": [
+        {
+          "ingredient": "cornstarch",
+          "amount": 6,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "aquafaba",
+          "amount": 4,
+          "unit": "tbsp",
+          "note": "liquid from canned chickpeas"
+        },
+        {
+          "ingredient": "panko",
+          "amount": 0.25,
+          "unit": "cup",
+          "note": "or breadcrumbs"
+        },
+        {
+          "ingredient": "black_sesame",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "sesame_seeds",
+          "amount": 3,
+          "unit": "tbsp"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cut the tofu into finger-thick slices, then cut each slice into 4.",
+    "Mix the marinade in a wide dish, add the tofu and marinate at least 30 minutes, turning a few times.",
+    "Set up three plates: cornstarch with salt and pepper; aquafaba; panko with both sesames.",
+    "Coat each piece in cornstarch, dip in aquafaba, then press into the sesame crust.",
+    "Bake, air-fry or pan-fry until golden and crisp."
+  ],
+  "notes": "Homemade chickpea cooking water should be reduced by half before using."
+}

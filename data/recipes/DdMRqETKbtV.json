@@ -1,0 +1,131 @@
+{
+  "id": "DdMRqETKbtV",
+  "kind": "recipe",
+  "title": "Crispy Zucchini Rings with Creamy Zucchini Dip",
+  "language": "en",
+  "creator": "essen_paradies",
+  "reelUrl": "https://www.instagram.com/reel/DdMRqETKbtV/",
+  "sourceUrl": "https://essenparadies.com/crispy-zucchini-rings-with-creamy-zucchini-dip/",
+  "servings": 4,
+  "tags": [
+    "snack",
+    "side",
+    "vegetarian",
+    "baked"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Zucchini rings",
+      "items": [
+        {
+          "ingredient": "zucchini",
+          "amount": 2,
+          "unit": "piece",
+          "note": "medium"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 3,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "cornstarch",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "breadcrumbs",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "parmesan",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "plus extra to serve"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "garlic_powder",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "paprika",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "dried_oregano",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "onion_powder",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        }
+      ]
+    },
+    {
+      "name": "Dip",
+      "items": [
+        {
+          "ingredient": "olive_oil",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 0.5,
+          "unit": "piece",
+          "note": "juice only"
+        },
+        {
+          "ingredient": "yogurt",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 1,
+          "unit": "clove"
+        },
+        {
+          "ingredient": "parsley",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "fresh"
+        },
+        {
+          "ingredient": "tahini",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "chili_flakes",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Slice the zucchini into thick rounds and remove the centres with a bottle cap to make rings. Keep the centres for the dip.",
+    "Toss the rings with the oil, cornstarch, breadcrumbs, Parmesan and seasonings.",
+    "Bake on a lined tray at 200 °C for 20–25 minutes until golden and crisp, then sprinkle with more Parmesan.",
+    "Dip: soften the zucchini centres in the oil, then blend with the yogurt, tahini, lemon juice, garlic, parsley and seasonings until creamy."
+  ],
+  "creatorNutrition": {
+    "kcal": 219.0,
+    "protein": 4.0,
+    "carbs": 13.0,
+    "fat": 18.0,
+    "fiber": 2.0,
+    "per": "serving"
+  }
+}

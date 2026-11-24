@@ -1,0 +1,61 @@
+{
+  "id": "DTtWzJIEeSC",
+  "kind": "recipe",
+  "title": "Nuvem de coco",
+  "language": "pt",
+  "creator": "borapracozinhaofc",
+  "reelUrl": "https://www.instagram.com/reel/DTtWzJIEeSC/",
+  "servings": 10,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "coconut",
+    "brazilian"
+  ],
+  "status": "incomplete",
+  "statusNote": "The method is only shown in the video. The steps are the usual method.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "condensed_milk",
+          "amount": 395,
+          "unit": "g",
+          "note": "1 box"
+        },
+        {
+          "ingredient": "creme_de_leite",
+          "amount": 200,
+          "unit": "g",
+          "note": "1 box"
+        },
+        {
+          "ingredient": "cornstarch",
+          "amount": 4,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "desiccated_coconut",
+          "amount": 50,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "whipped_cream_powder",
+          "amount": 120,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cook the condensed milk, cream and cornstarch over medium heat, stirring, until thick. Add the vanilla and cool.",
+    "Whip the whipped-cream powder with cold milk or water as the pack says and fold it into the cooled cream.",
+    "Spoon into a dish, cover with coconut and chill until set."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "DcgT31-Bo5x",
+  "kind": "recipe",
+  "title": "Milk brew coffee",
+  "language": "en",
+  "creator": "morgandrinkscoffee",
+  "reelUrl": "https://www.instagram.com/reel/DcgT31-Bo5x/",
+  "servings": 2,
+  "servingsEstimated": true,
+  "yield": "about 400 ml",
+  "tags": [
+    "drink",
+    "coffee",
+    "make-ahead"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "ground_coffee",
+          "amount": 30,
+          "unit": "g",
+          "note": "medium-coarse"
+        },
+        {
+          "ingredient": "milk",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "ingredient": "ice",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Put the coffee and milk in a jar (1:13 ratio by weight) and stir until all the coffee is saturated.",
+    "Brew in the fridge for 8–10 hours.",
+    "Filter through a paper filter (slow; keep it in the fridge while it drips), a cold brew bag or a metal filter.",
+    "Serve over ice."
+  ],
+  "notes": "Any milk and any coffee works. Fruity, natural-process coffees give very different results."
+}

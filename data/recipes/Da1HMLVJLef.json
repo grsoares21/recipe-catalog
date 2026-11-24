@@ -1,0 +1,82 @@
+{
+  "id": "Da1HMLVJLef",
+  "kind": "recipe",
+  "title": "Bolo Caprese com ganache",
+  "language": "pt",
+  "creator": "montaencanta",
+  "reelUrl": "https://www.instagram.com/reel/Da1HMLVJLef/",
+  "sourceUrl": "https://montaencanta.com.br",
+  "servings": 12,
+  "servingsEstimated": true,
+  "yield": "23 cm round",
+  "tags": [
+    "dessert",
+    "cake",
+    "chocolate",
+    "gluten-free",
+    "baking"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Cake",
+      "items": [
+        {
+          "ingredient": "milk_chocolate",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "ingredient": "butter",
+          "amount": 200,
+          "unit": "g",
+          "note": "salted"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "ingredient": "almond_flour",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 5,
+          "unit": "piece",
+          "note": "separated"
+        }
+      ]
+    },
+    {
+      "name": "Ganache",
+      "items": [
+        {
+          "ingredient": "milk_chocolate",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "ingredient": "creme_de_leite",
+          "amount": 200,
+          "unit": "g",
+          "note": "canned, whey drained"
+        },
+        {
+          "ingredient": "cocoa_powder",
+          "unit": "to-taste",
+          "note": "to dust"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Melt the chocolate and warm the butter. Whisk the egg whites to stiff peaks.",
+    "Beat the yolks with the sugar until pale and thick, then beat in the butter and chocolate.",
+    "Gently fold this into the whites, alternating with the almond flour.",
+    "Pour into a lined 23 cm tin and bake in a preheated oven at 180 °C for 30–35 minutes.",
+    "Ganache: melt the chocolate in the microwave and stir in the cream. Spread over the cooled cake and dust with cocoa."
+  ]
+}

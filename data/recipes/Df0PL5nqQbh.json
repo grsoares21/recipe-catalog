@@ -1,0 +1,87 @@
+{
+  "id": "Df0PL5nqQbh",
+  "kind": "recipe",
+  "title": "Bolinha de frango e batata recheada com queijo",
+  "language": "pt",
+  "creator": "lucaslacerdanutri",
+  "reelUrl": "https://www.instagram.com/reel/Df0PL5nqQbh/",
+  "servings": 12,
+  "servingsEstimated": true,
+  "yield": "about 12 balls of 70 g",
+  "tags": [
+    "snack",
+    "high-protein",
+    "air-fryer",
+    "chicken",
+    "meal-prep"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "chicken_breast_cooked",
+          "amount": 300,
+          "unit": "g",
+          "note": "shredded"
+        },
+        {
+          "ingredient": "potato",
+          "amount": 300,
+          "unit": "g",
+          "note": "raw weight, peeled"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "mozzarella",
+          "amount": 120,
+          "unit": "g",
+          "note": "cut into 10 g cubes, one per ball"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "turmeric",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "paprika",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "nutmeg",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "melba_toast",
+          "amount": 30,
+          "unit": "g",
+          "note": "2 small packets of Magic Toast, crushed, for the coating",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Boil the potatoes until very soft. Drain, mash with a fork and mix in the egg.",
+    "Add the shredded chicken, salt, turmeric, paprika and nutmeg and mix into a smooth dough that's easy to shape.",
+    "Take portions of about 50 g, flatten in your palm, put a cube of mozzarella in the centre, close and roll into a ball.",
+    "Crush the toasts into coarse crumbs and roll the balls in them, pressing lightly so the coating sticks.",
+    "Air-fry at 180 °C for about 15 minutes, until golden and crisp."
+  ],
+  "creatorNutrition": {
+    "kcal": 95.0,
+    "protein": 12.0,
+    "carbs": 5.0,
+    "fat": 3.0,
+    "fiber": 0.0,
+    "per": "ball (70 g)"
+  }
+}

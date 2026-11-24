@@ -1,0 +1,128 @@
+{
+  "id": "DWHA0pqDajG",
+  "kind": "recipe",
+  "title": "Lemon Blueberry Cheesecake Cookies",
+  "language": "en",
+  "creator": "inbloombakery_",
+  "reelUrl": "https://www.instagram.com/reel/DWHA0pqDajG/",
+  "sourceUrl": "https://inbloombakery.com/lemon-blueberry-cheesecake-cookies/",
+  "servings": 20,
+  "yield": "20 cookies",
+  "tags": [
+    "dessert",
+    "cookies",
+    "baking",
+    "blueberries",
+    "lemon"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Cheesecake filling",
+      "items": [
+        {
+          "ingredient": "cream_cheese",
+          "amount": 6,
+          "unit": "oz",
+          "note": "cold"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 3,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 0.5,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "name": "Blueberry jam",
+      "items": [
+        {
+          "ingredient": "blueberries",
+          "amount": 12,
+          "unit": "oz",
+          "note": "fresh"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 0.25,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
+      "name": "Cookies",
+      "items": [
+        {
+          "ingredient": "wheat_flour",
+          "amount": 2.75,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "baking_soda",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 1,
+          "unit": "cup",
+          "note": "plus ¼ cup for rolling"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "zest"
+        },
+        {
+          "ingredient": "unsalted_butter",
+          "amount": 1,
+          "unit": "cup",
+          "note": "very soft"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "room temperature"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 2,
+          "unit": "tsp"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Filling: beat the cream cheese, sugar and vanilla until fluffy, scoop 20 flattened 2-tsp discs onto parchment and freeze.",
+    "Jam: cook the blueberries and sugar over medium heat for about 40 minutes, mashing halfway and stirring constantly at the end, until thick. Chill.",
+    "Heat the oven to 175 °C. Whisk the flour, baking powder, baking soda and salt.",
+    "Rub the lemon zest into the sugar, cream with the butter until very fluffy, then beat in the egg and vanilla and mix in the dry ingredients.",
+    "Layer the dough with the jam in quarters and fold just enough to leave pockets of jam.",
+    "Scoop 20 portions, wrap each around a frozen cheesecake disc, roll in sugar and bake 6 at a time for 11–12 minutes. Cool on the sheet for 10 minutes."
+  ],
+  "creatorNutrition": {
+    "kcal": 253.0,
+    "protein": 3.0,
+    "carbs": 33.0,
+    "fat": 13.0,
+    "fiber": 1.0,
+    "per": "cookie"
+  }
+}

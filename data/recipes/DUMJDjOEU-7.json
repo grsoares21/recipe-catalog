@@ -1,0 +1,61 @@
+{
+  "id": "DUMJDjOEU-7",
+  "kind": "recipe",
+  "title": "Pamonha mineira com queijo e goiabada",
+  "language": "pt",
+  "creator": "ogustavotubarao",
+  "reelUrl": "https://www.instagram.com/reel/DUMJDjOEU-7/",
+  "servings": 12,
+  "servingsEstimated": true,
+  "tags": [
+    "snack",
+    "brazilian",
+    "corn"
+  ],
+  "status": "incomplete",
+  "statusNote": "No recipe is given. The ≈ amounts and steps follow the usual method.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "corn_on_the_cob",
+          "amount": 12,
+          "unit": "piece",
+          "note": "with husks",
+          "assumed": true
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 0.5,
+          "unit": "cup",
+          "assumed": true
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch"
+        },
+        {
+          "ingredient": "queijo_minas",
+          "amount": 200,
+          "unit": "g",
+          "note": "in sticks",
+          "assumed": true
+        },
+        {
+          "ingredient": "goiabada",
+          "amount": 200,
+          "unit": "g",
+          "note": "in sticks",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cut the kernels off the cobs, keeping the husks, and grind or blend the corn.",
+    "Season with sugar and a pinch of salt.",
+    "Fold the husks into pouches, fill with corn mixture and a stick each of cheese and guava paste, and tie.",
+    "Boil in plenty of water for about 40 minutes."
+  ]
+}

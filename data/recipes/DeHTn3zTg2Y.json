@@ -1,0 +1,31 @@
+{
+  "id": "DeHTn3zTg2Y",
+  "kind": "tip",
+  "title": "Ovo cozido perfeito",
+  "language": "pt",
+  "creator": "bettoauge",
+  "reelUrl": "https://www.instagram.com/reel/DeHTn3zTg2Y/",
+  "servings": 1,
+  "tags": [
+    "tip",
+    "eggs",
+    "breakfast"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "egg",
+          "amount": 1,
+          "unit": "piece"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Bring the water to a full boil before adding the eggs. Works with eggs straight from the fridge or at room temperature.",
+    "Cook 6 minutes for a soft yolk, 8 minutes for firm but creamy (his favourite), 10 minutes for firm.",
+    "Follow the cooling and peeling steps shown in the video. He says every step matters for easy peeling."
+  ]
+}

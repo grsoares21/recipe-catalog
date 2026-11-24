@@ -1,0 +1,88 @@
+{
+  "id": "DcLH5pRMxf0",
+  "kind": "recipe",
+  "title": "High Protein Raspberry Dessert",
+  "language": "en",
+  "creator": "cooksana_",
+  "reelUrl": "https://www.instagram.com/reel/DcLH5pRMxf0/",
+  "servings": 2,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "high-protein",
+    "no-bake"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "rice_cakes",
+          "amount": 4,
+          "unit": "piece",
+          "note": "round"
+        },
+        {
+          "ingredient": "milk",
+          "amount": 50,
+          "unit": "ml",
+          "note": "plus 1 tsp vanilla syrup"
+        },
+        {
+          "ingredient": "raspberries",
+          "amount": 150,
+          "unit": "g",
+          "note": "plus 1 tsp lemon juice"
+        },
+        {
+          "ingredient": "greek_yogurt",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "ingredient": "protein_powder",
+          "amount": 20,
+          "unit": "g",
+          "note": "vanilla"
+        },
+        {
+          "ingredient": "honey",
+          "amount": 1.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "cream_cheese",
+          "amount": 30,
+          "unit": "g",
+          "note": "light",
+          "optional": true
+        },
+        {
+          "ingredient": "white_chocolate",
+          "amount": 20,
+          "unit": "g",
+          "note": "for the topping",
+          "assumed": true
+        },
+        {
+          "ingredient": "coconut_oil",
+          "amount": 1,
+          "unit": "tsp",
+          "note": "for the topping",
+          "assumed": true
+        },
+        {
+          "ingredient": "freeze_dried_raspberries",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cook the raspberries with the lemon juice for 5–7 minutes until slightly thickened. Cool.",
+    "Mix the yogurt, protein powder, honey and cream cheese into a cream.",
+    "Dip the rice cakes briefly in the vanilla milk and layer them with the cream and raspberry sauce. Repeat.",
+    "Top with white chocolate melted with coconut oil and freeze-dried raspberries."
+  ]
+}

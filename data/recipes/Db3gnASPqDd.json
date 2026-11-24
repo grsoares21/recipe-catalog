@@ -1,0 +1,78 @@
+{
+  "id": "Db3gnASPqDd",
+  "kind": "recipe",
+  "title": "High-Protein Pistachio Cheesecake",
+  "language": "en",
+  "creator": "thechefoutwest",
+  "reelUrl": "https://www.instagram.com/reel/Db3gnASPqDd/",
+  "sourceUrl": "https://thechefoutwest.com/high-protein-pistachio-cheesecake/",
+  "servings": 6,
+  "yield": "15 cm round",
+  "tags": [
+    "dessert",
+    "high-protein",
+    "cheesecake",
+    "baking"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "cottage_cheese",
+          "amount": 1,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "greek_yogurt",
+          "amount": 1,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "large"
+        },
+        {
+          "ingredient": "pistachios",
+          "amount": 1,
+          "unit": "cup",
+          "note": "shelled, plus crushed ones to top"
+        },
+        {
+          "ingredient": "maple_syrup",
+          "amount": 0.33,
+          "unit": "cup",
+          "note": "or honey"
+        },
+        {
+          "ingredient": "almond_flour",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "or oat flour"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 1,
+          "unit": "tsp"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat the oven to 160 °C and line a 15 cm round tin with parchment.",
+    "Blend everything until completely smooth, scraping down the sides.",
+    "Pour into the tin and bake 40–45 minutes, until the edges are set and the centre still jiggles slightly.",
+    "Cool a little, then chill at least 8 hours (overnight is best).",
+    "Serve with crushed pistachios and a drizzle of honey if you like."
+  ],
+  "creatorNutrition": {
+    "kcal": 254.0,
+    "protein": 14.0,
+    "carbs": 21.0,
+    "fat": 13.0,
+    "fiber": 2.0,
+    "per": "serving"
+  }
+}

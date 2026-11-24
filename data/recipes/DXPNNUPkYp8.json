@@ -1,0 +1,58 @@
+{
+  "id": "DXPNNUPkYp8",
+  "kind": "recipe",
+  "title": "Non-alcoholic \"champagne\"",
+  "language": "en",
+  "creator": "plantyou",
+  "reelUrl": "https://www.instagram.com/reel/DXPNNUPkYp8/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "tags": [
+    "drink",
+    "mocktail"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "maple_syrup",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "thyme",
+          "amount": 2,
+          "unit": "sprig"
+        },
+        {
+          "ingredient": "ginger",
+          "amount": 1,
+          "unit": "piece",
+          "note": "small thumb"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 4,
+          "unit": "slice",
+          "note": "thin, seeds removed"
+        },
+        {
+          "ingredient": "lemon_balm_tincture",
+          "amount": 0.75,
+          "unit": "tsp",
+          "optional": true
+        },
+        {
+          "ingredient": "water",
+          "amount": 4,
+          "unit": "cup"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Simmer everything gently in a pot for 5 minutes.",
+    "Cool, then carbonate in a soda machine to the fizziness you like."
+  ]
+}

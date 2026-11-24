@@ -1,0 +1,70 @@
+{
+  "id": "DUoUvRVj8sC",
+  "kind": "recipe",
+  "title": "Ovo curado no fubá",
+  "language": "pt",
+  "creator": "fabiobarbero",
+  "reelUrl": "https://www.instagram.com/reel/DUoUvRVj8sC/",
+  "servings": 2,
+  "tags": [
+    "breakfast",
+    "eggs",
+    "brazilian"
+  ],
+  "status": "incomplete",
+  "statusNote": "No recipe is given. The ≈ amounts and steps are reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "egg_yolk",
+          "amount": 2,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "cornmeal",
+          "amount": 20,
+          "unit": "g",
+          "note": "what sticks to the yolks; you need about 200 g of fubá to bury them",
+          "assumed": true
+        },
+        {
+          "ingredient": "vegetable_oil",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "absorbed; you need about 200 ml for frying",
+          "assumed": true
+        },
+        {
+          "ingredient": "bread",
+          "amount": 2,
+          "unit": "slice",
+          "note": "toasted",
+          "assumed": true
+        },
+        {
+          "ingredient": "cottage_cheese",
+          "amount": 60,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "prosciutto",
+          "amount": 4,
+          "unit": "slice",
+          "assumed": true
+        },
+        {
+          "ingredient": "rocket",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Make hollows in a dish of fubá, slip a yolk into each and cover with more fubá. Leave in the fridge until the yolks firm up.",
+    "Lift the coated yolks out and fry briefly in hot oil until the crust is golden but the yolk still runny.",
+    "Serve on toast with cottage cheese, rocket and prosciutto."
+  ]
+}

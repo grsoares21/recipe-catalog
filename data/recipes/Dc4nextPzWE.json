@@ -1,0 +1,44 @@
+{
+  "id": "Dc4nextPzWE",
+  "kind": "tip",
+  "title": "Basil sugar for cakes",
+  "language": "en",
+  "creator": "sporckly",
+  "reelUrl": "https://www.instagram.com/reel/Dc4nextPzWE/",
+  "servings": 1,
+  "tags": [
+    "tip",
+    "baking",
+    "herbs"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "basil",
+          "amount": 20,
+          "unit": "g",
+          "note": "fresh leaves",
+          "assumed": true
+        },
+        {
+          "ingredient": "cane_sugar",
+          "amount": 200,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "butter",
+          "amount": 200,
+          "unit": "g",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Blitz the basil leaves with the cane sugar in a food processor until bright green.",
+    "Cream the basil sugar with butter as the first step of any butter cake."
+  ]
+}

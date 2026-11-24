@@ -1,0 +1,70 @@
+{
+  "id": "DanVPS1tcCi",
+  "kind": "recipe",
+  "title": "Raw mint leaf syrup & mint lemonade",
+  "language": "en",
+  "creator": "thrivewithcandicee",
+  "reelUrl": "https://www.instagram.com/reel/DanVPS1tcCi/",
+  "servings": 10,
+  "servingsEstimated": true,
+  "tags": [
+    "drink",
+    "syrup",
+    "make-ahead"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Syrup",
+      "items": [
+        {
+          "ingredient": "mint",
+          "amount": 100,
+          "unit": "g",
+          "note": "leaves, roughly chopped",
+          "assumed": true
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 100,
+          "unit": "g",
+          "note": "white, same volume as the mint",
+          "assumed": true
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 2.5,
+          "unit": "piece",
+          "note": "juice of 2–3 lemons"
+        }
+      ]
+    },
+    {
+      "name": "Lemonade (per glass)",
+      "items": [
+        {
+          "ingredient": "lemon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "juice"
+        },
+        {
+          "ingredient": "sparkling_water",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "ice",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Wash the mint, pick the leaves and chop them roughly.",
+    "Layer equal parts mint and sugar in a jar, add a generous amount of lemon juice and press gently.",
+    "Close and leave in the fridge for 48–72 hours, stirring daily, until the sugar has dissolved into a light green syrup. Add a little water if it's slow to dissolve.",
+    "Strain and keep in the fridge.",
+    "Lemonade: fill a big glass with ice, add the juice of a lemon and some syrup, and top up with sparkling water."
+  ]
+}

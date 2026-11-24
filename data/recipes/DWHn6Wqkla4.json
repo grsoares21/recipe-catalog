@@ -1,0 +1,112 @@
+{
+  "id": "DWHn6Wqkla4",
+  "kind": "recipe",
+  "title": "One-Tray Caramelized Onion & Garlic Pasta",
+  "language": "en",
+  "creator": "recipeincaption",
+  "reelUrl": "https://www.instagram.com/reel/DWHn6Wqkla4/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "tags": [
+    "main",
+    "pasta",
+    "vegetarian",
+    "baked"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "onion",
+          "amount": 2,
+          "unit": "piece",
+          "note": "large, thinly sliced"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 1,
+          "unit": "piece",
+          "note": "whole head"
+        },
+        {
+          "ingredient": "chili_crisp",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "double_cream",
+          "amount": 1.5,
+          "unit": "cup",
+          "note": "or coconut milk, at room temperature"
+        },
+        {
+          "ingredient": "soy_sauce",
+          "amount": 1,
+          "unit": "tbsp",
+          "optional": true
+        },
+        {
+          "ingredient": "parmesan",
+          "amount": 0.5,
+          "unit": "cup",
+          "note": "freshly grated"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 0.5,
+          "unit": "piece",
+          "note": "juice"
+        },
+        {
+          "ingredient": "dried_pasta",
+          "amount": 340,
+          "unit": "g"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 5,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "water",
+          "unit": "to-taste",
+          "note": "pasta water as needed"
+        },
+        {
+          "ingredient": "paprika",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "garlic_powder",
+          "amount": 2,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 2,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "black_pepper",
+          "amount": 2,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "italian_seasoning",
+          "amount": 2,
+          "unit": "tsp"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat the oven to 200 °C. Toss the onions in a baking dish with the spices and 4 tbsp olive oil.",
+    "Cut the top off the garlic, drizzle with 1 tbsp oil, salt it and set it cut-side up on the onions.",
+    "Cover with foil and bake 1 hour, tossing the onions every 20 minutes with a splash of water, until deep golden and jammy.",
+    "Cook the pasta, keeping up to 1 cup of the water.",
+    "Squeeze the roasted garlic into the onions, add the chilli crisp, cream, soy sauce, lemon juice, Parmesan and pasta, and toss with pasta water until glossy."
+  ],
+  "notes": "Good with chicken, shrimp or tofu."
+}

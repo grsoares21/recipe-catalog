@@ -1,0 +1,93 @@
+{
+  "id": "DejllypRzTs",
+  "kind": "recipe",
+  "title": "French onion pasta (no cream)",
+  "language": "en",
+  "creator": "aldentedreams",
+  "reelUrl": "https://www.instagram.com/reel/DejllypRzTs/",
+  "servings": 3,
+  "yield": "serves 2–3",
+  "tags": [
+    "main",
+    "pasta"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "dried_pasta",
+          "amount": 250,
+          "unit": "g",
+          "note": "spaghetti"
+        },
+        {
+          "ingredient": "onion",
+          "amount": 3.5,
+          "unit": "piece",
+          "note": "large, thinly sliced"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "or butter, for the onions"
+        },
+        {
+          "ingredient": "balsamic_vinegar",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "red_wine",
+          "amount": 0.5,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 9,
+          "unit": "clove",
+          "note": "confited in olive oil"
+        },
+        {
+          "ingredient": "olive_oil",
+          "unit": "to-taste",
+          "note": "for the garlic confit",
+          "optional": true
+        },
+        {
+          "ingredient": "thyme",
+          "amount": 3,
+          "unit": "sprig"
+        },
+        {
+          "ingredient": "beef_broth",
+          "amount": 1.25,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "parmesan",
+          "amount": 1,
+          "unit": "cup",
+          "note": "Parmigiano Reggiano, finely grated"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cook the onions low and slow until soft, then keep going until deeply browned.",
+    "In the last 10 minutes, add the balsamic, then the red wine, and cook until jammy.",
+    "Meanwhile, confit the garlic with the thyme in olive oil until soft and golden.",
+    "Blend most of the onions with the garlic confit and beef broth until completely smooth, keeping a few spoonfuls of onions aside.",
+    "Bring the sauce to a gentle simmer in a pan, add the cooked spaghetti and toss.",
+    "Fold in the reserved onions, turn off the heat and toss in the Parmigiano until glossy."
+  ]
+}

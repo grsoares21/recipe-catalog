@@ -1,0 +1,71 @@
+{
+  "id": "DfZ-dK3MxqV",
+  "kind": "recipe",
+  "title": "Banana bread",
+  "language": "en",
+  "creator": "giallolovesitaly",
+  "reelUrl": "https://www.instagram.com/reel/DfZ-dK3MxqV/",
+  "servings": 10,
+  "servingsEstimated": true,
+  "yield": "1 loaf",
+  "tags": [
+    "baking",
+    "breakfast",
+    "snack",
+    "banana"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "banana",
+          "amount": 4,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "brown_sugar",
+          "amount": 160,
+          "unit": "g"
+        },
+        {
+          "ingredient": "butter",
+          "amount": 120,
+          "unit": "g",
+          "note": "melted"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 240,
+          "unit": "g"
+        },
+        {
+          "ingredient": "baking_soda",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Bake the whole bananas at 180 °C for 10–15 minutes until soft.",
+    "Mash them and mix with all the other ingredients.",
+    "Pour into a loaf tin and bake at 170 °C for 50–60 minutes.",
+    "Let it cool slightly before slicing."
+  ]
+}

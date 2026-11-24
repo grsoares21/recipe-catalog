@@ -1,0 +1,49 @@
+{
+  "id": "DPe1e1pjyYZ",
+  "kind": "recipe",
+  "title": "Nutella branca",
+  "language": "pt",
+  "creator": "anterioleo",
+  "reelUrl": "https://www.instagram.com/reel/DPe1e1pjyYZ/",
+  "servings": 20,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "spread",
+    "nuts"
+  ],
+  "status": "incomplete",
+  "statusNote": "The method is only shown in the video. The steps are the usual method.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "hazelnuts",
+          "amount": 150,
+          "unit": "g",
+          "note": "toasted"
+        },
+        {
+          "ingredient": "white_chocolate",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "ingredient": "whole_milk_powder",
+          "amount": 70,
+          "unit": "g"
+        },
+        {
+          "ingredient": "creme_de_leite",
+          "amount": 200,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Blend the toasted hazelnuts into a smooth paste.",
+    "Melt the chocolate and mix in the hazelnut paste, milk powder and cream until smooth.",
+    "Use as a filling or spread."
+  ]
+}

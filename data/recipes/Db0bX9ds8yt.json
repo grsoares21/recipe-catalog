@@ -1,0 +1,49 @@
+{
+  "id": "Db0bX9ds8yt",
+  "kind": "recipe",
+  "title": "Sardinha defumada na lata",
+  "language": "pt",
+  "creator": "olhaqloko",
+  "reelUrl": "https://www.instagram.com/reel/Db0bX9ds8yt/",
+  "servings": 1,
+  "tags": [
+    "snack",
+    "fish",
+    "quick"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "sardines",
+          "amount": 1,
+          "unit": "piece",
+          "note": "can in oil (it doesn't work with sardines in water or tomato sauce)"
+        },
+        {
+          "ingredient": "bread",
+          "unit": "to-taste",
+          "note": "Italian bread, to serve",
+          "optional": true
+        },
+        {
+          "ingredient": "butter",
+          "unit": "to-taste",
+          "optional": true
+        },
+        {
+          "ingredient": "lemon",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Open a can of sardines in oil and lay a folded paper towel over the sardines, leaving some sticking out on all sides.",
+    "On a clear, non-flammable surface, carefully set light to the edges of the paper. When the flames reach the oil, the sardines start to smoke.",
+    "Let it smoke for about 5 minutes, then blow out the flame or lift the paper off with tongs.",
+    "Eat as is, or on buttered bread with garlic farofa and a squeeze of lemon."
+  ]
+}

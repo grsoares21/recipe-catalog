@@ -1,0 +1,73 @@
+{
+  "id": "DXfOQXhgZEB",
+  "kind": "recipe",
+  "title": "Leek tarte tatin with feta",
+  "language": "en",
+  "creator": "sunshinecookingg",
+  "reelUrl": "https://www.instagram.com/reel/DXfOQXhgZEB/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "tags": [
+    "main",
+    "vegetarian",
+    "leeks",
+    "puff-pastry"
+  ],
+  "status": "incomplete",
+  "statusNote": "The creator sends the recipe by DM. The ≈ amounts and steps are reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "leek",
+          "amount": 3,
+          "unit": "piece",
+          "note": "cut into 3 cm rounds",
+          "assumed": true
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "balsamic_vinegar",
+          "amount": 2,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "honey",
+          "amount": 1,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "feta",
+          "amount": 150,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "puff_pastry",
+          "amount": 1,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "hazelnuts",
+          "unit": "to-taste",
+          "note": "chopped, to finish",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Brown the leek rounds in olive oil until caramelised.",
+    "Drizzle olive oil, balsamic and honey on a lined tray (or pan), arrange the leeks tightly on top and crumble over half the feta.",
+    "Cover with puff pastry and bake at 200 °C for about 25 minutes until golden.",
+    "Flip onto a plate and finish with the remaining feta and nuts."
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "Dd6m5nsO0r2",
+  "kind": "recipe",
+  "title": "Garlic pasta",
+  "language": "en",
+  "creator": "albert_cancook",
+  "reelUrl": "https://www.instagram.com/reel/Dd6m5nsO0r2/",
+  "servings": 2,
+  "servingsEstimated": true,
+  "tags": [
+    "main",
+    "pasta",
+    "garlic",
+    "vegetarian"
+  ],
+  "status": "incomplete",
+  "statusNote": "No recipe is given. The ingredients and steps are reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "garlic",
+          "amount": 20,
+          "unit": "clove",
+          "note": "confited in oil",
+          "assumed": true
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 4,
+          "unit": "tbsp",
+          "note": "from the confit",
+          "assumed": true
+        },
+        {
+          "ingredient": "butter",
+          "amount": 30,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "parmesan",
+          "amount": 40,
+          "unit": "g",
+          "note": "grated, plus more to serve",
+          "assumed": true
+        },
+        {
+          "ingredient": "dried_pasta",
+          "amount": 200,
+          "unit": "g",
+          "note": "rigatoni",
+          "assumed": true
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste",
+          "note": "plenty"
+        },
+        {
+          "ingredient": "parsley",
+          "unit": "to-taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Confit the peeled garlic cloves in olive oil until soft and golden, then mash them in the pan.",
+    "Add butter and grated Parmesan with a splash of pasta water to make a creamy sauce.",
+    "Toss in the cooked rigatoni and lots of black pepper.",
+    "Serve with parsley and more Parmesan."
+  ]
+}

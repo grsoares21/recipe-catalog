@@ -1,0 +1,70 @@
+{
+  "id": "Df7MKh8RDR-",
+  "kind": "recipe",
+  "title": "Ovos crocantes com queijo e sementes",
+  "language": "pt",
+  "creator": "paolacarosella",
+  "reelUrl": "https://www.instagram.com/reel/Df7MKh8RDR-/",
+  "servings": 1,
+  "tags": [
+    "breakfast",
+    "eggs",
+    "quick",
+    "high-protein"
+  ],
+  "status": "incomplete",
+  "statusNote": "The creator doesn't give amounts. The ≈ amounts are estimates from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "olive_oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "\"an obscene amount\", she says a third would do",
+          "assumed": true
+        },
+        {
+          "ingredient": "parmesan",
+          "amount": 20,
+          "unit": "g",
+          "note": "shavings",
+          "assumed": true
+        },
+        {
+          "ingredient": "chia_seeds",
+          "amount": 1,
+          "unit": "tsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "pumpkin_seeds",
+          "amount": 1,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat a generous amount of olive oil in a frying pan and scatter in the cheese shavings and the seeds.",
+    "Crack the eggs on top and season with salt.",
+    "Cover and cook until the whites are just set.",
+    "Uncover, turn the heat to maximum and fry until the cheese, whites and seeds form a golden, crunchy crust.",
+    "Finish with black pepper if you like and serve."
+  ]
+}

@@ -30,7 +30,7 @@ export default function RecipeView({ recipe: r, catalog, selection, setSelection
   return (
     <article className="page recipe">
       <a href="#/" className="back">‹ Recipes</a>
-      <img className="hero" src={r.photo} alt="" />
+      {r.photo ? <img className="hero" src={r.photo} alt="" /> : <div className="hero placeholder" aria-hidden="true">🍽️</div>}
       <h1>{r.title}</h1>
       <p className="meta">
         <a href={r.reelUrl} target="_blank" rel="noreferrer">@{r.creator} on Instagram ↗</a>

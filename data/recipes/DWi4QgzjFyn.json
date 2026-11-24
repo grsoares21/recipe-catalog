@@ -1,0 +1,128 @@
+{
+  "id": "DWi4QgzjFyn",
+  "kind": "recipe",
+  "title": "Rhabarberkuchen mit Florentiner Mandeln",
+  "language": "de",
+  "creator": "milena_krais",
+  "reelUrl": "https://www.instagram.com/reel/DWi4QgzjFyn/",
+  "servings": 12,
+  "servingsEstimated": true,
+  "yield": "26 cm tart tin",
+  "tags": [
+    "dessert",
+    "tart",
+    "baking",
+    "rhubarb"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Pastry",
+      "items": [
+        {
+          "ingredient": "spelt_flour",
+          "amount": 250,
+          "unit": "g",
+          "note": "type 1050, plus more for rolling"
+        },
+        {
+          "ingredient": "hazelnuts",
+          "amount": 70,
+          "unit": "g",
+          "note": "ground"
+        },
+        {
+          "ingredient": "cane_sugar",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "butter",
+          "amount": 160,
+          "unit": "g",
+          "note": "cubed, plus more for the tin"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 2,
+          "unit": "pinch"
+        }
+      ]
+    },
+    {
+      "name": "Florentine almonds",
+      "items": [
+        {
+          "ingredient": "flaked_almonds",
+          "amount": 125,
+          "unit": "g"
+        },
+        {
+          "ingredient": "butter",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "ingredient": "double_cream",
+          "amount": 3,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "cane_sugar",
+          "amount": 60,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "name": "Custard",
+      "items": [
+        {
+          "ingredient": "double_cream",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "custard_powder",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "vanilla pudding powder"
+        },
+        {
+          "ingredient": "powdered_sugar",
+          "amount": 2,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "name": "Also",
+      "items": [
+        {
+          "ingredient": "rhubarb",
+          "amount": 600,
+          "unit": "g",
+          "note": "washed, unpeeled"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Rub all the pastry ingredients together quickly into a smooth dough.",
+    "Butter the tart tin, roll out the pastry on a floured surface, line the tin, press the edges and trim.",
+    "Cut the rhubarb into diamonds and lay them over the pastry. Heat the oven to 170 °C fan.",
+    "Bring the Florentine ingredients briefly to the boil and set aside.",
+    "Whisk the custard ingredients and pour carefully over the rhubarb.",
+    "Bake 10 minutes, then spoon the Florentine almonds around the edge and bake another 20–25 minutes. Cool in the tin."
+  ]
+}

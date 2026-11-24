@@ -1,0 +1,138 @@
+{
+  "id": "DfdKiH4g3k8",
+  "kind": "recipe",
+  "title": "Couve-flor crocante com molho agridoce e maionese de berinjela defumada",
+  "language": "pt",
+  "creator": "veggiefitmarina",
+  "reelUrl": "https://www.instagram.com/reel/DfdKiH4g3k8/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "tags": [
+    "main",
+    "vegan",
+    "baked",
+    "cauliflower"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Crispy cauliflower",
+      "items": [
+        {
+          "ingredient": "cauliflower",
+          "amount": 1,
+          "unit": "piece",
+          "note": "large, in florets"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 120,
+          "unit": "g",
+          "note": "or a gluten-free mix"
+        },
+        {
+          "ingredient": "water",
+          "amount": 200,
+          "unit": "ml",
+          "note": "180–220 ml"
+        },
+        {
+          "ingredient": "panko",
+          "amount": 90,
+          "unit": "g",
+          "note": "or breadcrumbs"
+        },
+        {
+          "ingredient": "paprika",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "turmeric",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "olive_oil",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "name": "Sweet and sour sauce",
+      "items": [
+        {
+          "ingredient": "date_syrup",
+          "amount": 50,
+          "unit": "g",
+          "note": "or molasses"
+        },
+        {
+          "ingredient": "vinegar",
+          "amount": 30,
+          "unit": "ml"
+        },
+        {
+          "ingredient": "miso",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "heaped"
+        },
+        {
+          "ingredient": "smoked_paprika",
+          "unit": "to-taste",
+          "note": "or hot paprika"
+        }
+      ]
+    },
+    {
+      "name": "Smoky aubergine mayo",
+      "items": [
+        {
+          "ingredient": "aubergine",
+          "amount": 2,
+          "unit": "piece",
+          "note": "medium"
+        },
+        {
+          "ingredient": "cashews",
+          "amount": 100,
+          "unit": "g",
+          "note": "soaked"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 1,
+          "unit": "clove"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "juice only"
+        },
+        {
+          "ingredient": "water",
+          "amount": 100,
+          "unit": "ml",
+          "note": "up to"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cauliflower: mix the flour and spices, then add the water gradually until you get a thick batter.",
+    "Coat the florets in the batter, then in the panko, and spread on a baking tray.",
+    "Bake at 200 °C for 20–30 minutes, turning halfway. A little olive oil helps them brown.",
+    "Sauce: mix everything, brush over the baked florets and return to the oven for 10–15 minutes, without letting it burn.",
+    "Mayo: char the aubergines directly over a gas flame, turning, until the skin is black and the flesh soft. Cool, peel and blend the flesh with the other ingredients, adding the water gradually until creamy.",
+    "Serve the cauliflower with the mayo."
+  ]
+}

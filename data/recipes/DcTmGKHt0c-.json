@@ -1,0 +1,108 @@
+{
+  "id": "DcTmGKHt0c-",
+  "kind": "recipe",
+  "title": "Accordion harissa carrots with green tahini yoghurt",
+  "language": "en",
+  "creator": "channel4served",
+  "reelUrl": "https://www.instagram.com/reel/DcTmGKHt0c-/",
+  "servings": 3,
+  "yield": "serves 2–4",
+  "tags": [
+    "side",
+    "vegan",
+    "carrots",
+    "roasted"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Carrots",
+      "items": [
+        {
+          "ingredient": "carrot",
+          "amount": 400,
+          "unit": "g",
+          "note": "washed and trimmed"
+        },
+        {
+          "ingredient": "harissa",
+          "amount": 3,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "maple_syrup",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "or agave"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch"
+        }
+      ]
+    },
+    {
+      "name": "Green tahini yoghurt",
+      "items": [
+        {
+          "ingredient": "vegan_yogurt",
+          "amount": 200,
+          "unit": "g",
+          "note": "Greek style"
+        },
+        {
+          "ingredient": "tahini",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "coriander",
+          "unit": "to-taste",
+          "note": "a large handful"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 0.5,
+          "unit": "piece",
+          "note": "juice only"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch"
+        }
+      ]
+    },
+    {
+      "name": "To serve",
+      "items": [
+        {
+          "ingredient": "hazelnuts",
+          "amount": 20,
+          "unit": "g",
+          "note": "toasted",
+          "assumed": true
+        },
+        {
+          "ingredient": "coriander",
+          "unit": "to-taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat the oven to 200 °C.",
+    "Lay each carrot between two chopsticks and slice diagonally along it without cutting through. Flip and make straight cuts along the other side.",
+    "Roast the carrots with the oil and salt for 15 minutes.",
+    "Mix the harissa with the syrup, toss with the carrots and roast another 10–15 minutes until sticky and caramelised.",
+    "Blend the yogurt, tahini, coriander, lemon juice and salt until smooth.",
+    "Spread the yogurt on a dish, top with the carrots and finish with hazelnuts and coriander."
+  ],
+  "notes": "Recipe by @rhi.scran."
+}

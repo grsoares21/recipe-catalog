@@ -1,0 +1,45 @@
+{
+  "id": "DVPJjMYEhAA",
+  "kind": "recipe",
+  "title": "Cold brew",
+  "language": "pt",
+  "creator": "nuncavi1cientista",
+  "reelUrl": "https://www.instagram.com/reel/DVPJjMYEhAA/",
+  "servings": 8,
+  "yield": "1 litre concentrate",
+  "tags": [
+    "drink",
+    "coffee",
+    "make-ahead"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "ground_coffee",
+          "amount": 125,
+          "unit": "g",
+          "note": "medium grind"
+        },
+        {
+          "ingredient": "water",
+          "amount": 1000,
+          "unit": "ml"
+        },
+        {
+          "ingredient": "orange",
+          "unit": "to-taste",
+          "note": "peel, or cinnamon, cloves, cardamom",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Use a 1:8 ratio of coffee to water (31 g for 250 ml, 62.5 g for 500 ml, 125 g for 1 litre).",
+    "Leave covered in a glass container, at room temperature or in the fridge, for at least 12 hours (up to 24), then strain.",
+    "Dilute 1:1 with water, milk or another drink to serve."
+  ],
+  "notes": "180 ml of cold brew has about 200 mg of caffeine, roughly twice a cup of filter coffee."
+}

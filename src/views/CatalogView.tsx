@@ -82,7 +82,7 @@ export default function CatalogView({ catalog, selection }: { catalog: Catalog; 
         {results.map((r) => (
           <li key={r.id}>
             <a href={`#/r/${r.id}`} className="card">
-              <img src={r.photo} alt="" loading="lazy" />
+              {r.photo ? <img src={r.photo} alt="" loading="lazy" /> : <div className="placeholder" aria-hidden="true">🍽️</div>}
               {selection[r.id] && <span className="in-list" title="In shopping list">✓</span>}
               <div className="card-body">
                 <h2>{r.title}</h2>

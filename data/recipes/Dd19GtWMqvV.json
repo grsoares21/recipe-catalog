@@ -1,0 +1,97 @@
+{
+  "id": "Dd19GtWMqvV",
+  "kind": "recipe",
+  "title": "Bolo de cenoura com recheio de brownie",
+  "language": "en",
+  "creator": "thefairywhobakes",
+  "reelUrl": "https://www.instagram.com/reel/Dd19GtWMqvV/",
+  "servings": 12,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "cake",
+    "carrots",
+    "chocolate",
+    "brazilian"
+  ],
+  "status": "incomplete",
+  "statusNote": "The creator only shows the method in the video, with a few amounts on screen. The ≈ amounts are estimates.",
+  "ingredientGroups": [
+    {
+      "name": "Brownie fudge filling",
+      "items": [
+        {
+          "ingredient": "milk",
+          "amount": 600,
+          "unit": "ml",
+          "assumed": true
+        },
+        {
+          "ingredient": "condensed_milk",
+          "amount": 395,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "cocoa_powder",
+          "amount": 40,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "butter",
+          "amount": 20,
+          "unit": "g",
+          "assumed": true
+        }
+      ]
+    },
+    {
+      "name": "Carrot cake",
+      "items": [
+        {
+          "ingredient": "carrot",
+          "amount": 2,
+          "unit": "cup",
+          "note": "chopped"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 3,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "vegetable_oil",
+          "amount": 0.5,
+          "unit": "cup",
+          "assumed": true
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 1.5,
+          "unit": "cup",
+          "assumed": true
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 2,
+          "unit": "cup",
+          "assumed": true
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 1,
+          "unit": "tbsp",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Filling: cook the milk, condensed milk, cocoa and butter, stirring, until thick and fudgy. Cool.",
+    "Cake: blend the carrots, eggs and oil until smooth, then mix with the sugar, flour and baking powder.",
+    "Pour half the batter into a tin, spoon in the chocolate filling, then cover with the rest.",
+    "Bake at 180 °C for about 45 minutes."
+  ]
+}

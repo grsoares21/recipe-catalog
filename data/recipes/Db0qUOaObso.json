@@ -1,0 +1,76 @@
+{
+  "id": "Db0qUOaObso",
+  "kind": "recipe",
+  "title": "3 cafés com fruta",
+  "language": "pt",
+  "creator": "fabio.cafes",
+  "reelUrl": "https://www.instagram.com/reel/Db0qUOaObso/",
+  "servings": 3,
+  "servingsEstimated": true,
+  "tags": [
+    "drink",
+    "coffee",
+    "fruit"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Coffee melon sorbet",
+      "items": [
+        {
+          "ingredient": "melon",
+          "amount": 0.5,
+          "unit": "piece",
+          "note": "frozen"
+        },
+        {
+          "ingredient": "espresso",
+          "amount": 1,
+          "unit": "piece",
+          "note": "shot"
+        }
+      ]
+    },
+    {
+      "name": "Cold brew with coconut water",
+      "items": [
+        {
+          "ingredient": "ground_coffee",
+          "amount": 60,
+          "unit": "g",
+          "note": "coarse"
+        },
+        {
+          "ingredient": "mint",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "coconut_water",
+          "amount": 600,
+          "unit": "ml"
+        }
+      ]
+    },
+    {
+      "name": "Kiwi coffee",
+      "items": [
+        {
+          "ingredient": "kiwi",
+          "amount": 0.5,
+          "unit": "piece",
+          "note": "frozen"
+        },
+        {
+          "ingredient": "ground_coffee",
+          "amount": 15,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Melon: pour a shot of espresso into a frozen half melon and stir until it turns into a sorbet.",
+    "Coconut cold brew: steep the coffee and mint in the coconut water for 24 hours, then strain.",
+    "Kiwi: grate frozen kiwi over the ground coffee and brew as usual."
+  ]
+}

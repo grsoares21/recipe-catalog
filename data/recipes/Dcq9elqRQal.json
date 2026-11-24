@@ -1,0 +1,60 @@
+{
+  "id": "Dcq9elqRQal",
+  "kind": "recipe",
+  "title": "Ginger tônica sem álcool",
+  "language": "pt",
+  "creator": "gigivilela",
+  "reelUrl": "https://www.instagram.com/reel/Dcq9elqRQal/",
+  "servings": 2,
+  "servingsEstimated": true,
+  "tags": [
+    "drink",
+    "mocktail",
+    "ginger"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "ginger",
+          "amount": 30,
+          "unit": "g",
+          "note": "chopped",
+          "assumed": true
+        },
+        {
+          "ingredient": "water",
+          "amount": 300,
+          "unit": "ml",
+          "assumed": true
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "juice"
+        },
+        {
+          "ingredient": "honey",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "tonic_water",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "ice",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Simmer the chopped ginger in water for 5 minutes, then strain.",
+    "Mix the lemon juice and honey into the ginger water. It turns pink.",
+    "Fill a glass a little over halfway with the ginger mixture and top up with tonic water."
+  ]
+}

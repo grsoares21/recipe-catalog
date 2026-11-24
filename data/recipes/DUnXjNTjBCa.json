@@ -1,0 +1,65 @@
+{
+  "id": "DUnXjNTjBCa",
+  "kind": "recipe",
+  "title": "Œufs brouillés à la feta au four",
+  "language": "fr",
+  "creator": "itscoldtrain",
+  "reelUrl": "https://www.instagram.com/reel/DUnXjNTjBCa/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "tags": [
+    "breakfast",
+    "eggs",
+    "baked"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "egg",
+          "amount": 8,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "feta",
+          "amount": 150,
+          "unit": "g",
+          "note": "whole block",
+          "assumed": true
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 1,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 2,
+          "unit": "clove",
+          "optional": true
+        },
+        {
+          "ingredient": "parsley",
+          "unit": "to-taste",
+          "optional": true
+        },
+        {
+          "ingredient": "chili_pepper",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Put the feta in an oven dish, crack the eggs around it and drizzle with olive oil. No salt: the feta is salty.",
+    "Add pepper (and garlic, parsley and chilli).",
+    "Bake at 180 °C for about 15 minutes, then mix everything together into soft scrambled eggs."
+  ]
+}

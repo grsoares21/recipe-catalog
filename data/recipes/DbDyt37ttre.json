@@ -1,0 +1,133 @@
+{
+  "id": "DbDyt37ttre",
+  "kind": "recipe",
+  "title": "Upside-down pistachio blackberry cake",
+  "language": "en",
+  "creator": "eatsbyellaa",
+  "reelUrl": "https://www.instagram.com/reel/DbDyt37ttre/",
+  "servings": 9,
+  "yield": "18 cm tin, serves 8–10",
+  "tags": [
+    "dessert",
+    "cake",
+    "baking",
+    "berries"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Cake",
+      "items": [
+        {
+          "ingredient": "pistachios",
+          "amount": 100,
+          "unit": "g",
+          "note": "roasted"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 155,
+          "unit": "g"
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 1.25,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "baking_soda",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 100,
+          "unit": "g",
+          "note": "caster"
+        },
+        {
+          "ingredient": "coconut_sugar",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "ingredient": "cottage_cheese",
+          "amount": 180,
+          "unit": "g",
+          "note": "low-fat"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "matcha",
+          "amount": 1.5,
+          "unit": "tsp",
+          "note": "for colour",
+          "optional": true
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 80,
+          "unit": "ml"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "blackberries",
+          "amount": 310,
+          "unit": "g",
+          "note": "fresh"
+        }
+      ]
+    },
+    {
+      "name": "Compote",
+      "items": [
+        {
+          "ingredient": "blackberries",
+          "amount": 80,
+          "unit": "g",
+          "note": "frozen"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "juice"
+        },
+        {
+          "ingredient": "coconut_sugar",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "or another sweetener"
+        },
+        {
+          "ingredient": "cornstarch",
+          "amount": 1,
+          "unit": "tsp",
+          "note": "mixed with 1 tbsp water"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat the oven to 180 °C and line an 18 cm springform tin.",
+    "Blend the pistachios to a fine crumb and set aside.",
+    "Blend the eggs and cottage cheese until smooth, then whisk in the sugars, vanilla, oil and pistachios.",
+    "Sift the flour, baking powder, baking soda, salt and matcha and fold into the wet mixture.",
+    "Pack the blackberries tightly into the bottom of the tin and pour the batter on top.",
+    "Bake about 50 minutes, until a tester comes out clean. Cool, then turn upside down.",
+    "Compote: cook the blackberries, lemon juice and sugar until bubbling, add the cornstarch slurry and simmer a few minutes to thicken. Serve with the cake, yogurt and chopped pistachios."
+  ]
+}

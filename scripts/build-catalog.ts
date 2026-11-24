@@ -40,6 +40,7 @@ const round = (n: number) => Math.round(n);
 function estimate(r: RecipeSource): Recipe['nutrition'] {
   const total: Macros = { kcal: 0, protein: 0, carbs: 0, fat: 0, fiber: 0 };
   const missing: string[] = [];
+  let counted = 0;
   for (const line of r.ingredientGroups.flatMap((g) => g.items)) {
     const ing = ingredients[line.ingredient];
     if (line.optional || line.unit === 'to-taste') continue;
@@ -51,7 +52,10 @@ function estimate(r: RecipeSource): Recipe['nutrition'] {
       continue;
     }
     for (const k of Object.keys(total) as (keyof Macros)[]) total[k] += (n[k] * g) / 100;
+    counted++;
   }
+  // Nothing measurable (e.g. a board assembled "to taste"): no estimate beats a fake 0 kcal.
+  if (!counted) return undefined;
   const s = r.servings;
   return {
     source: 'estimated',
@@ -69,8 +73,10 @@ for (const file of fs.readdirSync('data/recipes').filter((f) => f.endsWith('.jso
     else if (line.unit !== 'to-taste' && line.amount !== undefined && grams(line, ingredients[line.ingredient]) === undefined)
       errors.push(`${file}: can't convert ${line.unit} of ${line.ingredient} to grams (add unitWeights/density)`);
   }
-  const photo = `photos/${r.id}.jpg`;
-  if (!fs.existsSync(path.join('public', photo))) errors.push(`${file}: missing ${photo}`);
+  // Some reels can't be fetched logged out; those recipes show a placeholder instead of a photo.
+  const photoPath = `photos/${r.id}.jpg`;
+  const photo = fs.existsSync(path.join('public', photoPath)) ? photoPath : undefined;
+  if (!photo) console.warn(`${file}: no photo, using placeholder`);
   const nutrition = r.creatorNutrition
     ? { source: 'creator' as const, kcal: r.creatorNutrition.kcal, protein: r.creatorNutrition.protein, carbs: r.creatorNutrition.carbs, fat: r.creatorNutrition.fat, fiber: r.creatorNutrition.fiber, missing: [] }
     : r.kind === 'recipe' ? estimate(r) : undefined;

@@ -1,0 +1,37 @@
+{
+  "id": "DdMc9t8oBRk",
+  "kind": "tip",
+  "title": "Blended pasta for creamier sauces",
+  "language": "en",
+  "creator": "fallowchefs",
+  "reelUrl": "https://www.instagram.com/reel/DdMc9t8oBRk/",
+  "servings": 1,
+  "tags": [
+    "tip",
+    "pasta"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "dried_pasta",
+          "amount": 50,
+          "unit": "g",
+          "note": "cooked",
+          "assumed": true
+        },
+        {
+          "ingredient": "water",
+          "unit": "to-taste",
+          "note": "leftover pasta water"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Blend a little cooked pasta with some of its cooking water until completely smooth.",
+    "Keep it in a bottle in the fridge.",
+    "Add a little whenever you make pasta, before or while tossing the sauce: it's concentrated starch that makes sauces glossy and emulsified."
+  ]
+}

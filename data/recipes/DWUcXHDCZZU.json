@@ -1,0 +1,73 @@
+{
+  "id": "DWUcXHDCZZU",
+  "kind": "recipe",
+  "title": "Carne moída temperada para a semana",
+  "language": "pt",
+  "creator": "1001_receitasfit",
+  "reelUrl": "https://www.instagram.com/reel/DWUcXHDCZZU/",
+  "servings": 6,
+  "servingsEstimated": true,
+  "tags": [
+    "main",
+    "meal-prep",
+    "beef",
+    "high-protein"
+  ],
+  "status": "incomplete",
+  "statusNote": "The caption lists ingredients only. The steps are the usual method.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "ground_beef",
+          "amount": 750,
+          "unit": "g",
+          "note": "acém"
+        },
+        {
+          "ingredient": "red_onion",
+          "amount": 0.5,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "yellow_pepper",
+          "amount": 0.5,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 1,
+          "unit": "clove"
+        },
+        {
+          "ingredient": "parsley",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "chopped"
+        },
+        {
+          "ingredient": "paprika",
+          "amount": 2,
+          "unit": "tsp",
+          "note": "hot"
+        },
+        {
+          "ingredient": "chimichurri",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 2,
+          "unit": "tsp"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Chop the onion, pepper and garlic.",
+    "Brown the beef in a hot pan, then add the vegetables and cook until soft.",
+    "Season with paprika, chimichurri, salt and parsley.",
+    "Portion and freeze. She uses it to fill pumpkin crêpes."
+  ]
+}

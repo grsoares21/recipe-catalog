@@ -1,0 +1,111 @@
+{
+  "id": "DfaNjwPh2W3",
+  "kind": "recipe",
+  "title": "Roasted honeynut squash & feta dip",
+  "language": "en",
+  "creator": "theoriginaldish",
+  "reelUrl": "https://www.instagram.com/reel/DfaNjwPh2W3/",
+  "sourceUrl": "https://theoriginaldish.com/roasted-honeynut-squash-feta-dip/",
+  "servings": 6,
+  "servingsEstimated": true,
+  "tags": [
+    "snack",
+    "dip",
+    "vegetarian",
+    "party"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Dip",
+      "items": [
+        {
+          "ingredient": "butternut_squash",
+          "amount": 1.25,
+          "unit": "lb",
+          "note": "honeynut, halved and seeded"
+        },
+        {
+          "ingredient": "olive_oil",
+          "unit": "to-taste",
+          "note": "for roasting"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "feta",
+          "amount": 0.5,
+          "unit": "lb",
+          "note": "crumbled"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 0.25,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "honey",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "water",
+          "amount": 0.25,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
+      "name": "Topping",
+      "items": [
+        {
+          "ingredient": "olive_oil",
+          "amount": 0.25,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "sage",
+          "amount": 12,
+          "unit": "piece",
+          "note": "leaves"
+        },
+        {
+          "ingredient": "chili_pepper",
+          "amount": 1,
+          "unit": "piece",
+          "note": "red Fresno, seeded and thinly sliced"
+        },
+        {
+          "ingredient": "pecans",
+          "amount": 55,
+          "unit": "g",
+          "note": "chopped (½ cup)"
+        },
+        {
+          "ingredient": "honey",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "bread",
+          "unit": "to-taste",
+          "note": "toasted, or crackers, to serve",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat the oven to 220 °C. Rub the squash halves with olive oil and salt and roast cut-side down for 40 minutes, until tender. Cool.",
+    "Scoop the flesh into a food processor with the feta, ¼ cup olive oil and 1 tbsp honey. Pulse, then blend while drizzling in the water until smooth.",
+    "Fry the sage leaves in the remaining ¼ cup olive oil over medium heat until crisp, then drain on paper.",
+    "Lower the heat, soften the chile in the oil for a minute or two, add the pecans for a few seconds, then stir in 2 tbsp honey and simmer until slightly thickened.",
+    "Spread the dip in a shallow bowl, add black pepper, spoon the honey-pecan topping over and finish with the sage. Serve with toast or crackers."
+  ]
+}

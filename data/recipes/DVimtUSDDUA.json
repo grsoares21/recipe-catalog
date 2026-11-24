@@ -1,0 +1,46 @@
+{
+  "id": "DVimtUSDDUA",
+  "kind": "recipe",
+  "title": "Strainer-poached egg on toast",
+  "language": "en",
+  "creator": "jordan_the_stallion8",
+  "reelUrl": "https://www.instagram.com/reel/DVimtUSDDUA/",
+  "servings": 1,
+  "tags": [
+    "breakfast",
+    "eggs",
+    "quick"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "egg",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "bread",
+          "amount": 1,
+          "unit": "slice",
+          "note": "toasted",
+          "assumed": true
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Bring a small pot of water to the boil and set a mini strainer over it.",
+    "Crack the egg into the strainer, cover and steam until the white is set.",
+    "Flip it onto toast and season."
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "DcERlHdxy5n",
+  "kind": "recipe",
+  "title": "Patê de cebola caramelizada com pepperoni e mel picante",
+  "language": "pt",
+  "creator": "cozinharviajareamar",
+  "reelUrl": "https://www.instagram.com/reel/DcERlHdxy5n/",
+  "servings": 6,
+  "servingsEstimated": true,
+  "tags": [
+    "snack",
+    "dip",
+    "party"
+  ],
+  "status": "incomplete",
+  "statusNote": "The creator gives no amounts. The ≈ amounts are estimates.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "pepperoni",
+          "amount": 80,
+          "unit": "g",
+          "note": "diced",
+          "assumed": true
+        },
+        {
+          "ingredient": "onion",
+          "amount": 2,
+          "unit": "piece",
+          "note": "sliced",
+          "assumed": true
+        },
+        {
+          "ingredient": "cream_cheese",
+          "amount": 150,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "requeijao",
+          "amount": 100,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "honey",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "spicy",
+          "assumed": true
+        },
+        {
+          "ingredient": "parsley",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "bread",
+          "unit": "to-taste",
+          "note": "toasts, to serve",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Fry the pepperoni until crispy and set it aside, keeping the fat in the pan.",
+    "Caramelise the onions slowly in the pepperoni fat.",
+    "Mix the cream cheese and requeijão with the onions, pepperoni and parsley.",
+    "Drizzle with spicy honey and serve with toasts."
+  ]
+}

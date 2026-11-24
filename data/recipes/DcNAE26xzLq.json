@@ -1,0 +1,129 @@
+{
+  "id": "DcNAE26xzLq",
+  "kind": "recipe",
+  "title": "Bolo de ninho com mirtilo e limão siciliano",
+  "language": "pt",
+  "creator": "menujouet",
+  "reelUrl": "https://www.instagram.com/reel/DcNAE26xzLq/",
+  "servings": 16,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "cake",
+    "brazilian",
+    "blueberries"
+  ],
+  "status": "incomplete",
+  "statusNote": "The caption doesn't explain how to make the cream and the brigadeiro or how to assemble the cake. Those steps are the usual method.",
+  "ingredientGroups": [
+    {
+      "name": "Cake",
+      "items": [
+        {
+          "ingredient": "butter",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 320,
+          "unit": "g"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 4,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "milk",
+          "amount": 180,
+          "unit": "ml"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 310,
+          "unit": "g",
+          "note": "plus a little to coat the blueberries"
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 10,
+          "unit": "g"
+        },
+        {
+          "ingredient": "blueberries",
+          "amount": 150,
+          "unit": "g",
+          "note": "frozen",
+          "assumed": true
+        }
+      ]
+    },
+    {
+      "name": "Ninho cream",
+      "items": [
+        {
+          "ingredient": "condensed_milk",
+          "amount": 395,
+          "unit": "g",
+          "note": "1 can, chilled"
+        },
+        {
+          "ingredient": "unsalted_butter",
+          "amount": 200,
+          "unit": "g",
+          "note": "softened"
+        },
+        {
+          "ingredient": "creme_de_leite",
+          "amount": 200,
+          "unit": "g",
+          "note": "chilled"
+        },
+        {
+          "ingredient": "whole_milk_powder",
+          "amount": 1,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
+      "name": "Ninho brigadeiro",
+      "items": [
+        {
+          "ingredient": "condensed_milk",
+          "amount": 1185,
+          "unit": "g",
+          "note": "3 cans"
+        },
+        {
+          "ingredient": "creme_de_leite",
+          "amount": 450,
+          "unit": "g"
+        },
+        {
+          "ingredient": "unsalted_butter",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "ingredient": "whole_milk_powder",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "lemon",
+          "unit": "to-taste",
+          "note": "zest, added at the end"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cake: cream the butter and sugar, beat in the eggs, then add the milk, flour and baking powder.",
+    "Toss the blueberries in a little flour in a sieve and fold them in. Pour into a greased tin lined with baking paper.",
+    "Bake in a preheated oven at 180 °C for about 45 minutes.",
+    "Ninho cream: beat the butter until fluffy, then beat in the cold condensed milk, cream and milk powder.",
+    "Brigadeiro: cook the condensed milk, cream and butter, stirring, until it thickens. Stir in milk powder to taste and finish with lemon zest.",
+    "Split the cake, fill with the cream and cover with the brigadeiro."
+  ]
+}

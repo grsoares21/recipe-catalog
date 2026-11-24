@@ -1,0 +1,84 @@
+{
+  "id": "DWR8dF9ESiA",
+  "kind": "recipe",
+  "title": "Sorvete de café (de café da manhã)",
+  "language": "pt",
+  "creator": "comida.sem.regra",
+  "reelUrl": "https://www.instagram.com/reel/DWR8dF9ESiA/",
+  "servings": 1,
+  "tags": [
+    "breakfast",
+    "dessert",
+    "frozen",
+    "coffee",
+    "vegan",
+    "high-protein"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "banana",
+          "amount": 1.5,
+          "unit": "piece",
+          "note": "frozen, 1–2"
+        },
+        {
+          "ingredient": "ice",
+          "amount": 0.5,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "soy_milk",
+          "amount": 0.5,
+          "unit": "cup",
+          "note": "or another plant milk"
+        },
+        {
+          "ingredient": "protein_powder",
+          "amount": 30,
+          "unit": "g",
+          "note": "plant-based"
+        },
+        {
+          "ingredient": "instant_coffee",
+          "amount": 2,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "cinnamon",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "xanthan_gum",
+          "amount": 1,
+          "unit": "tsp",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "name": "Chocolate shell",
+      "items": [
+        {
+          "ingredient": "dark_chocolate",
+          "amount": 35,
+          "unit": "g",
+          "note": "25–50 g"
+        },
+        {
+          "ingredient": "coconut_oil",
+          "amount": 0.5,
+          "unit": "tsp"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Blend everything patiently, stopping to scrape the sides, until smooth and very fluffy. Without xanthan gum, use 2 bananas.",
+    "Melt the chocolate with the coconut oil and pour it over the ice cream without mixing.",
+    "Freeze for about 5 minutes until the shell hardens."
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "DTYCJLrjojx",
+  "kind": "recipe",
+  "title": "Refrigerante de limão fermentado",
+  "language": "pt",
+  "creator": "lari.soaresr",
+  "reelUrl": "https://www.instagram.com/reel/DTYCJLrjojx/",
+  "servings": 12,
+  "servingsEstimated": true,
+  "yield": "about 3.5 litres",
+  "tags": [
+    "drink",
+    "fermentation",
+    "lemon"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Yuja starter",
+      "items": [
+        {
+          "ingredient": "lemon",
+          "amount": 7,
+          "unit": "piece",
+          "note": "very large, or 150 ml juice, plus all the peels"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "ingredient": "water",
+          "amount": 150,
+          "unit": "ml"
+        }
+      ]
+    },
+    {
+      "name": "Soda",
+      "items": [
+        {
+          "ingredient": "water",
+          "amount": 3,
+          "unit": "l"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 150,
+          "unit": "ml",
+          "note": "juice"
+        }
+      ]
+    },
+    {
+      "name": "To feed the starter",
+      "items": [
+        {
+          "ingredient": "water",
+          "amount": 125,
+          "unit": "ml"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 125,
+          "unit": "ml",
+          "note": "juice"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 30,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Sanitise the lemons (soak 10 minutes in 1 tbsp bleach per litre of water, then rinse well).",
+    "Peel them and put the juice, peels, sugar and water in a glass jar. Close it, and once a day open, stir and close again for 3 days, away from sunlight.",
+    "Dissolve the sugar in warm water, let it cool, then add 250 ml of the starter and the lemon juice.",
+    "Pour into PET bottles, squeeze out the air and close. It's ready when the bottles swell, in 3–5 days depending on the temperature.",
+    "Keep the starter in the fridge and feed it once a week with water, lemon juice and sugar in the proportions above."
+  ],
+  "notes": "She measured 0.46% alcohol, which counts as non-alcoholic in Brazil."
+}

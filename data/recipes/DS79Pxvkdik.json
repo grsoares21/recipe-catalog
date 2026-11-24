@@ -1,0 +1,36 @@
+{
+  "id": "DS79Pxvkdik",
+  "kind": "tip",
+  "title": "Alho fermentado no mel: 9 meses depois",
+  "language": "pt",
+  "creator": "receitasdoyan",
+  "reelUrl": "https://www.instagram.com/reel/DS79Pxvkdik/",
+  "servings": 1,
+  "tags": [
+    "tip",
+    "fermentation",
+    "garlic"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "garlic",
+          "amount": 1,
+          "unit": "piece",
+          "note": "peeled cloves"
+        },
+        {
+          "ingredient": "honey",
+          "unit": "to-taste",
+          "note": "to cover"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Keep honey-fermented garlic out of the fridge: in the fridge it doesn't ferment.",
+    "Over months the honey darkens and thins and the garlic mellows. It keeps for at least 9 months."
+  ]
+}

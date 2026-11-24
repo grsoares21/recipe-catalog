@@ -1,0 +1,96 @@
+{
+  "id": "DVq9A6CCM05",
+  "kind": "recipe",
+  "title": "Potato mochi au fromage",
+  "language": "fr",
+  "creator": "lindoush_food",
+  "reelUrl": "https://www.instagram.com/reel/DVq9A6CCM05/",
+  "servings": 3,
+  "servingsEstimated": true,
+  "yield": "6 mochi",
+  "tags": [
+    "snack",
+    "potatoes",
+    "cheese",
+    "pan-fried"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "potato",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "ingredient": "cornstarch",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch"
+        },
+        {
+          "ingredient": "grated_cheese",
+          "amount": 90,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "vegetable_oil",
+          "amount": 1,
+          "unit": "tbsp",
+          "assumed": true
+        }
+      ]
+    },
+    {
+      "name": "Sauce",
+      "items": [
+        {
+          "ingredient": "soy_sauce",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "honey",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "water",
+          "amount": 2,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "name": "To finish",
+      "items": [
+        {
+          "ingredient": "nori",
+          "unit": "to-taste",
+          "note": "cut into squares",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Peel the potatoes, cut into chunks and boil in salted water for about 15 minutes until very tender.",
+    "Drain well and mash finely. While still hot, add the cornstarch and salt and knead into a smooth, slightly elastic dough.",
+    "Flatten a portion in your hand, put a spoon of grated cheese in the middle, close it and shape into a thick square. Repeat.",
+    "Fry in a little oil over medium heat for 3–4 minutes per side until golden.",
+    "Add the sauce to the pan and cook 1 more minute, turning the mochi until glossy.",
+    "Serve hot, with a square of nori on top if you like."
+  ],
+  "notes": "The caption's step list uses half the amounts (300 g potato, 60 g cornstarch). The ingredient list is for 6 mochi."
+}

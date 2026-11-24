@@ -1,0 +1,84 @@
+{
+  "id": "DXU3yatlSgW",
+  "kind": "recipe",
+  "title": "Pistachio Lemon Thumbprint Cookies",
+  "language": "en",
+  "creator": "theconsciousplantkitchen",
+  "reelUrl": "https://www.instagram.com/reel/DXU3yatlSgW/",
+  "sourceUrl": "https://www.theconsciousplantkitchen.com/pistachio-lemon-thumbprint-cookies/",
+  "servings": 12,
+  "yield": "12 cookies",
+  "tags": [
+    "dessert",
+    "cookies",
+    "vegan",
+    "gluten-free",
+    "baking"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "pistachios",
+          "amount": 0.33,
+          "unit": "cup",
+          "note": "unsalted, finely pulsed"
+        },
+        {
+          "ingredient": "almond_flour",
+          "amount": 2,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "mild"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "juice, plus 2–3 tsp zest"
+        },
+        {
+          "ingredient": "maple_syrup",
+          "amount": 0.25,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "almond_extract",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "raspberry_jam",
+          "amount": 1.5,
+          "unit": "tbsp"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat the oven to 180 °C and line a baking sheet with lightly oiled parchment.",
+    "Pulse the pistachios into fine crumbs (big pieces make the dough fragile).",
+    "Mix all the ingredients except the jam, first with a spoon, then squeeze together by hand into a sticky dough.",
+    "Roll 12 equal balls (about 1½ tbsp each) with oiled hands and space them on the sheet.",
+    "Press a deep hollow in each with the oiled back of a ½-tsp measure and fill with ½ tsp jam.",
+    "Bake 12–14 minutes until the sides are lightly golden. Cool 10 minutes, top up the jam if needed, then move to a rack."
+  ],
+  "creatorNutrition": {
+    "kcal": 170.7,
+    "protein": 4.7,
+    "carbs": 10.9,
+    "fat": 13.1,
+    "fiber": 2.4,
+    "per": "cookie"
+  }
+}

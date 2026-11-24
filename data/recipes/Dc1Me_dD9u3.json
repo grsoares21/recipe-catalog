@@ -1,0 +1,100 @@
+{
+  "id": "Dc1Me_dD9u3",
+  "kind": "recipe",
+  "title": "Spaghetti all'assassina",
+  "language": "en",
+  "creator": "tastemade",
+  "reelUrl": "https://www.instagram.com/reel/Dc1Me_dD9u3/",
+  "servings": 2,
+  "servingsEstimated": true,
+  "tags": [
+    "main",
+    "pasta",
+    "italian",
+    "spicy"
+  ],
+  "status": "incomplete",
+  "statusNote": "The creator doesn't give amounts. The ≈ amounts are estimates from the video.",
+  "ingredientGroups": [
+    {
+      "name": "Tomato broth",
+      "items": [
+        {
+          "ingredient": "tomato_paste",
+          "amount": 1,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "stock",
+          "amount": 700,
+          "unit": "ml",
+          "note": "chicken",
+          "assumed": true
+        },
+        {
+          "ingredient": "tomato_passata",
+          "amount": 200,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "basil",
+          "amount": 2,
+          "unit": "sprig",
+          "assumed": true
+        }
+      ]
+    },
+    {
+      "name": "Pasta",
+      "items": [
+        {
+          "ingredient": "olive_oil",
+          "amount": 4,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 3,
+          "unit": "clove",
+          "assumed": true
+        },
+        {
+          "ingredient": "chili_flakes",
+          "amount": 1,
+          "unit": "tsp",
+          "note": "as much as you can take",
+          "assumed": true
+        },
+        {
+          "ingredient": "tomato_paste",
+          "amount": 1,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "dried_pasta",
+          "amount": 200,
+          "unit": "g",
+          "note": "spaghetti",
+          "assumed": true
+        },
+        {
+          "ingredient": "stracciatella",
+          "unit": "to-taste",
+          "note": "to serve",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Warm the stock with a spoon of tomato paste, the passata and basil to make a tomato broth.",
+    "In a wide frying pan, fry the garlic and chilli in olive oil with a spoon of tomato paste until fragrant.",
+    "Add the dry spaghetti and coat it in the oil.",
+    "Add the broth a couple of ladles at a time, letting the pasta absorb it and scorch on the bottom before adding more, like a risotto.",
+    "When cooked, flip to show the charred side and serve, with stracciatella, basil and olive oil if you like."
+  ]
+}

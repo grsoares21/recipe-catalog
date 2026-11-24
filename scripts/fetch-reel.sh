@@ -16,12 +16,12 @@ yt-dlp --ignore-config --no-cookies --no-cookies-from-browser --quiet --no-warni
 
 video=$(ls "$id".mp4 2>/dev/null || true)
 if [ -n "$video" ]; then
-  if ffmpeg -loglevel error -y -i "$video" -ar 16000 -ac 1 "$id.wav" 2>/dev/null; then
+  if ffmpeg -nostdin -loglevel error -y -i "$video" -ar 16000 -ac 1 "$id.wav" 2>/dev/null; then
     whisper-cli -m "$WHISPER_MODEL" -l auto -nt -np -otxt -of "$id" "$id.wav" >/dev/null 2>&1
     rm -f "$id.wav"
   fi
   duration=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$video")
-  ffmpeg -loglevel error -y -i "$video" -vf "fps=8/$duration,scale=200:-1,tile=4x2" -frames:v 1 "$id.frames.jpg"
+  ffmpeg -nostdin -loglevel error -y -i "$video" -vf "fps=8/$duration,scale=200:-1,tile=4x2" -frames:v 1 "$id.frames.jpg"
   rm -f "$video"
 fi
 ls "$id".* 2>/dev/null

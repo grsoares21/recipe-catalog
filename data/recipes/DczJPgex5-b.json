@@ -1,0 +1,97 @@
+{
+  "id": "DczJPgex5-b",
+  "kind": "recipe",
+  "title": "Legumes assados para a semana",
+  "language": "pt",
+  "creator": "lucaslacerdanutri",
+  "reelUrl": "https://www.instagram.com/reel/DczJPgex5-b/",
+  "servings": 8,
+  "servingsEstimated": true,
+  "tags": [
+    "side",
+    "meal-prep",
+    "vegan",
+    "roasted",
+    "vegetables"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Delicate vegetables",
+      "items": [
+        {
+          "ingredient": "zucchini",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "ingredient": "cherry_tomato",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "ingredient": "aubergine",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "or coconut oil spray"
+        },
+        {
+          "ingredient": "dried_vinaigrette_seasoning",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        }
+      ]
+    },
+    {
+      "name": "Firm vegetables",
+      "items": [
+        {
+          "ingredient": "carrot",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "ingredient": "pumpkin",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "ingredient": "corn_on_the_cob",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "or coconut oil spray"
+        },
+        {
+          "ingredient": "lemon_pepper",
+          "amount": 1,
+          "unit": "tsp",
+          "note": "smoked"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cut the vegetables into chunks and keep the two groups on separate trays, each with its oil and seasonings.",
+    "Roast the delicate vegetables in a preheated oven at 220 °C for about 40 minutes, until golden and most of their water has evaporated.",
+    "Roast the firm vegetables at 220 °C for about 20 minutes covered with foil, so they're cooked but still firm.",
+    "Portion into containers for the week."
+  ]
+}

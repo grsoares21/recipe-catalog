@@ -1,0 +1,69 @@
+{
+  "id": "DeH9qR1BsYf",
+  "kind": "recipe",
+  "title": "Halloween potato eyeballs",
+  "language": "en",
+  "creator": "buzzfeedtasty",
+  "reelUrl": "https://www.instagram.com/reel/DeH9qR1BsYf/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "tags": [
+    "snack",
+    "potatoes",
+    "halloween",
+    "gluten-free"
+  ],
+  "status": "incomplete",
+  "statusNote": "Amounts aren't given; the full recipe is on the creator's site (by @whisperofyum). The ≈ amounts are estimates.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "potato",
+          "amount": 400,
+          "unit": "g",
+          "note": "diced",
+          "assumed": true
+        },
+        {
+          "ingredient": "tapioca_starch",
+          "amount": 100,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "olives",
+          "amount": 4,
+          "unit": "piece",
+          "note": "sliced, for the irises",
+          "assumed": true
+        },
+        {
+          "ingredient": "black_food_coloring",
+          "unit": "to-taste",
+          "note": "for the pupils",
+          "optional": true
+        },
+        {
+          "ingredient": "chili_oil",
+          "amount": 3,
+          "unit": "tbsp",
+          "note": "to serve",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Steam the diced potatoes, then pass them through a ricer.",
+    "Add the tapioca starch and salt and knead until smooth.",
+    "Divide into 4, roll each into a rope, cut into 2–3 cm pieces and roll into balls.",
+    "Dye a little of the dough black for the pupils. Top each eyeball with an olive slice and a small piece of black dough.",
+    "Cook in boiling water until they float, then move to an ice bath.",
+    "Serve in a jar with chilli oil."
+  ]
+}

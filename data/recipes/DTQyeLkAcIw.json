@@ -1,0 +1,47 @@
+{
+  "id": "DTQyeLkAcIw",
+  "kind": "recipe",
+  "title": "Sticks de frango",
+  "language": "pt",
+  "creator": "guganacozinha",
+  "reelUrl": "https://www.instagram.com/reel/DTQyeLkAcIw/",
+  "servings": 1,
+  "tags": [
+    "snack",
+    "high-protein",
+    "chicken",
+    "air-fryer"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "ground_chicken",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "dried_herbs",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix the chicken with the egg and your favourite seasonings.",
+    "Pipe into strips on baking paper in the air fryer.",
+    "Air-fry at 180 °C for 15 minutes."
+  ],
+  "notes": "Credits @tastyiri_en."
+}

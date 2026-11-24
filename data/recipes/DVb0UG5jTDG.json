@@ -1,0 +1,66 @@
+{
+  "id": "DVb0UG5jTDG",
+  "kind": "recipe",
+  "title": "Catupiry brasileiro caseiro",
+  "language": "en",
+  "creator": "kitchenchapters",
+  "reelUrl": "https://www.instagram.com/reel/DVb0UG5jTDG/",
+  "servings": 15,
+  "servingsEstimated": true,
+  "yield": "about 400 g",
+  "tags": [
+    "basics",
+    "dairy",
+    "brazilian",
+    "cheese"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "milk",
+          "amount": 1,
+          "unit": "l",
+          "note": "whole"
+        },
+        {
+          "ingredient": "vinegar",
+          "amount": 3,
+          "unit": "tbsp",
+          "note": "white, or lemon juice"
+        },
+        {
+          "ingredient": "double_cream",
+          "amount": 275,
+          "unit": "ml",
+          "note": "48% fat, 200 ml plus about 75 ml to finish"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 2,
+          "unit": "pinch"
+        },
+        {
+          "ingredient": "butter",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "salted"
+        },
+        {
+          "ingredient": "mozzarella",
+          "amount": 100,
+          "unit": "g",
+          "note": "shredded"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat the milk until it's just about to boil, add the vinegar, stir gently and let it curdle for 1–2 minutes.",
+    "Strain through a fine sieve, keeping only the curds.",
+    "Blend the warm curds with 200 ml cream and the salt on high for 2–3 minutes until smooth (don't over-blend).",
+    "Cook in a saucepan with the butter and mozzarella over medium heat, stirring constantly, until fully melted and uniform.",
+    "Blend again for at most 1 minute until silky. Stir in more cream little by little (up to 100 ml) until it has the consistency you like."
+  ]
+}

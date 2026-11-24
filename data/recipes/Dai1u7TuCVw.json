@@ -1,0 +1,41 @@
+{
+  "id": "Dai1u7TuCVw",
+  "kind": "recipe",
+  "title": "Sorvete de melancia ou melão congelado",
+  "language": "pt",
+  "creator": "almanaquesos",
+  "reelUrl": "https://www.instagram.com/reel/Dai1u7TuCVw/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "frozen",
+    "fruit",
+    "no-sugar"
+  ],
+  "status": "incomplete",
+  "statusNote": "This reel tests a viral idea and gives no amounts.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "melon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "or a small watermelon, halved",
+          "assumed": true
+        },
+        {
+          "ingredient": "milk",
+          "unit": "to-taste",
+          "note": "ice-cold",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Halve the melon or watermelon, scoop out the seeds, cover with cling film and freeze.",
+    "Scrape and stir the frozen flesh with a spoon until it turns into a sorbet, eating it from the frozen shell. Ice-cold milk helps make it creamier."
+  ]
+}

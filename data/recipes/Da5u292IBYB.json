@@ -1,0 +1,73 @@
+{
+  "id": "Da5u292IBYB",
+  "kind": "recipe",
+  "title": "Mini tartes tatin d'échalotes",
+  "language": "fr",
+  "creator": "totocuistot_",
+  "reelUrl": "https://www.instagram.com/reel/Da5u292IBYB/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "tags": [
+    "starter",
+    "snack",
+    "vegetarian",
+    "baking"
+  ],
+  "status": "incomplete",
+  "statusNote": "The creator gives no amounts. The ≈ amounts and steps are reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "olive_oil",
+          "amount": 1,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "balsamic_glaze",
+          "amount": 2,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "italian_seasoning",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "shallot",
+          "amount": 6,
+          "unit": "piece",
+          "note": "halved",
+          "assumed": true
+        },
+        {
+          "ingredient": "honey",
+          "amount": 1,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "parmesan",
+          "amount": 30,
+          "unit": "g",
+          "note": "grated",
+          "assumed": true
+        },
+        {
+          "ingredient": "shortcrust_pastry",
+          "amount": 1,
+          "unit": "piece",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Put a little olive oil, balsamic glaze, honey and Italian herbs in the cups of a muffin tin.",
+    "Add the halved shallots cut-side down and sprinkle with Parmesan.",
+    "Cover each with a round of shortcrust pastry and tuck it in.",
+    "Bake 10 minutes at 180 °C, then turn out."
+  ],
+  "notes": "Also works with cherry tomatoes, onion rings or nectarines."
+}

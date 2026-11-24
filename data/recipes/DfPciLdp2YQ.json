@@ -1,0 +1,133 @@
+{
+  "id": "DfPciLdp2YQ",
+  "kind": "recipe",
+  "title": "Bolo gelado de leite em pó com geleia de frutas vermelhas",
+  "language": "pt",
+  "creator": "cantinho_al21",
+  "reelUrl": "https://www.instagram.com/reel/DfPciLdp2YQ/",
+  "servings": 16,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "cake",
+    "brazilian",
+    "make-ahead"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Cake",
+      "items": [
+        {
+          "ingredient": "egg",
+          "amount": 4,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "vegetable_oil",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "ingredient": "milk",
+          "amount": 200,
+          "unit": "g",
+          "note": "warm"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 240,
+          "unit": "g"
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 1,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "name": "Milk powder brigadeiro",
+      "items": [
+        {
+          "ingredient": "condensed_milk",
+          "amount": 790,
+          "unit": "g",
+          "note": "2 boxes"
+        },
+        {
+          "ingredient": "creme_de_leite",
+          "amount": 400,
+          "unit": "g",
+          "note": "2 boxes"
+        },
+        {
+          "ingredient": "whole_milk_powder",
+          "amount": 5,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "name": "Berry jam",
+      "items": [
+        {
+          "ingredient": "mixed_berries",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "juice only"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 4,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "water",
+          "unit": "to-taste",
+          "note": "a splash"
+        }
+      ]
+    },
+    {
+      "name": "To soak and finish",
+      "items": [
+        {
+          "ingredient": "condensed_milk",
+          "unit": "to-taste",
+          "note": "mixed with water, to soak the cake"
+        },
+        {
+          "ingredient": "whole_milk_powder",
+          "unit": "to-taste",
+          "note": "for dusting, instead of a brigadeiro topping",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cake: whisk the eggs, sugar and vanilla in a stand mixer until very pale and creamy.",
+    "Add the oil, warm milk, flour and baking powder and mix on low speed just until combined.",
+    "Pour into a greased tin and bake at 180 °C for about 30 minutes. Let it cool.",
+    "Brigadeiro: in a pan, dissolve the milk powder in the condensed milk, add the cream and stir over medium heat until it thickens to a firm brigadeiro. Transfer to a dish, cover with cling film touching the surface and let it cool.",
+    "Jam: cook the berries with the lemon juice, sugar and a little water, stirring now and then, until thick. Cool in the fridge.",
+    "Cut the cake in half horizontally and soak it with a mix of condensed milk and water.",
+    "Spread brigadeiro and jam over the bottom half, cover with the top half and soak again.",
+    "Cover with the rest of the brigadeiro (or just dust with milk powder), wrap and chill overnight."
+  ]
+}

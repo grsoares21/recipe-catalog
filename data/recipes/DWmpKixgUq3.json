@@ -1,0 +1,64 @@
+{
+  "id": "DWmpKixgUq3",
+  "kind": "recipe",
+  "title": "Tâmaras brûlée de brie",
+  "language": "pt",
+  "creator": "fleury_sommelier",
+  "reelUrl": "https://www.instagram.com/reel/DWmpKixgUq3/",
+  "servings": 10,
+  "servingsEstimated": true,
+  "yield": "20 stuffed dates",
+  "tags": [
+    "snack",
+    "starter",
+    "party",
+    "cheese"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "dates",
+          "amount": 20,
+          "unit": "piece",
+          "note": "with stones"
+        },
+        {
+          "ingredient": "brie",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "ingredient": "cream_cheese",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "ingredient": "honey",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "walnuts",
+          "amount": 20,
+          "unit": "g",
+          "note": "one piece per date",
+          "assumed": true
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 30,
+          "unit": "g",
+          "note": "for the brûlée",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cut the rind off the brie and blend the brie with the honey, then add the cream cheese and blend until smooth and creamy. Put it in a piping bag.",
+    "Pit the dates, add a piece of walnut for crunch and pipe in the cream. Chill 30 minutes.",
+    "Dip the tops in sugar and caramelise with a blowtorch."
+  ]
+}

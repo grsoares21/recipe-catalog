@@ -1,0 +1,89 @@
+{
+  "id": "DWZJzVHjbiX",
+  "kind": "recipe",
+  "title": "Wrap de avocado",
+  "language": "pt",
+  "creator": "gui.tank",
+  "reelUrl": "https://www.instagram.com/reel/DWZJzVHjbiX/",
+  "servings": 2,
+  "servingsEstimated": true,
+  "tags": [
+    "lunch",
+    "high-protein",
+    "low-carb",
+    "gluten-free"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Wrap",
+      "items": [
+        {
+          "ingredient": "avocado",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 0.5,
+          "unit": "piece",
+          "note": "juice"
+        },
+        {
+          "ingredient": "black_sesame",
+          "unit": "to-taste"
+        }
+      ]
+    },
+    {
+      "name": "Filling",
+      "items": [
+        {
+          "ingredient": "requeijao",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "or light ricotta cream",
+          "assumed": true
+        },
+        {
+          "ingredient": "lettuce",
+          "unit": "to-taste",
+          "note": "iceberg"
+        },
+        {
+          "ingredient": "tomato",
+          "amount": 1,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "red_onion",
+          "amount": 0.25,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "chicken_breast",
+          "amount": 150,
+          "unit": "g",
+          "note": "grilled",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mash the avocado with the eggs, salt and lemon juice.",
+    "Spread thinly on a lined baking tray, sprinkle with black sesame and bake 15 minutes at 180 °C.",
+    "Fill with ricotta cream or requeijão, lettuce, tomato, red onion and grilled chicken, and roll up."
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "Daps80RRxhl",
+  "kind": "recipe",
+  "title": "Cheesecake de mirtilo do Futuro Refeitório",
+  "language": "pt",
+  "creator": "paolacarosella",
+  "reelUrl": "https://www.instagram.com/reel/Daps80RRxhl/",
+  "servings": 10,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "cheesecake",
+    "blueberries"
+  ],
+  "status": "incomplete",
+  "statusNote": "The full recipe is in the YouTube episode. The ≈ amounts and steps are reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "name": "Base",
+      "items": [
+        {
+          "ingredient": "maizena_biscuits",
+          "amount": 200,
+          "unit": "g",
+          "note": "crushed",
+          "assumed": true
+        },
+        {
+          "ingredient": "butter",
+          "amount": 80,
+          "unit": "g",
+          "note": "melted",
+          "assumed": true
+        }
+      ]
+    },
+    {
+      "name": "Cream",
+      "items": [
+        {
+          "ingredient": "cream_cheese",
+          "amount": 400,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 100,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "double_cream",
+          "amount": 200,
+          "unit": "ml",
+          "assumed": true
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 1,
+          "unit": "piece",
+          "assumed": true
+        }
+      ]
+    },
+    {
+      "name": "Blueberries",
+      "items": [
+        {
+          "ingredient": "blueberries",
+          "amount": 300,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 50,
+          "unit": "g",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix the crushed biscuits with the butter and press into a dish.",
+    "Beat the cream cheese, sugar, lemon and cream into a slightly tangy cream and spread over the base.",
+    "Cook the blueberries with sugar until jammy, cool and spoon on top.",
+    "Chill well before serving."
+  ],
+  "notes": "Recipe by chef Gabriela Barreto (@comocozinharsuapreguica)."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "DWPWrW4kXmA",
+  "kind": "recipe",
+  "title": "Sorvete de doce de leite com 2 ingredientes",
+  "language": "pt",
+  "creator": "brissa",
+  "reelUrl": "https://www.instagram.com/reel/DWPWrW4kXmA/",
+  "servings": 6,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "frozen",
+    "no-churn"
+  ],
+  "status": "incomplete",
+  "statusNote": "The method is only shown in the video. The steps are the usual no-churn method.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "double_cream",
+          "amount": 350,
+          "unit": "g",
+          "note": "fresh, or almond cream for lactose-free"
+        },
+        {
+          "ingredient": "doce_de_leite",
+          "amount": 300,
+          "unit": "g",
+          "note": "sugar-free and lactose-free, in her version"
+        },
+        {
+          "ingredient": "walnuts",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Whip the cold cream to soft peaks.",
+    "Fold in the doce de leite (and walnuts).",
+    "Freeze in a covered container until firm."
+  ]
+}

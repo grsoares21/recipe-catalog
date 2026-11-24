@@ -1,0 +1,99 @@
+{
+  "id": "DZ_D5EGv0nf",
+  "kind": "recipe",
+  "title": "Lemon blueberry loaf cake",
+  "language": "en",
+  "creator": "cinthia.cooks",
+  "reelUrl": "https://www.instagram.com/reel/DZ_D5EGv0nf/",
+  "servings": 10,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "cake",
+    "lemon",
+    "blueberries",
+    "baking"
+  ],
+  "status": "incomplete",
+  "statusNote": "The creator gives no amounts. The ≈ amounts are estimates from the video.",
+  "ingredientGroups": [
+    {
+      "name": "Cake",
+      "items": [
+        {
+          "ingredient": "lemon",
+          "amount": 2,
+          "unit": "piece",
+          "note": "zest and juice",
+          "assumed": true
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 200,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "vegetable_oil",
+          "amount": 0.5,
+          "unit": "cup",
+          "assumed": true
+        },
+        {
+          "ingredient": "yogurt",
+          "amount": 150,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 200,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 2,
+          "unit": "tsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "blueberries",
+          "amount": 150,
+          "unit": "g",
+          "assumed": true
+        }
+      ]
+    },
+    {
+      "name": "Glaze",
+      "items": [
+        {
+          "ingredient": "powdered_sugar",
+          "amount": 100,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "juice",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Rub the lemon zest into the sugar, then whisk in the eggs, oil, yogurt and lemon juice.",
+    "Fold in the flour and baking powder, then the blueberries.",
+    "Bake in a lined loaf tin at 175 °C for about 50 minutes.",
+    "Drizzle the cooled cake with a lemon glaze."
+  ]
+}

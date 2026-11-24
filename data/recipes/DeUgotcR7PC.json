@@ -1,0 +1,86 @@
+{
+  "id": "DeUgotcR7PC",
+  "kind": "recipe",
+  "title": "Blueberry Lemon Cheesecake",
+  "language": "en",
+  "creator": "eatinghealthyfeed",
+  "reelUrl": "https://www.instagram.com/reel/DeUgotcR7PC/",
+  "servings": 8,
+  "yield": "20 cm springform, 8 slices",
+  "tags": [
+    "dessert",
+    "high-protein",
+    "baking",
+    "cheesecake"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "greek_yogurt_nonfat",
+          "amount": 3,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 3,
+          "unit": "piece",
+          "note": "large"
+        },
+        {
+          "ingredient": "honey",
+          "amount": 3,
+          "unit": "tbsp",
+          "note": "plus 1 tsp for the compote"
+        },
+        {
+          "ingredient": "cornstarch",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 2,
+          "unit": "tsp",
+          "note": "vanilla bean paste"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "zest only"
+        },
+        {
+          "ingredient": "blueberries",
+          "amount": 1,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "butter",
+          "unit": "to-taste",
+          "note": "for the tin",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C and butter a 20 cm springform tin well, sides included.",
+    "Simmer the blueberries with 1 tsp honey for 5 minutes until they burst and thicken, then cool.",
+    "Whisk the eggs into the yogurt until no streaks of yolk remain.",
+    "Whisk in the honey, cornstarch, vanilla and lemon zest until pale and glossy.",
+    "Pour into the tin in one continuous ribbon so no air gets trapped.",
+    "Spoon three blobs of compote on top and drag a skewer through in loose S curves.",
+    "Bake 45 minutes: the edges set and the centre still wobbles slightly.",
+    "Cool on the counter, then chill for at least 4 hours. It firms up as it gets cold."
+  ],
+  "creatorNutrition": {
+    "kcal": 130.0,
+    "protein": 12.0,
+    "carbs": 16.0,
+    "fat": 2.0,
+    "fiber": 0.0,
+    "per": "slice"
+  }
+}

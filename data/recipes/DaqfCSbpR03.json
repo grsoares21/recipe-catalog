@@ -1,0 +1,29 @@
+{
+  "id": "DaqfCSbpR03",
+  "kind": "tip",
+  "title": "Freeze ginger before grating",
+  "language": "en",
+  "creator": "fallowchefs",
+  "reelUrl": "https://www.instagram.com/reel/DaqfCSbpR03/",
+  "servings": 1,
+  "tags": [
+    "tip",
+    "ginger"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "ginger",
+          "amount": 1,
+          "unit": "piece"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Freeze the ginger root (about 6 hours or more).",
+    "Grate it straight from frozen: the ice weakens the fibres so it grates finely without stringy bits."
+  ]
+}

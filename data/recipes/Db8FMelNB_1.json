@@ -1,0 +1,87 @@
+{
+  "id": "Db8FMelNB_1",
+  "kind": "recipe",
+  "title": "Blueberry & lemon olive oil cake",
+  "language": "en",
+  "creator": "thrivewithcandicee",
+  "reelUrl": "https://www.instagram.com/reel/Db8FMelNB_1/",
+  "servings": 10,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "cake",
+    "baking",
+    "blueberries"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "wheat_flour",
+          "amount": 188,
+          "unit": "g"
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 2,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 3,
+          "unit": "piece",
+          "note": "large"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 108,
+          "unit": "g"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "zest of 1, juice of ½"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "milk",
+          "amount": 122,
+          "unit": "g"
+        },
+        {
+          "ingredient": "blueberries",
+          "amount": 148,
+          "unit": "g"
+        },
+        {
+          "ingredient": "chia_seeds",
+          "amount": 30,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat the oven to 190 °C.",
+    "Mix the wet ingredients with the chia seeds and let them sit.",
+    "Mix the dry ingredients in a bowl, then combine everything well.",
+    "Bake for about 1 hour, until a toothpick comes out clean.",
+    "Cool and serve with Greek yogurt and lemon zest."
+  ]
+}

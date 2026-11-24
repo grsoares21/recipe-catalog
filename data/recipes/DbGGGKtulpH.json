@@ -1,0 +1,69 @@
+{
+  "id": "DbGGGKtulpH",
+  "kind": "recipe",
+  "title": "Yumurtalı lavaş pide",
+  "language": "tr",
+  "creator": "dytbetulkalli",
+  "reelUrl": "https://www.instagram.com/reel/DbGGGKtulpH/",
+  "servings": 1,
+  "tags": [
+    "breakfast",
+    "eggs",
+    "quick",
+    "high-protein"
+  ],
+  "status": "incomplete",
+  "statusNote": "The creator gives no amounts or steps. The ≈ amounts and steps are reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "tortilla",
+          "amount": 1,
+          "unit": "piece",
+          "note": "whole-wheat lavash"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "1 in the filling, part of the other yolk kept for the top"
+        },
+        {
+          "ingredient": "tomato",
+          "amount": 0.5,
+          "unit": "piece",
+          "note": "diced",
+          "assumed": true
+        },
+        {
+          "ingredient": "mint",
+          "unit": "to-taste",
+          "optional": true
+        },
+        {
+          "ingredient": "grated_cheese",
+          "amount": 30,
+          "unit": "g",
+          "note": "kaşar",
+          "assumed": true
+        },
+        {
+          "ingredient": "sesame_seeds",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "nigella_seeds",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Beat one egg with most of the second (keep a little yolk aside), the tomato, mint and cheese.",
+    "Spread the mixture over the middle of the lavash and fold the sides in to make a pide-shaped boat.",
+    "Brush the edges with the reserved yolk and sprinkle with sesame and nigella seeds.",
+    "Bake or air-fry until the egg is set and the edges are golden."
+  ]
+}

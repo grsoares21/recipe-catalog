@@ -1,0 +1,93 @@
+{
+  "id": "DbLFAySCyXv",
+  "kind": "recipe",
+  "title": "Harissa preserved lemon mushroom kebabs with avocado \"brain sauce\"",
+  "language": "en",
+  "creator": "_holist_",
+  "reelUrl": "https://www.instagram.com/reel/DbLFAySCyXv/",
+  "servings": 2,
+  "servingsEstimated": true,
+  "tags": [
+    "main",
+    "vegetarian",
+    "mushrooms",
+    "grill"
+  ],
+  "status": "incomplete",
+  "statusNote": "The full recipe is sent by DM. The ≈ amounts and steps are reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "name": "Kebabs",
+      "items": [
+        {
+          "ingredient": "oyster_mushrooms",
+          "amount": 400,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "harissa",
+          "amount": 2,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "preserved_lemon",
+          "amount": 1,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "assumed": true
+        }
+      ]
+    },
+    {
+      "name": "Sauce",
+      "items": [
+        {
+          "ingredient": "avocado",
+          "amount": 1,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "greek_yogurt",
+          "amount": 100,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "extra-virgin",
+          "assumed": true
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        }
+      ]
+    },
+    {
+      "name": "To serve",
+      "items": [
+        {
+          "ingredient": "pumpkin_seeds",
+          "amount": 2,
+          "unit": "tbsp",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Toss the mushrooms with harissa, chopped preserved lemon and olive oil, thread onto skewers and grill until charred and juicy.",
+    "Blend the avocado, yogurt, olive oil and salt into a creamy sauce.",
+    "Spread the sauce on a plate, top with the kebabs and sprinkle with pumpkin seeds."
+  ]
+}

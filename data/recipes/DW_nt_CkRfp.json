@@ -1,0 +1,54 @@
+{
+  "id": "DW_nt_CkRfp",
+  "kind": "recipe",
+  "title": "Biscoito de tapioca com queijo",
+  "language": "pt",
+  "creator": "gigivilela",
+  "reelUrl": "https://www.instagram.com/reel/DW_nt_CkRfp/",
+  "servings": 6,
+  "servingsEstimated": true,
+  "tags": [
+    "snack",
+    "brazilian",
+    "gluten-free",
+    "cheese",
+    "baking"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "milk",
+          "amount": 1,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "tapioca_granulated",
+          "amount": 1,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "parmesan",
+          "amount": 1,
+          "unit": "cup",
+          "note": "or queijo coalho, grated"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat the milk, pour it over the tapioca with the salt and let it hydrate.",
+    "Mix in the cheese and eggs and shape into small rolls or scoops on a lined tray.",
+    "Bake at 180 °C for 20 minutes, or air-fry at 200 °C for 15 minutes."
+  ]
+}

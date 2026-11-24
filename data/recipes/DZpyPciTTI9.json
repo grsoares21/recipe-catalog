@@ -1,0 +1,92 @@
+{
+  "id": "DZpyPciTTI9",
+  "kind": "recipe",
+  "title": "Garlic Chili Oil Cheddar & Scallion Focaccia",
+  "language": "en",
+  "creator": "cybelewells",
+  "reelUrl": "https://www.instagram.com/reel/DZpyPciTTI9/",
+  "servings": 12,
+  "servingsEstimated": true,
+  "yield": "half sheet pan",
+  "tags": [
+    "baking",
+    "bread",
+    "cheese",
+    "spicy"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Dough",
+      "items": [
+        {
+          "ingredient": "water",
+          "amount": 540,
+          "unit": "g",
+          "note": "warm"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 12,
+          "unit": "g"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 740,
+          "unit": "g"
+        },
+        {
+          "ingredient": "instant_yeast",
+          "amount": 2,
+          "unit": "piece",
+          "note": "packets, rapid rise"
+        }
+      ]
+    },
+    {
+      "name": "Topping",
+      "items": [
+        {
+          "ingredient": "chili_oil",
+          "amount": 0.67,
+          "unit": "cup",
+          "note": "garlic chilli oil, divided"
+        },
+        {
+          "ingredient": "cheddar",
+          "amount": 3,
+          "unit": "cup",
+          "note": "sharp, cubed"
+        },
+        {
+          "ingredient": "spring_onion",
+          "amount": 5.5,
+          "unit": "piece",
+          "note": "thinly sliced, divided"
+        },
+        {
+          "ingredient": "black_sesame",
+          "amount": 1.5,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste",
+          "note": "flaky"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix the dough ingredients in a stand mixer and knead about 6 minutes until smooth and elastic. It will be wet and sticky.",
+    "Drizzle about 4 tbsp chilli oil on a half sheet pan, add the dough and flip it so both sides are oiled. Spread it out, scatter half the cheddar and two-thirds of the spring onions, letter-fold it and flip seam-side down.",
+    "Cover and let it rise until doubled and very puffy. Heat the oven to 190 °C.",
+    "Brush with the remaining chilli oil, sprinkle with flaky salt, sesame and the rest of the spring onions, dimple with oiled fingers and top with the remaining cheddar.",
+    "Bake 30–35 minutes until deep golden and the cheese is crisp at the edges. Cool slightly before slicing."
+  ]
+}

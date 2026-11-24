@@ -1,0 +1,124 @@
+{
+  "id": "DfFfQ-vuJzY",
+  "kind": "recipe",
+  "title": "Crispy smashed potatoes with whipped feta & chilli salt hot honey",
+  "language": "en",
+  "creator": "ed.cudlipp",
+  "reelUrl": "https://www.instagram.com/reel/DfFfQ-vuJzY/",
+  "servings": 11,
+  "yield": "serves 10–12",
+  "tags": [
+    "side",
+    "potatoes",
+    "party",
+    "vegetarian"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Potatoes",
+      "items": [
+        {
+          "ingredient": "baby_potato",
+          "amount": 2,
+          "unit": "kg"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 6.5,
+          "unit": "tbsp",
+          "note": "6–7 tbsp"
+        },
+        {
+          "ingredient": "chili_salt",
+          "unit": "to-taste",
+          "note": "Maldon chilli sea salt"
+        },
+        {
+          "ingredient": "garlic_powder",
+          "amount": 2,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "smoked_paprika",
+          "amount": 2,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "name": "Whipped feta",
+      "items": [
+        {
+          "ingredient": "feta",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "ingredient": "greek_yogurt",
+          "amount": 450,
+          "unit": "g",
+          "note": "thick"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 3,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 3,
+          "unit": "clove",
+          "note": "finely grated"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 2,
+          "unit": "piece",
+          "note": "zest of 1½ plus 3 tbsp juice"
+        }
+      ]
+    },
+    {
+      "name": "Hot honey",
+      "items": [
+        {
+          "ingredient": "honey",
+          "amount": 180,
+          "unit": "g",
+          "note": "runny"
+        },
+        {
+          "ingredient": "chili_salt",
+          "amount": 2,
+          "unit": "tsp",
+          "note": "lightly crushed"
+        }
+      ]
+    },
+    {
+      "name": "To finish",
+      "items": [
+        {
+          "ingredient": "chives",
+          "unit": "to-taste",
+          "note": "finely chopped"
+        },
+        {
+          "ingredient": "lemon",
+          "unit": "to-taste",
+          "note": "zest of ½",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Boil the potatoes for 20–30 minutes until tender. Drain and let them steam dry for 5 minutes.",
+    "Spread on a large tray and gently smash each one with the back of a spoon. Drizzle with olive oil and season with chilli salt, garlic powder and smoked paprika.",
+    "Roast at 200 °C fan for about 1 hour until deeply golden and crisp, checking after 40 minutes and turning the tray if needed.",
+    "Whipped feta: blend the feta, yogurt, olive oil, garlic, lemon zest and juice until smooth.",
+    "Hot honey: warm the honey with the chilli salt over low heat for 1–2 minutes without boiling, then leave to infuse.",
+    "Spread the whipped feta on a platter, pile the potatoes on top, drizzle with hot honey and finish with chives, lemon zest and a little more chilli salt."
+  ]
+}

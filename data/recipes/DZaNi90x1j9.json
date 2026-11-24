@@ -1,0 +1,62 @@
+{
+  "id": "DZaNi90x1j9",
+  "kind": "recipe",
+  "title": "Torta basca",
+  "language": "pt",
+  "creator": "jv.alvarenga",
+  "reelUrl": "https://www.instagram.com/reel/DZaNi90x1j9/",
+  "servings": 10,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "cheesecake",
+    "baking"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "cream_cheese",
+          "amount": 680,
+          "unit": "g"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "ingredient": "double_cream",
+          "amount": 300,
+          "unit": "g",
+          "note": "or fresh cream"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "or half a vanilla pod"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 4,
+          "unit": "piece",
+          "note": "plus 1 yolk"
+        },
+        {
+          "ingredient": "egg_yolk",
+          "amount": 1,
+          "unit": "piece"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat the oven to 220 °C and line the base and sides of the tin with baking paper.",
+    "Mix everything in a stand mixer with the paddle until smooth. Don't whip in air.",
+    "Pour into the tin and bake for about 35 minutes: the top gets very dark but the centre still wobbles slightly.",
+    "Cool at room temperature, then chill for at least 7 hours.",
+    "Serve cold, plain or with chocolate sauce or doce de leite."
+  ]
+}

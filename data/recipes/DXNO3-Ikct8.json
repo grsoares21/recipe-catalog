@@ -1,0 +1,55 @@
+{
+  "id": "DXNO3-Ikct8",
+  "kind": "recipe",
+  "title": "Requeijão caseiro",
+  "language": "pt",
+  "creator": "eubetoalmeida",
+  "reelUrl": "https://www.instagram.com/reel/DXNO3-Ikct8/",
+  "servings": 10,
+  "servingsEstimated": true,
+  "tags": [
+    "basics",
+    "dairy",
+    "brazilian"
+  ],
+  "status": "incomplete",
+  "statusNote": "The caption gives ingredients only. The steps are the usual method for homemade requeijão.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "milk",
+          "amount": 1,
+          "unit": "l"
+        },
+        {
+          "ingredient": "vinegar",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "milk",
+          "amount": 1,
+          "unit": "cup",
+          "note": "for blending"
+        },
+        {
+          "ingredient": "butter",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "tsp"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat 1 litre of milk until almost boiling, turn off the heat and stir in the vinegar. Let it curdle.",
+    "Strain the curds and discard the whey.",
+    "Blend the curds with 1 cup of milk, the butter and salt until smooth and creamy.",
+    "Warm briefly in a pan, stirring, then transfer to a jar and chill."
+  ]
+}

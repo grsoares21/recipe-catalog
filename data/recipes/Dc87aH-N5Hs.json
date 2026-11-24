@@ -1,0 +1,49 @@
+{
+  "id": "Dc87aH-N5Hs",
+  "kind": "recipe",
+  "title": "Torta magica 2 ingredienti",
+  "language": "it",
+  "creator": "giuseppe_healthy",
+  "reelUrl": "https://www.instagram.com/reel/Dc87aH-N5Hs/",
+  "servings": 4,
+  "yield": "15 cm round",
+  "tags": [
+    "dessert",
+    "chocolate",
+    "gluten-free",
+    "baking"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "egg",
+          "amount": 3,
+          "unit": "piece",
+          "note": "separated"
+        },
+        {
+          "ingredient": "dark_chocolate",
+          "amount": 120,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Melt the chocolate over a water bath and set aside.",
+    "Separate the eggs and whisk the whites to very stiff peaks.",
+    "Mix the chocolate with the yolks, then fold in the whites: the first part quickly, the rest slowly, folding from the bottom up.",
+    "Pour into a 15 cm tin and bake in a preheated static oven at 180 °C for about 30 minutes. Turn the oven off and leave the cake inside for 5 more minutes.",
+    "Let it cool before serving."
+  ],
+  "creatorNutrition": {
+    "kcal": 214.0,
+    "protein": 7.1,
+    "carbs": 5.6,
+    "fat": 18.2,
+    "fiber": 0.0,
+    "per": "slice (¼ cake)"
+  }
+}

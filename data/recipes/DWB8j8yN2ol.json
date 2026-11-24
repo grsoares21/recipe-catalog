@@ -1,0 +1,53 @@
+{
+  "id": "DWB8j8yN2ol",
+  "kind": "recipe",
+  "title": "Brigaçoca",
+  "language": "en",
+  "creator": "brasil.gringo.comedia",
+  "reelUrl": "https://www.instagram.com/reel/DWB8j8yN2ol/",
+  "servings": 20,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "brazilian",
+    "peanuts"
+  ],
+  "status": "incomplete",
+  "statusNote": "This is a comedy reel with no recipe. The ≈ amounts follow a standard brigadeiro with paçoca.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "condensed_milk",
+          "amount": 395,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "cocoa_powder",
+          "amount": 2,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "butter",
+          "amount": 1,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "pacoca",
+          "amount": 4,
+          "unit": "piece",
+          "note": "crumbled, plus more to coat",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cook the condensed milk, cocoa and butter, stirring, until it pulls away from the pan.",
+    "Stir in crumbled paçoca and let it cool.",
+    "Roll into balls and coat in more crumbled paçoca."
+  ]
+}

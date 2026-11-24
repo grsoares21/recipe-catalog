@@ -1,0 +1,67 @@
+{
+  "id": "DcYTdUFo1-E",
+  "kind": "recipe",
+  "title": "Tostas de boniato con aguacate y jamón",
+  "language": "es",
+  "creator": "chefbosquet",
+  "reelUrl": "https://www.instagram.com/reel/DcYTdUFo1-E/",
+  "servings": 2,
+  "servingsEstimated": true,
+  "tags": [
+    "breakfast",
+    "snack",
+    "gluten-free",
+    "quick"
+  ],
+  "status": "incomplete",
+  "statusNote": "The creator gives no amounts. The ≈ amounts are estimates.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "sweet_potato",
+          "amount": 1,
+          "unit": "piece",
+          "note": "in thin slices"
+        },
+        {
+          "ingredient": "tomato",
+          "amount": 1,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "avocado",
+          "amount": 0.5,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "iberian_ham",
+          "amount": 40,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 1,
+          "unit": "tsp",
+          "note": "extra-virgin",
+          "assumed": true
+        },
+        {
+          "ingredient": "dried_herbs",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cook the sweet potato slices in the toaster for a few minutes until tender.",
+    "Top with tomato, avocado and ham, then season with salt, olive oil and spices."
+  ]
+}

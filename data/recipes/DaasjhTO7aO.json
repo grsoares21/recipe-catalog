@@ -1,0 +1,72 @@
+{
+  "id": "DaasjhTO7aO",
+  "kind": "recipe",
+  "title": "Sommerrollen mit Frischkäse und Lachs",
+  "language": "de",
+  "creator": "kitchenachim",
+  "reelUrl": "https://www.instagram.com/reel/DaasjhTO7aO/",
+  "servings": 2,
+  "servingsEstimated": true,
+  "tags": [
+    "lunch",
+    "snack",
+    "fish",
+    "no-cook"
+  ],
+  "status": "incomplete",
+  "statusNote": "The creator gives no amounts. The ≈ amounts are estimates.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "rice_paper",
+          "amount": 4,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "parsley",
+          "amount": 5,
+          "unit": "g",
+          "note": "flat-leaf",
+          "assumed": true
+        },
+        {
+          "ingredient": "cream_cheese",
+          "amount": 60,
+          "unit": "g",
+          "note": "plain",
+          "assumed": true
+        },
+        {
+          "ingredient": "smoked_salmon",
+          "amount": 100,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "avocado",
+          "amount": 1,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "dill",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "soy_sauce",
+          "unit": "to-taste",
+          "note": "to serve",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Spread some cream cheese on cling film and lay a few parsley leaves on it.",
+    "Dip two rice paper sheets in water, lay them slightly overlapping on the cream cheese and flip them over.",
+    "Fill with avocado, salmon and dill.",
+    "Roll up, cut into sushi-size pieces and serve with soy sauce."
+  ]
+}

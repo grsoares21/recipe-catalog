@@ -1,0 +1,48 @@
+{
+  "id": "DXdPTRiDFwL",
+  "kind": "recipe",
+  "title": "Brigadeiro de queijo com goiabada",
+  "language": "pt",
+  "creator": "receitas_de_peso",
+  "reelUrl": "https://www.instagram.com/reel/DXdPTRiDFwL/",
+  "servings": 8,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "brazilian",
+    "cheese"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "condensed_milk",
+          "amount": 385,
+          "unit": "g"
+        },
+        {
+          "ingredient": "creme_de_leite",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "ingredient": "parmesan",
+          "amount": 65,
+          "unit": "g",
+          "note": "finely grated, 50–80 g"
+        },
+        {
+          "ingredient": "goiabada",
+          "amount": 80,
+          "unit": "g",
+          "note": "diced"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix everything except the guava paste and cook over medium heat, stirring, until it thickens to rolling consistency. (Adding the cheese at the end lowers the risk of it splitting, but the flavour is milder.)",
+    "Transfer to a plate and finish with the guava cubes."
+  ]
+}

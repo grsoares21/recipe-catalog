@@ -1,0 +1,66 @@
+{
+  "id": "DX_6SCSK8Xu",
+  "kind": "recipe",
+  "title": "Mousse soufflé de chocolate aerado",
+  "language": "pt",
+  "creator": "annasantanait",
+  "reelUrl": "https://www.instagram.com/reel/DX_6SCSK8Xu/",
+  "servings": 6,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "chocolate",
+    "mousse"
+  ],
+  "status": "incomplete",
+  "statusNote": "The creator sends the amounts by DM. The ≈ amounts are estimates.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "egg",
+          "amount": 4,
+          "unit": "piece",
+          "note": "separated",
+          "assumed": true
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 60,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 1,
+          "unit": "tsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "dark_chocolate",
+          "amount": 150,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "butter",
+          "amount": 50,
+          "unit": "g",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Whisk the whites with a pinch of salt to stiff peaks.",
+    "Beat the yolks with the sugar and vanilla until the sugar dissolves.",
+    "Melt the chocolate with the butter and mix into the yolks.",
+    "Fold in the whites little by little, keeping the air in.",
+    "Chill. It's even better the next day, topped with chocolate-orange shavings."
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "DciHajCPb8k",
+  "kind": "recipe",
+  "title": "Ginger milk pudding",
+  "language": "en",
+  "creator": "herwellnessdiary_",
+  "reelUrl": "https://www.instagram.com/reel/DciHajCPb8k/",
+  "servings": 1,
+  "tags": [
+    "dessert",
+    "chinese",
+    "ginger",
+    "quick"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "ginger",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "juice, grated and squeezed"
+        },
+        {
+          "ingredient": "milk",
+          "amount": 1,
+          "unit": "cup",
+          "note": "whole"
+        },
+        {
+          "ingredient": "honey",
+          "amount": 1,
+          "unit": "tbsp"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Grate fresh ginger and squeeze out about 1 tbsp juice into a bowl.",
+    "Stir the honey into the milk and warm it to about 70 °C (hot, not boiling).",
+    "Pour the warm milk into the ginger juice from a height, stir once gently and leave undisturbed for about 15 minutes until set."
+  ]
+}

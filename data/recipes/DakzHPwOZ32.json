@@ -1,0 +1,48 @@
+{
+  "id": "DakzHPwOZ32",
+  "kind": "recipe",
+  "title": "2-ingredient pistachio cookies",
+  "language": "en",
+  "creator": "foodiefromvt",
+  "reelUrl": "https://www.instagram.com/reel/DakzHPwOZ32/",
+  "servings": 6,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "cookies",
+    "gluten-free",
+    "vegan"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "banana",
+          "amount": 1,
+          "unit": "piece",
+          "note": "ripe"
+        },
+        {
+          "ingredient": "pistachios",
+          "amount": 100,
+          "unit": "g",
+          "note": "crushed",
+          "assumed": true
+        },
+        {
+          "ingredient": "dark_chocolate",
+          "amount": 30,
+          "unit": "g",
+          "note": "chips",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mash the banana and mix in the crushed pistachios (and chocolate chips).",
+    "Scoop onto a lined tray and flatten slightly.",
+    "Bake about 10 minutes at 175 °C."
+  ]
+}

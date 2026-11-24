@@ -1,0 +1,69 @@
+{
+  "id": "DXCnv4OkV-D",
+  "kind": "recipe",
+  "title": "Massa de esfiha e pizza",
+  "language": "pt",
+  "creator": "muryllogarcia",
+  "reelUrl": "https://www.instagram.com/reel/DXCnv4OkV-D/",
+  "servings": 15,
+  "yield": "15 dough balls",
+  "tags": [
+    "baking",
+    "bread",
+    "dough",
+    "brazilian"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "wheat_flour",
+          "amount": 3,
+          "unit": "cup",
+          "note": "copo americano (about 190 ml)"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 0.5,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "instant_yeast",
+          "amount": 5,
+          "unit": "g",
+          "note": "½ sachet"
+        },
+        {
+          "ingredient": "vegetable_oil",
+          "amount": 47,
+          "unit": "ml",
+          "note": "¼ copo americano"
+        },
+        {
+          "ingredient": "water",
+          "amount": 285,
+          "unit": "ml",
+          "note": "about 1½ copos, added gradually"
+        },
+        {
+          "ingredient": "cornmeal",
+          "unit": "to-taste",
+          "note": "fubá, for dusting",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix the flour, sugar, salt and yeast, then mix in the oil.",
+    "Add water little by little, mixing, until it becomes a slightly sticky dough. Each flour absorbs differently.",
+    "Knead until smooth, divide into 15 balls and dust with fubá so they don't stick.",
+    "Let rise for 1 hour, then shape and fill (he used shredded beef with cheese and requeijão)."
+  ]
+}

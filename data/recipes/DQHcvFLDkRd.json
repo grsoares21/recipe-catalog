@@ -1,0 +1,122 @@
+{
+  "id": "DQHcvFLDkRd",
+  "kind": "recipe",
+  "title": "Pão de alho recheado",
+  "language": "pt",
+  "creator": "receitassdevo",
+  "reelUrl": "https://www.instagram.com/reel/DQHcvFLDkRd/",
+  "servings": 16,
+  "yield": "16 pieces",
+  "tags": [
+    "baking",
+    "bread",
+    "garlic",
+    "cheese"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Roasted garlic butter",
+      "items": [
+        {
+          "ingredient": "garlic",
+          "amount": 1,
+          "unit": "piece",
+          "note": "large head"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 4,
+          "unit": "tbsp",
+          "note": "to half-cover the garlic",
+          "assumed": true
+        },
+        {
+          "ingredient": "parsley",
+          "amount": 0.5,
+          "unit": "piece",
+          "note": "half a bunch of cheiro-verde"
+        },
+        {
+          "ingredient": "butter",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch"
+        }
+      ]
+    },
+    {
+      "name": "Dough",
+      "items": [
+        {
+          "ingredient": "instant_yeast",
+          "amount": 10,
+          "unit": "g",
+          "note": "1 sachet"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "water",
+          "amount": 200,
+          "unit": "ml",
+          "note": "warm"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "vegetable_oil",
+          "amount": 3,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 3,
+          "unit": "cup",
+          "note": "sifted"
+        }
+      ]
+    },
+    {
+      "name": "Topping",
+      "items": [
+        {
+          "ingredient": "mozzarella",
+          "amount": 200,
+          "unit": "g",
+          "note": "grated",
+          "assumed": true
+        },
+        {
+          "ingredient": "egg_yolk",
+          "amount": 1,
+          "unit": "piece",
+          "note": "to brush"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Roast the garlic in a bowl half-filled with olive oil for 50 minutes.",
+    "Dissolve the yeast and sugar in the warm water, add the egg, oil and salt, then the flour gradually until the dough no longer sticks. Knead 10 minutes, cover and let it double, about 1 hour.",
+    "Blend the roasted garlic with the herbs, butter and salt.",
+    "Roll out the dough, spread the garlic butter all over, cut into 16 pieces and top with mozzarella.",
+    "Stack the pieces in groups of 4, place in a greased tin, cover and let rise 30 minutes.",
+    "Brush with yolk and bake 30–40 minutes."
+  ]
+}

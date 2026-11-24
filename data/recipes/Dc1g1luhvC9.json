@@ -1,0 +1,73 @@
+{
+  "id": "Dc1g1luhvC9",
+  "kind": "recipe",
+  "title": "Caramelized white chocolate brownies",
+  "language": "en",
+  "creator": "thefeedfeed",
+  "reelUrl": "https://www.instagram.com/reel/Dc1g1luhvC9/",
+  "sourceUrl": "https://dessertsandsuch.substack.com/p/caramelized-white-chocolate-brownies",
+  "servings": 16,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "brownie",
+    "baking",
+    "white-chocolate"
+  ],
+  "status": "incomplete",
+  "statusNote": "The full recipe is on the creator's Substack. The ≈ amounts are estimates from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "white_chocolate",
+          "amount": 300,
+          "unit": "g",
+          "note": "caramelised in the oven, part kept in chunks",
+          "assumed": true
+        },
+        {
+          "ingredient": "butter",
+          "amount": 115,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 150,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 1,
+          "unit": "tsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 120,
+          "unit": "g",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Caramelise the white chocolate slowly in a low oven, stirring often, until golden and toasty. Let some of it set into chunks.",
+    "Melt the butter with the liquid caramelised chocolate, then whisk in the sugar, eggs, vanilla and salt, then the flour.",
+    "Pour into a lined pan, press chunks of caramelised chocolate on top and bake until just set."
+  ],
+  "notes": "Recipe by @maddie_beck_."
+}

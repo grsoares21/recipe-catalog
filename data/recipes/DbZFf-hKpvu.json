@@ -1,0 +1,70 @@
+{
+  "id": "DbZFf-hKpvu",
+  "kind": "recipe",
+  "title": "Torta basca Romeu e Julieta",
+  "language": "pt",
+  "creator": "andressaschuchh",
+  "reelUrl": "https://www.instagram.com/reel/DbZFf-hKpvu/",
+  "servings": 10,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "cheesecake",
+    "baking",
+    "brazilian"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "egg",
+          "amount": 4,
+          "unit": "piece",
+          "note": "whole"
+        },
+        {
+          "ingredient": "egg_yolk",
+          "amount": 1,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "cream_cheese",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "ingredient": "double_cream",
+          "amount": 300,
+          "unit": "g",
+          "note": "nata"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "ingredient": "parmesan",
+          "amount": 60,
+          "unit": "g",
+          "note": "Queijo Montanhês or another firm aged cheese"
+        },
+        {
+          "ingredient": "goiabada",
+          "amount": 150,
+          "unit": "g",
+          "note": "creamy, to serve",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Put all the ingredients except the guava paste in a bowl and mix gently, just until combined. With a mixer, use the paddle and don't whip in air.",
+    "Pour into a springform tin fully lined with baking paper.",
+    "Bake in a preheated oven at 220 °C for 30–40 minutes, until the top is very dark but the centre still wobbles.",
+    "Cool at room temperature, then chill for at least 7 hours before unmoulding.",
+    "Serve with creamy guava paste."
+  ]
+}

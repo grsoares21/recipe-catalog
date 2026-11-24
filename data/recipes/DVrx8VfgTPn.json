@@ -1,0 +1,82 @@
+{
+  "id": "DVrx8VfgTPn",
+  "kind": "recipe",
+  "title": "Bolo de cenoura com brigadeiro",
+  "language": "pt",
+  "creator": "receitas_de_peso",
+  "reelUrl": "https://www.instagram.com/reel/DVrx8VfgTPn/",
+  "servings": 6,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "cake",
+    "carrots",
+    "brazilian"
+  ],
+  "status": "incomplete",
+  "statusNote": "The caption lists ingredients only. The steps are the usual method.",
+  "ingredientGroups": [
+    {
+      "name": "Cake",
+      "items": [
+        {
+          "ingredient": "carrot",
+          "amount": 110,
+          "unit": "g",
+          "note": "grated"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "ingredient": "butter",
+          "amount": 50,
+          "unit": "g",
+          "note": "melted"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 90,
+          "unit": "g"
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 10,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "name": "Brigadeiro",
+      "items": [
+        {
+          "ingredient": "condensed_milk",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "ingredient": "creme_de_leite",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "ingredient": "dark_chocolate",
+          "amount": 70,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Blend the carrot, eggs, sugar and butter, then fold in the flour and baking powder.",
+    "Bake in a small greased tin at 180 °C until a toothpick comes out clean.",
+    "Cook the condensed milk, cream and chocolate, stirring, until thick and glossy, then pour over the cake."
+  ]
+}

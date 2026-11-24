@@ -1,0 +1,64 @@
+{
+  "id": "DcYqRCYMXz8",
+  "kind": "recipe",
+  "title": "Ted Lasso Biscuits",
+  "language": "en",
+  "creator": "everydaypie",
+  "reelUrl": "https://www.instagram.com/reel/DcYqRCYMXz8/",
+  "sourceUrl": "https://everydaypie.com/ted-lasso-biscuits/",
+  "servings": 24,
+  "yield": "24 shortbread fingers",
+  "tags": [
+    "baking",
+    "dessert",
+    "cookies"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "butter",
+          "amount": 226,
+          "unit": "g",
+          "note": "salted, softened, plus extra for the pan"
+        },
+        {
+          "ingredient": "powdered_sugar",
+          "amount": 90,
+          "unit": "g"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 1.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "note": "coarse kosher salt"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 180,
+          "unit": "g"
+        },
+        {
+          "ingredient": "almond_flour",
+          "amount": 50,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat the oven to 160 °C. Butter a 20 × 20 cm metal pan and line it with parchment, leaving an overhang.",
+    "Beat the butter until light and fluffy, about 3 minutes. Add the powdered sugar, vanilla and salt and beat for about 2 more minutes until very pale.",
+    "Add both flours and mix just until the dough comes together.",
+    "Press into the pan in an even layer, pushing into the corners and smoothing the top.",
+    "Bake for 45–55 minutes, until the edges are golden and the centre looks set and matte.",
+    "Cool completely in the pan, at least 2 hours, then lift out and cut into roughly 2.5 × 6 cm fingers.",
+    "Keeps 3–5 days in an airtight container."
+  ]
+}

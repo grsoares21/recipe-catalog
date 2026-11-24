@@ -1,0 +1,157 @@
+{
+  "id": "DcwIkApu2hX",
+  "kind": "recipe",
+  "title": "Smoky chipotle oyster mushroom flatbreads",
+  "language": "en",
+  "creator": "rhi.scran",
+  "reelUrl": "https://www.instagram.com/reel/DcwIkApu2hX/",
+  "servings": 2,
+  "tags": [
+    "main",
+    "vegan",
+    "mushrooms",
+    "flatbread"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Mushrooms",
+      "items": [
+        {
+          "ingredient": "oyster_mushrooms",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "ingredient": "chipotle_paste",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "maple_syrup",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "or agave"
+        },
+        {
+          "ingredient": "soy_sauce",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "light"
+        },
+        {
+          "ingredient": "lime",
+          "amount": 0.5,
+          "unit": "piece",
+          "note": "juice only"
+        },
+        {
+          "ingredient": "smoked_paprika",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "garlic_powder",
+          "amount": 0.5,
+          "unit": "tsp",
+          "note": "garlic granules"
+        },
+        {
+          "ingredient": "cumin",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "ground_coriander",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 1,
+          "unit": "tbsp"
+        }
+      ]
+    },
+    {
+      "name": "Slaw",
+      "items": [
+        {
+          "ingredient": "white_cabbage",
+          "amount": 0.25,
+          "unit": "piece",
+          "note": "shredded"
+        },
+        {
+          "ingredient": "vegan_yogurt",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "Greek style"
+        },
+        {
+          "ingredient": "coriander",
+          "unit": "to-taste",
+          "note": "a handful"
+        },
+        {
+          "ingredient": "jalapenos",
+          "amount": 10,
+          "unit": "g",
+          "note": "jarred, plus 2 tbsp of their juice"
+        }
+      ]
+    },
+    {
+      "name": "Chipotle mayo",
+      "items": [
+        {
+          "ingredient": "vegan_mayo",
+          "amount": 3,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "chipotle_paste",
+          "amount": 0.5,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "lime",
+          "amount": 0.5,
+          "unit": "piece",
+          "note": "juice only"
+        }
+      ]
+    },
+    {
+      "name": "To serve",
+      "items": [
+        {
+          "ingredient": "flatbread",
+          "amount": 2,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "pickled_onion",
+          "unit": "to-taste",
+          "note": "pink"
+        },
+        {
+          "ingredient": "coriander",
+          "unit": "to-taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix all the mushroom ingredients except the mushrooms in a large bowl, then add the mushrooms and toss until coated. Set aside.",
+    "Slaw: blend the yogurt, coriander, jalapeños and jalapeño juice into a thick sauce, then mix in the cabbage.",
+    "Mix the chipotle mayo ingredients.",
+    "Cook the mushrooms on a very hot griddle pan, pressing down with a spatula to release moisture, until deeply browned and charred on both sides. Stack and slice.",
+    "Fill the flatbreads with slaw and mushrooms, drizzle with the mayo and top with pickled onions and coriander."
+  ]
+}

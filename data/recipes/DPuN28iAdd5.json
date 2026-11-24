@@ -1,0 +1,37 @@
+{
+  "id": "DPuN28iAdd5",
+  "kind": "recipe",
+  "title": "Chocolate branco caramelizado",
+  "language": "pt",
+  "creator": "crispimichele",
+  "reelUrl": "https://www.instagram.com/reel/DPuN28iAdd5/",
+  "servings": 15,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "spread",
+    "chocolate"
+  ],
+  "status": "incomplete",
+  "statusNote": "The method is only shown in the video. The steps are the usual method for caramelised white chocolate.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "white_chocolate",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "ingredient": "creme_de_leite",
+          "amount": 200,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Bake the chopped white chocolate on a tray at 120 °C, stirring every 10 minutes, until it turns a deep caramel colour (about 45–60 minutes).",
+    "Stir in the cream until smooth. Use as a filling or ganache."
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "Deu5eg2hTD1",
+  "kind": "recipe",
+  "title": "Bolo de flocão com goiabada e queijo",
+  "language": "pt",
+  "creator": "receitastiojoao",
+  "reelUrl": "https://www.instagram.com/reel/Deu5eg2hTD1/",
+  "servings": 12,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "cake",
+    "brazilian",
+    "gluten-free"
+  ],
+  "status": "incomplete",
+  "statusNote": "The caption gives no oven temperature or amounts for the guava paste and cheese. Those are standard assumptions.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "flocao",
+          "amount": 2,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "creme_de_leite",
+          "amount": 400,
+          "unit": "g",
+          "note": "2 boxes"
+        },
+        {
+          "ingredient": "vegetable_oil",
+          "amount": 0.5,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 0.5,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "goiabada",
+          "amount": 150,
+          "unit": "g",
+          "note": "diced",
+          "assumed": true
+        },
+        {
+          "ingredient": "queijo_minas",
+          "amount": 150,
+          "unit": "g",
+          "note": "diced",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix the flocão with the cream, oil and sugar, then stir in the baking powder.",
+    "Pour into a greased tin and press in the diced guava paste and cheese.",
+    "Bake for about 30 minutes (180 °C) until golden."
+  ],
+  "notes": "Original recipe by @adrianaliezer."
+}

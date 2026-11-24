@@ -1,0 +1,90 @@
+{
+  "id": "De9w1rFOqHp",
+  "kind": "recipe",
+  "title": "One Pan Banoffee Upside Down Cake",
+  "language": "en",
+  "creator": "abowlofstew",
+  "reelUrl": "https://www.instagram.com/reel/De9w1rFOqHp/",
+  "servings": 8,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "cake",
+    "banana",
+    "baking"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Banoffee",
+      "items": [
+        {
+          "ingredient": "butter",
+          "amount": 75,
+          "unit": "g"
+        },
+        {
+          "ingredient": "brown_sugar",
+          "amount": 100,
+          "unit": "g",
+          "note": "light"
+        },
+        {
+          "ingredient": "banana",
+          "amount": 3,
+          "unit": "piece",
+          "note": "sliced lengthwise (use more if you like)"
+        }
+      ]
+    },
+    {
+      "name": "Cake",
+      "items": [
+        {
+          "ingredient": "unsalted_butter",
+          "amount": 150,
+          "unit": "g",
+          "note": "softened"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 150,
+          "unit": "g",
+          "note": "caster"
+        },
+        {
+          "ingredient": "self_raising_flour",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 3,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "milk",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "vanilla_ice_cream",
+          "unit": "to-taste",
+          "note": "to serve",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cake: beat the butter and sugar until pale and fluffy, whisk in the eggs, milk and vanilla, then fold in the flour.",
+    "In an oven-safe pan over medium heat, melt the butter until foamy, stir in the brown sugar (whisk in a splash of boiling water if it splits).",
+    "On low heat, lay the bananas cut-side down, then turn off the heat and spoon the batter over without mixing it into the caramel.",
+    "Bake 35 minutes at 170 °C, flip onto a plate and serve with ice cream."
+  ]
+}

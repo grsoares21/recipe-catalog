@@ -1,0 +1,115 @@
+{
+  "id": "DcQViKjk_oK",
+  "kind": "recipe",
+  "title": "Frittelle di zucchine croccanti con salsa allo yogurt",
+  "language": "it",
+  "creator": "giallozafferano",
+  "reelUrl": "https://www.instagram.com/reel/DcQViKjk_oK/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "tags": [
+    "snack",
+    "side",
+    "vegetarian",
+    "fried",
+    "zucchini"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Fritters",
+      "items": [
+        {
+          "ingredient": "zucchini",
+          "amount": 4,
+          "unit": "piece",
+          "note": "medium, thinly sliced"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "water",
+          "amount": 500,
+          "unit": "ml",
+          "note": "ice cold"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 180,
+          "unit": "g",
+          "note": "type 00"
+        },
+        {
+          "ingredient": "cornmeal",
+          "amount": 70,
+          "unit": "g"
+        },
+        {
+          "ingredient": "breadcrumbs",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "ingredient": "parmesan",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "ingredient": "vegetable_oil",
+          "amount": 100,
+          "unit": "ml",
+          "note": "absorbed from 1 litre of frying oil",
+          "assumed": true
+        }
+      ]
+    },
+    {
+      "name": "Yogurt sauce",
+      "items": [
+        {
+          "ingredient": "greek_yogurt",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 0.5,
+          "unit": "piece",
+          "note": "grated zest"
+        },
+        {
+          "ingredient": "garlic_powder",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "smoked_paprika",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "mayonnaise",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Slice the zucchini thinly with a mandoline.",
+    "Add the flour, cornmeal, breadcrumbs, Parmesan and a pinch of salt, pour in the ice-cold water and mix until the zucchini is fully coated.",
+    "Heat about 1 litre of peanut oil and fry spoonfuls of the mixture for a few minutes, turning, until golden on both sides.",
+    "Mix the yogurt, mayonnaise, garlic powder, smoked paprika, lemon zest, salt and pepper and serve with the fritters."
+  ],
+  "notes": "Recipe by @rossellamaraio."
+}

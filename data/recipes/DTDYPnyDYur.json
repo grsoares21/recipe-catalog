@@ -1,0 +1,88 @@
+{
+  "id": "DTDYPnyDYur",
+  "kind": "recipe",
+  "title": "Cookie da Paola",
+  "language": "pt",
+  "creator": "brunogambacosta",
+  "reelUrl": "https://www.instagram.com/reel/DTDYPnyDYur/",
+  "servings": 11,
+  "yield": "10–12 large cookies",
+  "tags": [
+    "dessert",
+    "cookies",
+    "chocolate",
+    "baking"
+  ],
+  "status": "incomplete",
+  "statusNote": "The caption doesn't include the method. The steps are the usual method for this kind of cookie.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "butter",
+          "amount": 140,
+          "unit": "g",
+          "note": "room temperature"
+        },
+        {
+          "ingredient": "brown_butter",
+          "amount": 40,
+          "unit": "g",
+          "optional": true
+        },
+        {
+          "ingredient": "brown_sugar",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 90,
+          "unit": "g"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "large"
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "baking_soda",
+          "amount": 0.75,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 0.75,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "unit": "to-taste",
+          "optional": true
+        },
+        {
+          "ingredient": "dark_chocolate",
+          "amount": 180,
+          "unit": "g",
+          "note": "chopped"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cream the butters with both sugars, then beat in the egg and vanilla.",
+    "Mix in the flour, baking powder, baking soda and salt, then the chocolate.",
+    "Shape large balls, chill if the dough is soft, and bake at 180 °C for about 12 minutes until golden at the edges but soft in the middle."
+  ]
+}

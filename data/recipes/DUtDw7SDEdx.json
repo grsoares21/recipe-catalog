@@ -1,0 +1,105 @@
+{
+  "id": "DUtDw7SDEdx",
+  "kind": "recipe",
+  "title": "Mushroom soupbread",
+  "language": "en",
+  "creator": "solsnack",
+  "reelUrl": "https://www.instagram.com/reel/DUtDw7SDEdx/",
+  "servings": 6,
+  "servingsEstimated": true,
+  "tags": [
+    "baking",
+    "bread",
+    "mushrooms",
+    "soup"
+  ],
+  "status": "incomplete",
+  "statusNote": "The creator sends the recipe by DM. The ≈ amounts and steps are reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "name": "Soup",
+      "items": [
+        {
+          "ingredient": "mushroom",
+          "amount": 500,
+          "unit": "g",
+          "note": "plus a clean mushroom stock",
+          "assumed": true
+        },
+        {
+          "ingredient": "miso",
+          "amount": 1,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "double_cream",
+          "amount": 100,
+          "unit": "ml",
+          "assumed": true
+        },
+        {
+          "ingredient": "chili_oil",
+          "amount": 1,
+          "unit": "tbsp",
+          "assumed": true
+        }
+      ]
+    },
+    {
+      "name": "Focaccia",
+      "items": [
+        {
+          "ingredient": "wheat_flour",
+          "amount": 500,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "stock",
+          "amount": 415,
+          "unit": "ml",
+          "note": "mushroom stock, 83% hydration",
+          "assumed": true
+        },
+        {
+          "ingredient": "instant_yeast",
+          "amount": 7,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "salt",
+          "amount": 10,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "pecorino",
+          "amount": 30,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 1,
+          "unit": "piece",
+          "note": "confited",
+          "assumed": true
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 4,
+          "unit": "tbsp",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Make a clean mushroom stock and split it in two.",
+    "Soup: blend half the stock with sautéed mushrooms, miso, cream and chilli oil.",
+    "Focaccia: mix the flour, yeast, salt and the other half of the stock into a wet dough, fold and proof.",
+    "Top with confit garlic, Pecorino and pan-fried mushrooms, and bake until golden. Dip in the soup."
+  ]
+}

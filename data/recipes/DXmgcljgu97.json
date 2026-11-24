@@ -1,0 +1,167 @@
+{
+  "id": "DXmgcljgu97",
+  "kind": "recipe",
+  "title": "Caramelized Onion Chicken Pasta",
+  "language": "en",
+  "creator": "jalalsamfit",
+  "reelUrl": "https://www.instagram.com/reel/DXmgcljgu97/",
+  "servings": 6,
+  "tags": [
+    "main",
+    "pasta",
+    "chicken",
+    "high-protein",
+    "meal-prep"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Garlic herb chicken",
+      "items": [
+        {
+          "ingredient": "chicken_thigh",
+          "amount": 1200,
+          "unit": "g",
+          "note": "boneless, raw, cubed"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 2,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "italian_seasoning",
+          "amount": 4,
+          "unit": "tsp",
+          "note": "spicy"
+        },
+        {
+          "ingredient": "dried_parsley",
+          "amount": 3,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "garlic_powder",
+          "amount": 4,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "paprika",
+          "amount": 4,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 30,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "name": "Caramelised onions",
+      "items": [
+        {
+          "ingredient": "red_onion",
+          "amount": 200,
+          "unit": "g",
+          "note": "thinly sliced"
+        },
+        {
+          "ingredient": "onion",
+          "amount": 200,
+          "unit": "g",
+          "note": "white, thinly sliced"
+        },
+        {
+          "ingredient": "sun_dried_tomatoes",
+          "amount": 100,
+          "unit": "g",
+          "note": "drained, chopped"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "italian_seasoning",
+          "amount": 3,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "paprika",
+          "amount": 2,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 1,
+          "unit": "piece",
+          "note": "whole bulb, top sliced off"
+        },
+        {
+          "ingredient": "olive_oil",
+          "unit": "to-taste",
+          "note": "avocado oil spray",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "name": "Creamy pasta sauce",
+      "items": [
+        {
+          "ingredient": "evaporated_milk",
+          "amount": 425,
+          "unit": "g",
+          "note": "light, or regular milk"
+        },
+        {
+          "ingredient": "cream_cheese",
+          "amount": 120,
+          "unit": "g",
+          "note": "light"
+        },
+        {
+          "ingredient": "parmesan",
+          "amount": 95,
+          "unit": "g",
+          "note": "grated"
+        },
+        {
+          "ingredient": "soy_sauce",
+          "amount": 22,
+          "unit": "g",
+          "note": "dark"
+        },
+        {
+          "ingredient": "parsley",
+          "amount": 1.5,
+          "unit": "tbsp",
+          "note": "fresh, chopped"
+        },
+        {
+          "ingredient": "dried_pasta",
+          "amount": 350,
+          "unit": "g",
+          "note": "spaghetti or linguine"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cube the chicken, mix with the seasonings and oil and set aside.",
+    "Put the onions and sun-dried tomatoes in a large oven dish with the seasonings and a spray of oil, mix, put the garlic bulb in the middle and cover with foil. Bake 45 minutes at 190 °C, checking halfway, until golden and caramelised.",
+    "Squeeze in the garlic and, while the dish is hot, stir in the parsley, soy sauce, Parmesan, milk and cream cheese until melted and creamy. Return to a low oven to thicken slightly if needed, then fold in the cooked pasta.",
+    "Spread the chicken on a lined sheet pan and bake 18 minutes at 200 °C, then grill briefly to char.",
+    "Divide pasta and chicken into 6 portions."
+  ],
+  "creatorNutrition": {
+    "kcal": 638.0,
+    "protein": 58.0,
+    "carbs": 52.0,
+    "fat": 21.0,
+    "fiber": 0.0,
+    "per": "serving"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "DcCbAu-SXlp",
+  "kind": "recipe",
+  "title": "Salgadinho de macaxeira com queijo",
+  "language": "pt",
+  "creator": "_lardamayara",
+  "reelUrl": "https://www.instagram.com/reel/DcCbAu-SXlp/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "tags": [
+    "snack",
+    "brazilian",
+    "gluten-free",
+    "cassava"
+  ],
+  "status": "incomplete",
+  "statusNote": "The creator gives no amounts. The ≈ amounts are estimates.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "cassava",
+          "amount": 500,
+          "unit": "g",
+          "note": "peeled",
+          "assumed": true
+        },
+        {
+          "ingredient": "mozzarella",
+          "amount": 150,
+          "unit": "g",
+          "note": "cut into cubes",
+          "assumed": true
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 4,
+          "unit": "clove",
+          "assumed": true
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 1,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "coriander",
+          "unit": "to-taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Brown plenty of garlic in a little oil in a pressure cooker, add the cassava, salt and boiling water.",
+    "Cook under pressure for just 1½ minutes (about 5 minutes in total) so the cassava stays firm.",
+    "Drain and mash with a mixer or fork, then add coriander.",
+    "Shape into balls with a cube of mozzarella in each and bake or air-fry until golden."
+  ]
+}

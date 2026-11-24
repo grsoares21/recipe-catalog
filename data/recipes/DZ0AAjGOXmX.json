@@ -1,0 +1,70 @@
+{
+  "id": "DZ0AAjGOXmX",
+  "kind": "recipe",
+  "title": "Brownie do Léo",
+  "language": "pt",
+  "creator": "leosanchesf",
+  "reelUrl": "https://www.instagram.com/reel/DZ0AAjGOXmX/",
+  "servings": 24,
+  "servingsEstimated": true,
+  "yield": "about 1.2 kg, one large tray",
+  "tags": [
+    "dessert",
+    "brownie",
+    "chocolate",
+    "baking"
+  ],
+  "status": "incomplete",
+  "statusNote": "The method is only shown in the video. The steps follow the standard brownie method.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "egg",
+          "amount": 6,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "ingredient": "vegetable_oil",
+          "amount": 200,
+          "unit": "g",
+          "note": "soybean oil"
+        },
+        {
+          "ingredient": "chocolate_powder",
+          "amount": 250,
+          "unit": "g",
+          "note": "sweetened Brazilian chocolate powder"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 170,
+          "unit": "g"
+        },
+        {
+          "ingredient": "instant_coffee",
+          "amount": 1,
+          "unit": "tsp",
+          "note": "dissolved in warm water",
+          "optional": true
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 1,
+          "unit": "tsp",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Whisk the eggs and sugar, then whisk in the oil (and coffee and vanilla).",
+    "Fold in the chocolate powder and flour until smooth.",
+    "Pour into a lined tray and bake at 180 °C until the top is set but the centre is still fudgy. Watch the time closely."
+  ]
+}

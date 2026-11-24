@@ -1,0 +1,83 @@
+{
+  "id": "DafaIaSo9LG",
+  "kind": "recipe",
+  "title": "Lemon brownies",
+  "language": "en",
+  "creator": "alinavrnk",
+  "reelUrl": "https://www.instagram.com/reel/DafaIaSo9LG/",
+  "servings": 12,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "baking",
+    "lemon"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Brownies",
+      "items": [
+        {
+          "ingredient": "sugar",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 2,
+          "unit": "piece",
+          "note": "zest, plus 2 tbsp juice"
+        },
+        {
+          "ingredient": "unsalted_butter",
+          "amount": 110,
+          "unit": "g"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 125,
+          "unit": "g"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 0.25,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "name": "Glaze",
+      "items": [
+        {
+          "ingredient": "powdered_sugar",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "juice"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C and line a pan with parchment.",
+    "Melt the butter and let it cool slightly. Rub the lemon zest into the sugar.",
+    "Mix the sugar into the butter for about 1 minute, then whisk in the eggs and lemon juice until glossy.",
+    "Fold in the flour, salt and baking powder until just combined, and spread in the pan.",
+    "Bake 20–25 minutes, until the edges are set and a toothpick comes out mostly clean.",
+    "Glaze: whisk the powdered sugar with the lemon juice (add a little more juice if it's too thick) and spread over the cooled brownies. Let it set before slicing."
+  ]
+}

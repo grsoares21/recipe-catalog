@@ -1,0 +1,100 @@
+{
+  "id": "DaavPJxKVSh",
+  "kind": "recipe",
+  "title": "Almond croissant cookies",
+  "language": "en",
+  "creator": "theloopywhisk",
+  "reelUrl": "https://www.instagram.com/reel/DaavPJxKVSh/",
+  "servings": 12,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "cookies",
+    "gluten-free",
+    "baking"
+  ],
+  "status": "incomplete",
+  "statusNote": "The full recipe is on the creator's blog. The ≈ amounts and steps are reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "name": "Cookies",
+      "items": [
+        {
+          "ingredient": "almond_flour",
+          "amount": 200,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "butter",
+          "amount": 100,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 100,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "assumed": true
+        }
+      ]
+    },
+    {
+      "name": "Frangipane",
+      "items": [
+        {
+          "ingredient": "almond_flour",
+          "amount": 60,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "butter",
+          "amount": 40,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 40,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "assumed": true
+        }
+      ]
+    },
+    {
+      "name": "Topping",
+      "items": [
+        {
+          "ingredient": "flaked_almonds",
+          "amount": 30,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "powdered_sugar",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix the cookie dough, roll into balls and press a deep well in each with a measuring spoon.",
+    "Beat the frangipane ingredients and pipe into the wells.",
+    "Top with flaked almonds and bake until golden.",
+    "Dust with powdered sugar."
+  ]
+}

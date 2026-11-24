@@ -1,0 +1,56 @@
+{
+  "id": "DWANE_REVOI",
+  "kind": "recipe",
+  "title": "Doce de leite fit",
+  "language": "pt",
+  "creator": "marcelobergwerk",
+  "reelUrl": "https://www.instagram.com/reel/DWANE_REVOI/",
+  "servings": 15,
+  "servingsEstimated": true,
+  "yield": "about 300 g",
+  "tags": [
+    "dessert",
+    "spread",
+    "brazilian",
+    "high-protein"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "skim_milk_powder",
+          "amount": 150,
+          "unit": "g",
+          "note": "or lactose-free or coconut milk powder"
+        },
+        {
+          "ingredient": "stevia",
+          "amount": 3,
+          "unit": "g",
+          "note": "or ½ cup cooking sweetener"
+        },
+        {
+          "ingredient": "water",
+          "amount": 240,
+          "unit": "ml",
+          "note": "boiling (260 ml for lactose-free, 220 ml for coconut)"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix the milk powder and sweetener with the boiling water.",
+    "Cook, stirring, until it thickens and turns caramel-coloured (the video shows the method).",
+    "Keeps 7 days in the fridge."
+  ],
+  "creatorNutrition": {
+    "kcal": 28.0,
+    "protein": 2.8,
+    "carbs": 4.0,
+    "fat": 0.0,
+    "fiber": 0.0,
+    "per": "tablespoon (20 g), skimmed milk powder version"
+  },
+  "notes": "Use real milk powder, not a \"composto lácteo\" blend."
+}

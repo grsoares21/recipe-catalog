@@ -1,0 +1,81 @@
+{
+  "id": "DcgfDuMRz9U",
+  "kind": "recipe",
+  "title": "Eggs in Purgatory",
+  "language": "en",
+  "creator": "giallolovesitaly",
+  "reelUrl": "https://www.instagram.com/reel/DcgfDuMRz9U/",
+  "servings": 2,
+  "tags": [
+    "dinner",
+    "eggs",
+    "italian",
+    "quick",
+    "vegetarian"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "egg",
+          "amount": 4,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "tomato_passata",
+          "amount": 350,
+          "unit": "g",
+          "note": "or canned peeled tomatoes"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 1,
+          "unit": "clove"
+        },
+        {
+          "ingredient": "onion",
+          "amount": 0.5,
+          "unit": "piece",
+          "optional": true
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "extra-virgin"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste",
+          "note": "or chilli flakes"
+        },
+        {
+          "ingredient": "basil",
+          "unit": "to-taste",
+          "note": "or oregano"
+        },
+        {
+          "ingredient": "bread",
+          "amount": 4,
+          "unit": "slice",
+          "note": "rustic, toasted",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Gently sauté the garlic (and onion) in olive oil until fragrant, without browning.",
+    "Add the passata and salt, cover and simmer over medium heat for about 10 minutes until slightly thickened.",
+    "Remove the garlic and stir in the basil.",
+    "Make four wells in the sauce and crack an egg into each.",
+    "Cover and cook 3–4 minutes for runny yolks or 7–8 minutes for firmer ones.",
+    "Finish with pepper and serve with toasted bread for dipping."
+  ],
+  "notes": "Via @nonnasilviofficial."
+}

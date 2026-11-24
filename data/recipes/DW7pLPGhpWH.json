@@ -1,0 +1,69 @@
+{
+  "id": "DW7pLPGhpWH",
+  "kind": "recipe",
+  "title": "Bala baiana",
+  "language": "en",
+  "creator": "sarahkrafft",
+  "reelUrl": "https://www.instagram.com/reel/DW7pLPGhpWH/",
+  "servings": 20,
+  "servingsEstimated": true,
+  "yield": "about 20 sweets",
+  "tags": [
+    "dessert",
+    "brazilian",
+    "coconut",
+    "candy"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "butter",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "salted"
+        },
+        {
+          "ingredient": "condensed_milk",
+          "amount": 395,
+          "unit": "g",
+          "note": "1 can"
+        },
+        {
+          "ingredient": "desiccated_coconut",
+          "amount": 0.67,
+          "unit": "cup",
+          "note": "sweetened flakes"
+        }
+      ]
+    },
+    {
+      "name": "Sugar coating",
+      "items": [
+        {
+          "ingredient": "sugar",
+          "amount": 1,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "water",
+          "amount": 0.5,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "vinegar",
+          "amount": 1,
+          "unit": "tbsp"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Melt the butter in a saucepan over medium heat, add the condensed milk and coconut and stir 5–7 minutes until thick and pulling away from the pan. Chill until cool.",
+    "Roll tablespoons of the mixture into balls with greased hands and set on parchment.",
+    "Boil the sugar, water and vinegar, stirring now and then, until amber. Take off the heat.",
+    "Dip each ball on a toothpick into the caramel and set back on the parchment to harden."
+  ],
+  "notes": "Recipe from @donniesdish."
+}

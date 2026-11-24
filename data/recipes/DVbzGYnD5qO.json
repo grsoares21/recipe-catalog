@@ -1,0 +1,53 @@
+{
+  "id": "DVbzGYnD5qO",
+  "kind": "recipe",
+  "title": "Pamonha de preguiçoso na cuscuzeira",
+  "language": "pt",
+  "creator": "anicolekhouri",
+  "reelUrl": "https://www.instagram.com/reel/DVbzGYnD5qO/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "tags": [
+    "snack",
+    "brazilian",
+    "corn"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "corn_on_the_cob",
+          "amount": 2,
+          "unit": "piece",
+          "note": "kernels cut off"
+        },
+        {
+          "ingredient": "butter",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "heaped, plus extra for greasing"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 2,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "queijo_minas",
+          "unit": "to-taste",
+          "note": "a piece for the filling",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Blend the corn kernels with the butter and sugar.",
+    "Line a cuscuz steamer (or a sieve over simmering water) with corn husks and grease with butter.",
+    "Pour in the batter with a piece of cheese in the middle and steam for about 25 minutes.",
+    "Rest 5 minutes before serving."
+  ],
+  "notes": "Recipe from @juperdomohome."
+}

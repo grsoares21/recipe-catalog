@@ -1,0 +1,74 @@
+{
+  "id": "DV1D98XkWsY",
+  "kind": "recipe",
+  "title": "Tempero de casca de alho e cebola",
+  "language": "pt",
+  "creator": "patriciocarvalho21",
+  "reelUrl": "https://www.instagram.com/reel/DV1D98XkWsY/",
+  "servings": 20,
+  "servingsEstimated": true,
+  "tags": [
+    "condiment",
+    "zero-waste",
+    "seasoning"
+  ],
+  "status": "incomplete",
+  "statusNote": "The caption only describes two of the three recipes in the video.",
+  "ingredientGroups": [
+    {
+      "name": "Garlic & onion seasoning salt",
+      "items": [
+        {
+          "ingredient": "onion_skins",
+          "amount": 20,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "garlic_skins",
+          "amount": 10,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "coarse_salt",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "equal parts with the ground skins"
+        }
+      ]
+    },
+    {
+      "name": "Herb oil",
+      "items": [
+        {
+          "ingredient": "parsley",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "rosemary",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "garlic_skins",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "of the ground seasoning above",
+          "assumed": true
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 100,
+          "unit": "ml"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Dry the onion and garlic skins and grind them to a powder.",
+    "Mix the powder 50/50 with coarse salt.",
+    "For the herb oil, mix the parsley, rosemary and 2 spoons of the seasoning with the olive oil."
+  ]
+}

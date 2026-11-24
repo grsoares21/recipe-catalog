@@ -1,0 +1,86 @@
+{
+  "id": "DVhRb-1ESQs",
+  "kind": "recipe",
+  "title": "Marmita de sassami com alho-poró e queijos",
+  "language": "pt",
+  "creator": "camilleelis.r",
+  "reelUrl": "https://www.instagram.com/reel/DVhRb-1ESQs/",
+  "servings": 1,
+  "tags": [
+    "lunch",
+    "meal-prep",
+    "chicken",
+    "high-protein"
+  ],
+  "status": "incomplete",
+  "statusNote": "The creator gives no amounts. The ≈ amounts are estimates.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "chicken_breast",
+          "amount": 150,
+          "unit": "g",
+          "note": "tenderloins (sassami)",
+          "assumed": true
+        },
+        {
+          "ingredient": "leek",
+          "amount": 0.5,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "ricotta_cream",
+          "amount": 30,
+          "unit": "g",
+          "note": "buffalo",
+          "assumed": true
+        },
+        {
+          "ingredient": "gouda",
+          "amount": 20,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "parmesan",
+          "amount": 10,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 1,
+          "unit": "tsp",
+          "note": "for grilling",
+          "assumed": true
+        }
+      ]
+    },
+    {
+      "name": "Sides",
+      "items": [
+        {
+          "ingredient": "cooked_rice",
+          "amount": 100,
+          "unit": "g",
+          "note": "with broccoli",
+          "assumed": true
+        },
+        {
+          "ingredient": "mixed_vegetables",
+          "amount": 150,
+          "unit": "g",
+          "note": "roasted green beans, carrot and zucchini",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Grill the chicken tenderloins in olive oil.",
+    "Top with sautéed leek, ricotta cream, gouda and Parmesan and melt under the grill or in the air fryer.",
+    "Pack with rice with broccoli and roasted vegetables seasoned with olive oil, salt, pepper and sweet paprika."
+  ]
+}

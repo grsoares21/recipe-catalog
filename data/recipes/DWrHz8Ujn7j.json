@@ -1,0 +1,58 @@
+{
+  "id": "DWrHz8Ujn7j",
+  "kind": "recipe",
+  "title": "Vegan passion fruit curd",
+  "language": "en",
+  "creator": "spicymoustache",
+  "reelUrl": "https://www.instagram.com/reel/DWrHz8Ujn7j/",
+  "servings": 6,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "vegan",
+    "passion-fruit"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "passion_fruit_pulp",
+          "amount": 240,
+          "unit": "g",
+          "note": "fresh, about 12 fruits"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 75,
+          "unit": "g",
+          "note": "50–100 g"
+        },
+        {
+          "ingredient": "soy_milk",
+          "amount": 160,
+          "unit": "ml",
+          "note": "or oat or almond milk"
+        },
+        {
+          "ingredient": "cornstarch",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "ingredient": "vegan_butter",
+          "amount": 60,
+          "unit": "g",
+          "note": "cold, cubed"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Blend the passion fruit pulp for 30 seconds to free the seeds, then strain (keep a few seeds if you like).",
+    "Simmer the juice with the sugar, whisking.",
+    "Whisk the milk and cornstarch into a slurry, pour into the pan and cook, whisking, for 3–5 minutes until thick and glossy.",
+    "Strain over the cold butter and whisk until silky.",
+    "Cover the surface and chill at least 1 hour. Keeps a week in the fridge."
+  ]
+}

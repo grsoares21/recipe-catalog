@@ -1,0 +1,62 @@
+{
+  "id": "DQ4mrnKjAtf",
+  "kind": "recipe",
+  "title": "Frico friulano",
+  "language": "es",
+  "creator": "cookinconelsabi",
+  "reelUrl": "https://www.instagram.com/reel/DQ4mrnKjAtf/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "tags": [
+    "main",
+    "potatoes",
+    "cheese",
+    "italian"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "potato",
+          "amount": 700,
+          "unit": "g"
+        },
+        {
+          "ingredient": "montasio",
+          "amount": 300,
+          "unit": "g",
+          "note": "young or semi-aged"
+        },
+        {
+          "ingredient": "onion",
+          "amount": 1,
+          "unit": "piece",
+          "note": "large"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "or lard",
+          "assumed": true
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Peel the potatoes and grate or slice them thinly.",
+    "In a wide frying pan, cook the onion until soft and sweet.",
+    "Add the potatoes and cook slowly, seasoning with salt and pepper.",
+    "When tender, add the cheese in pieces and stir until everything melts into one mass.",
+    "Flatten with a spatula and let a golden crust form underneath, then flip and brown the other side."
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "DUvbkmCAM8m",
+  "kind": "recipe",
+  "title": "Brownie perfeito",
+  "language": "pt",
+  "creator": "murifernan",
+  "reelUrl": "https://www.instagram.com/reel/DUvbkmCAM8m/",
+  "servings": 16,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "brownie",
+    "chocolate",
+    "baking"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "dark_chocolate",
+          "amount": 200,
+          "unit": "g",
+          "note": "good quality"
+        },
+        {
+          "ingredient": "unsalted_butter",
+          "amount": 60,
+          "unit": "g"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 4,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 165,
+          "unit": "g",
+          "note": "granulated"
+        },
+        {
+          "ingredient": "brown_sugar",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "ingredient": "cocoa_powder",
+          "amount": 100,
+          "unit": "g",
+          "note": "50–100% cocoa"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 140,
+          "unit": "g"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Melt the chocolate and butter in the microwave and set aside.",
+    "Mix the eggs with both sugars, then the cocoa and flour, then the melted chocolate.",
+    "Line the tin with baking paper (stick it to the sides with a little batter) and bake until it forms a shiny crust."
+  ]
+}

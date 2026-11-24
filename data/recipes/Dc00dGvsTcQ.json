@@ -1,0 +1,45 @@
+{
+  "id": "Dc00dGvsTcQ",
+  "kind": "tip",
+  "title": "Suco de maracujá com casca",
+  "language": "pt",
+  "creator": "olhaqloko",
+  "reelUrl": "https://www.instagram.com/reel/Dc00dGvsTcQ/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "tags": [
+    "tip",
+    "drink",
+    "passion-fruit",
+    "zero-waste"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "passion_fruit",
+          "amount": 2,
+          "unit": "piece",
+          "note": "with the white pith from the peel"
+        },
+        {
+          "ingredient": "water",
+          "amount": 1,
+          "unit": "cup",
+          "note": "ice cold"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "heaped"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Blend the passion fruit pulp together with the white inner part of the peel, ice-cold water and sugar.",
+    "Strain. The pith adds body and makes the juice go further than pulp alone."
+  ]
+}

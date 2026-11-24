@@ -1,0 +1,81 @@
+{
+  "id": "Dax3USFKrZj",
+  "kind": "recipe",
+  "title": "One Pan Banoffee Tatin",
+  "language": "en",
+  "creator": "abowlofstew",
+  "reelUrl": "https://www.instagram.com/reel/Dax3USFKrZj/",
+  "servings": 6,
+  "servingsEstimated": true,
+  "yield": "24 cm pan",
+  "tags": [
+    "dessert",
+    "banana",
+    "baking"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "sugar",
+          "amount": 100,
+          "unit": "g",
+          "note": "caster"
+        },
+        {
+          "ingredient": "butter",
+          "amount": 60,
+          "unit": "g",
+          "note": "cold, cubed"
+        },
+        {
+          "ingredient": "double_cream",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch"
+        },
+        {
+          "ingredient": "banana",
+          "amount": 3,
+          "unit": "piece",
+          "note": "ripe but firm, halved lengthwise"
+        },
+        {
+          "ingredient": "puff_pastry",
+          "amount": 1,
+          "unit": "piece",
+          "note": "pre-rolled sheet"
+        },
+        {
+          "ingredient": "whipped_cream",
+          "unit": "to-taste",
+          "optional": true
+        },
+        {
+          "ingredient": "dark_chocolate",
+          "unit": "to-taste",
+          "note": "shaved",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Spread the sugar in a cold oven-safe pan, turn the heat to low and leave it, without stirring, until it melts into a golden caramel.",
+    "Whisk in the butter, then the cream (it bubbles up), then the vanilla and salt.",
+    "Lay the bananas cut-side down in the caramel and simmer 2 minutes.",
+    "Cover with the puff pastry, tuck in the edges, prick all over and cut a small hole in the middle.",
+    "Bake at 190 °C for 30 minutes.",
+    "Shake the pan to loosen the edges and flip onto a plate. Serve with cream and shaved chocolate."
+  ]
+}

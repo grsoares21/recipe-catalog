@@ -1,0 +1,77 @@
+{
+  "id": "DWkjUKkDPvy",
+  "kind": "recipe",
+  "title": "Ovo com crosta de queijo e mel com patê de ovos",
+  "language": "pt",
+  "creator": "receitas_de_peso",
+  "reelUrl": "https://www.instagram.com/reel/DWkjUKkDPvy/",
+  "servings": 2,
+  "servingsEstimated": true,
+  "tags": [
+    "breakfast",
+    "eggs",
+    "high-protein"
+  ],
+  "status": "incomplete",
+  "statusNote": "The caption lists ingredients only. The steps are reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "name": "Cheese-crusted eggs",
+      "items": [
+        {
+          "ingredient": "honey",
+          "amount": 50,
+          "unit": "g"
+        },
+        {
+          "ingredient": "grated_cheese",
+          "amount": 40,
+          "unit": "g"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece"
+        }
+      ]
+    },
+    {
+      "name": "Egg spread",
+      "items": [
+        {
+          "ingredient": "egg",
+          "amount": 3,
+          "unit": "piece",
+          "note": "hard-boiled"
+        },
+        {
+          "ingredient": "requeijao",
+          "amount": 45,
+          "unit": "g",
+          "note": "or light ricotta cream"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "chili_flakes",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "turmeric",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "parsley",
+          "unit": "to-taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Spread the cheese in a non-stick pan, drizzle with the honey and crack the eggs on top. Cook until the cheese forms a golden crust and the eggs are set.",
+    "Mash the boiled eggs with the requeijão and seasonings into a spread.",
+    "Serve the eggs with the spread."
+  ]
+}

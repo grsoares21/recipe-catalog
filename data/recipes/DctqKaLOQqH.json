@@ -1,0 +1,153 @@
+{
+  "id": "DctqKaLOQqH",
+  "kind": "recipe",
+  "title": "Cinnamon Roll Apple Pie",
+  "language": "en",
+  "creator": "humblyhomemadebakes",
+  "reelUrl": "https://www.instagram.com/reel/DctqKaLOQqH/",
+  "servings": 8,
+  "servingsEstimated": true,
+  "yield": "23 cm pie",
+  "tags": [
+    "dessert",
+    "pie",
+    "baking",
+    "apple"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Cinnamon roll crust",
+      "items": [
+        {
+          "ingredient": "unsalted_butter",
+          "amount": 1,
+          "unit": "cup",
+          "note": "cold, cubed"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 2.5,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "cinnamon",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "water",
+          "amount": 0.5,
+          "unit": "cup",
+          "note": "ice cold"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "plus 1 tbsp water, for the egg wash"
+        }
+      ]
+    },
+    {
+      "name": "Cinnamon sugar",
+      "items": [
+        {
+          "ingredient": "brown_sugar",
+          "amount": 0.25,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 0.25,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "cinnamon",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "unsalted_butter",
+          "amount": 4,
+          "unit": "tbsp",
+          "note": "softened"
+        }
+      ]
+    },
+    {
+      "name": "Apple filling",
+      "items": [
+        {
+          "ingredient": "unsalted_butter",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "apple",
+          "amount": 2,
+          "unit": "lb",
+          "note": "peeled, cored and chopped"
+        },
+        {
+          "ingredient": "cinnamon",
+          "amount": 1.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "nutmeg",
+          "amount": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "ground_cloves",
+          "amount": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "brown_sugar",
+          "amount": 0.25,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "water",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "cornstarch",
+          "amount": 1,
+          "unit": "tbsp"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Crust: pulse the flour, sugar, cinnamon and salt in a food processor. Add the cold butter and pulse until pea-sized, then add ¼ cup ice water and pulse until the dough comes together. Divide into 2 discs, wrap and chill 1 hour.",
+    "Filling: cook the butter, apples, brown sugar and spices over medium heat for 15 minutes. Stir in the cornstarch mixed with the water and boil 1 minute. Cool.",
+    "Mix the cinnamon sugar. Roll each dough disc into a 30 × 35 cm rectangle, spread with 2 tbsp butter and half the cinnamon sugar, roll into logs, wrap and chill 20 minutes.",
+    "Slice both logs into 6 mm rounds. Press one log's rounds into a greased 23 cm pie dish to form the base and sides. Arrange the other log's rounds on parchment, roll them together gently and freeze until firm.",
+    "Fill the base with the cooled apples, add the top crust, trim, brush with egg wash and cut 5 vents.",
+    "Bake at 220 °C for 15 minutes, then at 190 °C for 25–35 minutes until golden. Cool completely before slicing."
+  ]
+}

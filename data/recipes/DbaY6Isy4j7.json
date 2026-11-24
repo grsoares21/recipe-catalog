@@ -1,0 +1,60 @@
+{
+  "id": "DbaY6Isy4j7",
+  "kind": "recipe",
+  "title": "Choc raspberry jam bites",
+  "language": "en",
+  "creator": "chloeevegan",
+  "reelUrl": "https://www.instagram.com/reel/DbaY6Isy4j7/",
+  "servings": 12,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "vegan",
+    "no-bake",
+    "frozen"
+  ],
+  "status": "incomplete",
+  "statusNote": "The full recipe is on the creator's website. The ≈ amounts are estimates from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "dates",
+          "amount": 12,
+          "unit": "piece",
+          "note": "Medjool, opened flat",
+          "assumed": true
+        },
+        {
+          "ingredient": "raspberries",
+          "amount": 200,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "chia_seeds",
+          "amount": 2,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "maple_syrup",
+          "amount": 1,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "dark_chocolate",
+          "amount": 100,
+          "unit": "g",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mash the raspberries with the chia seeds and maple syrup and leave to thicken into a jam.",
+    "Flatten the dates on a lined tray and spoon the jam on top.",
+    "Cover with melted dark chocolate and freeze until set."
+  ]
+}

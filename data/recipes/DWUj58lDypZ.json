@@ -1,0 +1,53 @@
+{
+  "id": "DWUj58lDypZ",
+  "kind": "recipe",
+  "title": "Leite assado",
+  "language": "pt",
+  "creator": "biricuticus_",
+  "reelUrl": "https://www.instagram.com/reel/DWUj58lDypZ/",
+  "servings": 8,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "brazilian"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "milk",
+          "amount": 600,
+          "unit": "ml"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "unit": "to-taste",
+          "note": "a few drops"
+        },
+        {
+          "ingredient": "cornstarch",
+          "amount": 70,
+          "unit": "g"
+        },
+        {
+          "ingredient": "egg_yolk",
+          "amount": 4,
+          "unit": "piece",
+          "note": "3 in the cream, 1 for brushing"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix everything except one yolk in a pan until smooth, then stir over the heat until it becomes a thick cream.",
+    "Pour into a dish lined with cling film, cover the surface and chill at least 4 hours.",
+    "Cut into cubes and set on a non-stick sheet or silicone mat (not baking paper, it sticks).",
+    "Brush with the remaining yolk and bake or air-fry at 190 °C for 20–25 minutes until golden, turning in the air fryer to brown both sides."
+  ]
+}

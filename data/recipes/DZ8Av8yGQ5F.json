@@ -1,0 +1,71 @@
+{
+  "id": "DZ8Av8yGQ5F",
+  "kind": "recipe",
+  "title": "Raspberry chocolate slice",
+  "language": "en",
+  "creator": "broccoli_mum",
+  "reelUrl": "https://www.instagram.com/reel/DZ8Av8yGQ5F/",
+  "servings": 10,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "frozen",
+    "raspberries",
+    "healthy"
+  ],
+  "status": "incomplete",
+  "statusNote": "No recipe is given. The ≈ amounts and steps are reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "name": "Raspberry layer",
+      "items": [
+        {
+          "ingredient": "raspberries",
+          "amount": 300,
+          "unit": "g",
+          "note": "frozen",
+          "assumed": true
+        },
+        {
+          "ingredient": "coconut_yogurt",
+          "amount": 200,
+          "unit": "g",
+          "assumed": true
+        }
+      ]
+    },
+    {
+      "name": "Chocolate layer",
+      "items": [
+        {
+          "ingredient": "banana",
+          "amount": 2,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "cocoa_powder",
+          "amount": 3,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "peanut_butter",
+          "amount": 2,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "freeze_dried_raspberries",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Blend the frozen raspberries with the yogurt and spread on a lined tray.",
+    "Blend the bananas with cocoa and peanut butter and spread over the raspberry layer.",
+    "Sprinkle with freeze-dried raspberries, freeze until firm and slice."
+  ]
+}

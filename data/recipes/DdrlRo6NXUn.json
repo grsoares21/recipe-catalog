@@ -1,0 +1,84 @@
+{
+  "id": "DdrlRo6NXUn",
+  "kind": "recipe",
+  "title": "Tacos de zanahoria",
+  "language": "es",
+  "creator": "tasty_hunting",
+  "reelUrl": "https://www.instagram.com/reel/DdrlRo6NXUn/",
+  "servings": 1,
+  "yield": "2 tacos",
+  "tags": [
+    "dinner",
+    "high-protein",
+    "low-carb",
+    "quick",
+    "eggs"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Taco shells",
+      "items": [
+        {
+          "ingredient": "carrot",
+          "amount": 1,
+          "unit": "piece",
+          "note": "medium, grated"
+        },
+        {
+          "ingredient": "grated_cheese",
+          "amount": 30,
+          "unit": "g",
+          "note": "a handful, low-fat",
+          "assumed": true
+        }
+      ]
+    },
+    {
+      "name": "Filling",
+      "items": [
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "hard-boiled"
+        },
+        {
+          "ingredient": "greek_yogurt",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "mustard",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "parsley",
+          "unit": "to-taste",
+          "note": "fresh, chopped"
+        },
+        {
+          "ingredient": "avocado",
+          "amount": 0.5,
+          "unit": "piece",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Grate the carrot and mix it with the cheese.",
+    "Spread thin circles of the mixture in a frying pan and cook over medium-low heat until golden enough to flip. Cook the other side.",
+    "Mash the eggs and mix with the yogurt, mustard, salt, pepper and parsley.",
+    "Fill the tacos with the egg mixture and add some avocado."
+  ]
+}

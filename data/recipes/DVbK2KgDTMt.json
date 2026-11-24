@@ -1,0 +1,80 @@
+{
+  "id": "DVbK2KgDTMt",
+  "kind": "recipe",
+  "title": "Lemon brownies",
+  "language": "en",
+  "creator": "bromabakery",
+  "reelUrl": "https://www.instagram.com/reel/DVbK2KgDTMt/",
+  "servings": 12,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "baking",
+    "lemon"
+  ],
+  "status": "incomplete",
+  "statusNote": "The full recipe is on the creator's blog. The ≈ amounts are estimates.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "sugar",
+          "amount": 150,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 2,
+          "unit": "piece",
+          "note": "zest and juice",
+          "assumed": true
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 1,
+          "unit": "tsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "lemon_extract",
+          "amount": 0.5,
+          "unit": "tsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "unsalted_butter",
+          "amount": 110,
+          "unit": "g",
+          "note": "melted",
+          "assumed": true
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 125,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "powdered_sugar",
+          "amount": 100,
+          "unit": "g",
+          "note": "for the glaze",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Rub the lemon zest into the sugar, then whip with the eggs, vanilla and lemon extract.",
+    "Stir in the melted butter, then the flour.",
+    "Bake in a lined pan at 175 °C until just set.",
+    "Whisk powdered sugar with lemon juice and pour over the warm brownies."
+  ]
+}

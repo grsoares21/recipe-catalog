@@ -1,0 +1,69 @@
+{
+  "id": "DWUj7VPETDa",
+  "kind": "recipe",
+  "title": "AI Chickpea Cookies",
+  "language": "en",
+  "creator": "mattwalterfit",
+  "reelUrl": "https://www.instagram.com/reel/DWUj7VPETDa/",
+  "servings": 10,
+  "yield": "10 cookies",
+  "tags": [
+    "dessert",
+    "cookies",
+    "gluten-free",
+    "baking"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "chickpeas",
+          "amount": 170,
+          "unit": "g",
+          "note": "cooked"
+        },
+        {
+          "ingredient": "peanut_butter",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "ingredient": "honey",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 5,
+          "unit": "ml"
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "dark_chocolate",
+          "amount": 50,
+          "unit": "g",
+          "note": "chips"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Blend the chickpeas, peanut butter, honey, vanilla and baking powder until smooth.",
+    "Mix in the chocolate chips.",
+    "Scoop onto a lined tray, flatten slightly and bake at 175 °C for 10–12 minutes until lightly golden.",
+    "Cool for a few minutes before eating."
+  ],
+  "creatorNutrition": {
+    "kcal": 72.0,
+    "protein": 3.0,
+    "carbs": 7.0,
+    "fat": 4.0,
+    "fiber": 0.0,
+    "per": "cookie"
+  }
+}

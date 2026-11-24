@@ -1,0 +1,148 @@
+{
+  "id": "DeKXcRniLXZ",
+  "kind": "recipe",
+  "title": "Cheesy Stuffed Hokkaido Pumpkin",
+  "language": "en",
+  "creator": "essen_paradies",
+  "reelUrl": "https://www.instagram.com/reel/DeKXcRniLXZ/",
+  "sourceUrl": "https://essenparadies.com/cheesy-stuffed-hokkaido-pumpkin/",
+  "servings": 4,
+  "tags": [
+    "main",
+    "vegetarian",
+    "cheese",
+    "baked",
+    "autumn"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Pumpkin",
+      "items": [
+        {
+          "ingredient": "hokkaido_pumpkin",
+          "amount": 1,
+          "unit": "piece",
+          "note": "medium"
+        },
+        {
+          "ingredient": "red_onion",
+          "amount": 1,
+          "unit": "piece",
+          "note": "small, thinly sliced"
+        },
+        {
+          "ingredient": "camembert",
+          "amount": 1,
+          "unit": "piece",
+          "note": "200–250 g"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "chili_flakes",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "thyme",
+          "unit": "to-taste",
+          "note": "fresh"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        }
+      ]
+    },
+    {
+      "name": "Potatoes",
+      "items": [
+        {
+          "ingredient": "baby_potato",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 2,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "paprika",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "garlic_powder",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "dried_herbs",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "black_pepper",
+          "amount": 0.5,
+          "unit": "tsp"
+        }
+      ]
+    },
+    {
+      "name": "Roasted garlic and finish",
+      "items": [
+        {
+          "ingredient": "garlic",
+          "amount": 1,
+          "unit": "piece",
+          "note": "whole head"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "honey",
+          "amount": 2,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "chili_flakes",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat the oven to 200 °C. Cut a lid off the pumpkin and scoop out the seeds.",
+    "Put the sliced onion in the pumpkin with a little oil, salt and pepper. Set the Camembert on top, score it lightly and add chilli flakes, thyme, salt and pepper. Put the lid back on.",
+    "Toss the potatoes (halve the big ones) with oil, paprika, garlic powder, dried herbs, salt and pepper on a large tray.",
+    "Cut the top off the garlic head, drizzle with oil and put it on the tray with the pumpkin, potatoes around it. Roast 50–60 minutes until everything is tender.",
+    "Squeeze the roasted garlic into the melted Camembert and stir it in with the onion.",
+    "Drizzle with honey, finish with thyme and chilli flakes and serve with the potatoes for dipping."
+  ],
+  "creatorNutrition": {
+    "kcal": 547.0,
+    "protein": 19.0,
+    "carbs": 71.0,
+    "fat": 24.0,
+    "fiber": 10.0,
+    "per": "serving"
+  }
+}

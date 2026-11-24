@@ -1,0 +1,59 @@
+{
+  "id": "DbJgZbrTTjU",
+  "kind": "recipe",
+  "title": "Anéis de abobrinha com parmesão",
+  "language": "pt",
+  "creator": "bettoauge",
+  "reelUrl": "https://www.instagram.com/reel/DbJgZbrTTjU/",
+  "servings": 3,
+  "servingsEstimated": true,
+  "tags": [
+    "snack",
+    "side",
+    "vegetarian",
+    "zucchini",
+    "baked"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "zucchini",
+          "amount": 3,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "parmesan",
+          "amount": 20,
+          "unit": "g",
+          "note": "grated"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 0.5,
+          "unit": "clove",
+          "note": "crushed"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Slice the zucchini into thick rounds and hollow out the centres to make rings.",
+    "Season with the garlic, oil, salt and pepper, and coat with plenty of Parmesan.",
+    "Bake at 200 °C for about 30 minutes, until the cheese is deep golden and crunchy."
+  ]
+}

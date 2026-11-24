@@ -1,0 +1,118 @@
+{
+  "id": "DYFKgK_Nh1O",
+  "kind": "recipe",
+  "title": "Raspberry White Chocolate Cheesecake Cookies",
+  "language": "en",
+  "creator": "inbloombakery_",
+  "reelUrl": "https://www.instagram.com/reel/DYFKgK_Nh1O/",
+  "sourceUrl": "https://inbloombakery.com/raspberry-white-chocolate-cheesecake-cookies/",
+  "servings": 20,
+  "yield": "20 cookies",
+  "tags": [
+    "dessert",
+    "cookies",
+    "baking",
+    "raspberries"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Cheesecake filling",
+      "items": [
+        {
+          "ingredient": "cream_cheese",
+          "amount": 5,
+          "unit": "oz",
+          "note": "cold"
+        },
+        {
+          "ingredient": "white_chocolate",
+          "amount": 4,
+          "unit": "oz",
+          "note": "melted and slightly cooled"
+        }
+      ]
+    },
+    {
+      "name": "Raspberry jam",
+      "items": [
+        {
+          "ingredient": "raspberries",
+          "amount": 12,
+          "unit": "oz",
+          "note": "fresh"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 0.33,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
+      "name": "Cookies",
+      "items": [
+        {
+          "ingredient": "wheat_flour",
+          "amount": 2.75,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "baking_soda",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 1,
+          "unit": "cup",
+          "note": "plus ¼ cup for rolling"
+        },
+        {
+          "ingredient": "unsalted_butter",
+          "amount": 1,
+          "unit": "cup",
+          "note": "very soft"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "room temperature"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 2,
+          "unit": "tsp"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Filling: beat the cream cheese until smooth, mix in the white chocolate, scoop 20 flattened 2-tsp discs onto parchment and freeze.",
+    "Jam: cook the raspberries over medium-low heat for 5 minutes, mashing, then press through a sieve. Whisk in the sugar and cook 15–17 minutes until thick. Chill.",
+    "Heat the oven to 175 °C. Whisk the flour, baking powder, baking soda and salt.",
+    "Cream the butter and sugar until fluffy, beat in the egg and vanilla, then mix in the dry ingredients.",
+    "Layer the dough with the jam in quarters and fold just enough to leave pockets of jam.",
+    "Scoop 20 portions, wrap each around a frozen cheesecake disc so it's fully covered, and roll in sugar.",
+    "Bake 6 at a time for 11–12 minutes. Cool 10 minutes on the sheet, then on a rack."
+  ],
+  "creatorNutrition": {
+    "kcal": 273.0,
+    "protein": 3.0,
+    "carbs": 35.0,
+    "fat": 14.0,
+    "fiber": 2.0,
+    "per": "cookie"
+  }
+}

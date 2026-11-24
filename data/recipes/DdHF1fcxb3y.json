@@ -1,0 +1,53 @@
+{
+  "id": "DdHF1fcxb3y",
+  "kind": "recipe",
+  "title": "Brigadeiro de café sem leite condensado",
+  "language": "pt",
+  "creator": "sosreceitinhas",
+  "reelUrl": "https://www.instagram.com/reel/DdHF1fcxb3y/",
+  "servings": 10,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "brazilian",
+    "coffee",
+    "chocolate"
+  ],
+  "status": "incomplete",
+  "statusNote": "The ≈ amounts are estimates from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "cocoa_powder",
+          "amount": 3,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "whole_milk_powder",
+          "amount": 1,
+          "unit": "cup",
+          "assumed": true
+        },
+        {
+          "ingredient": "coffee",
+          "amount": 3,
+          "unit": "tbsp",
+          "note": "hot, unsweetened",
+          "assumed": true
+        },
+        {
+          "ingredient": "chocolate_sprinkles",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix the cocoa and milk powder.",
+    "Add hot coffee a spoon at a time and mix until it forms a soft brigadeiro (about 3 spoons).",
+    "Chill, roll into balls and coat in chocolate sprinkles, or eat with a spoon."
+  ]
+}

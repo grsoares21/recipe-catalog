@@ -1,0 +1,91 @@
+{
+  "id": "Dbe0hWuM_Lb",
+  "kind": "recipe",
+  "title": "High-protein Alfredo",
+  "language": "en",
+  "creator": "healthysweetsandeats",
+  "reelUrl": "https://www.instagram.com/reel/Dbe0hWuM_Lb/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "tags": [
+    "main",
+    "pasta",
+    "high-protein",
+    "vegetarian"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "cottage_cheese",
+          "amount": 1,
+          "unit": "cup",
+          "note": "2%"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "hard-boiled"
+        },
+        {
+          "ingredient": "parmesan",
+          "amount": 0.33,
+          "unit": "cup",
+          "note": "freshly grated, plus more to serve"
+        },
+        {
+          "ingredient": "milk",
+          "amount": 0.75,
+          "unit": "cup",
+          "note": "any milk"
+        },
+        {
+          "ingredient": "cornstarch",
+          "amount": 0.5,
+          "unit": "tsp",
+          "optional": true
+        },
+        {
+          "ingredient": "garlic_powder",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "italian_seasoning",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "black_pepper",
+          "amount": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "dried_pasta",
+          "amount": 12,
+          "unit": "oz",
+          "note": "fettuccine, regular or gluten-free"
+        },
+        {
+          "ingredient": "parsley",
+          "unit": "to-taste",
+          "note": "to serve",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Blend the cottage cheese, eggs, Parmesan, milk, cornstarch, garlic powder, Italian seasoning, salt and pepper until completely smooth.",
+    "Warm the sauce in a pan over medium-low heat for 3–5 minutes, stirring often, until slightly thickened. Don't let it boil.",
+    "Toss with the cooked pasta, loosening with a splash of pasta water if needed. Finish with parsley and Parmesan."
+  ],
+  "notes": "The creator says the whole batch of sauce has about 560 kcal and 60 g protein, before the pasta."
+}

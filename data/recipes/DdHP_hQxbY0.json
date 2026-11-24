@@ -1,0 +1,59 @@
+{
+  "id": "DdHP_hQxbY0",
+  "kind": "recipe",
+  "title": "Rolinho de papel de arroz com frango e beterraba",
+  "language": "pt",
+  "creator": "gigivilela",
+  "reelUrl": "https://www.instagram.com/reel/DdHP_hQxbY0/",
+  "servings": 2,
+  "servingsEstimated": true,
+  "tags": [
+    "lunch",
+    "high-protein",
+    "chicken"
+  ],
+  "status": "incomplete",
+  "statusNote": "The creator gives no amounts. The ≈ amounts are estimates.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "rice_paper",
+          "amount": 6,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "beetroot_water",
+          "amount": 200,
+          "unit": "ml",
+          "note": "cooking water from boiled beetroot, for the pink colour",
+          "assumed": true
+        },
+        {
+          "ingredient": "chicken_breast_cooked",
+          "amount": 200,
+          "unit": "g",
+          "note": "shredded (or tofu and chickpeas)",
+          "assumed": true
+        },
+        {
+          "ingredient": "sesame_seeds",
+          "unit": "to-taste",
+          "optional": true
+        },
+        {
+          "ingredient": "soy_sauce",
+          "unit": "to-taste",
+          "note": "to dip",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Dip the rice paper in the beetroot cooking water so it turns pink.",
+    "Fill with shredded chicken (or tofu and chickpeas), fold into neat parcels and roll.",
+    "Sprinkle with sesame and serve with soy sauce."
+  ]
+}

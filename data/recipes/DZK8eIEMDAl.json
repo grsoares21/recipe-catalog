@@ -1,0 +1,56 @@
+{
+  "id": "DZK8eIEMDAl",
+  "kind": "recipe",
+  "title": "Whipped honey iced coffee",
+  "language": "en",
+  "creator": "cookingwithbello",
+  "reelUrl": "https://www.instagram.com/reel/DZK8eIEMDAl/",
+  "servings": 15,
+  "servingsEstimated": true,
+  "yield": "about 15 scoops of honey coffee \"gelato\"",
+  "tags": [
+    "drink",
+    "coffee",
+    "make-ahead"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "honey",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "ingredient": "instant_coffee",
+          "amount": 30,
+          "unit": "g"
+        },
+        {
+          "ingredient": "water",
+          "amount": 30,
+          "unit": "ml",
+          "note": "warm"
+        },
+        {
+          "ingredient": "milk",
+          "unit": "to-taste",
+          "note": "cold, to serve",
+          "optional": true
+        },
+        {
+          "ingredient": "ice",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Whip the honey for 3–4 minutes, then add the coffee and water.",
+    "Keep whipping for about 10 minutes until very fluffy.",
+    "Freeze for a couple of hours, ideally overnight.",
+    "Add a scoop to cold milk with ice."
+  ]
+}

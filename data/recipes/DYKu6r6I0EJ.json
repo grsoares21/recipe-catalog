@@ -1,0 +1,46 @@
+{
+  "id": "DYKu6r6I0EJ",
+  "kind": "recipe",
+  "title": "Homemade labneh",
+  "language": "en",
+  "creator": "dudu_eats",
+  "reelUrl": "https://www.instagram.com/reel/DYKu6r6I0EJ/",
+  "servings": 8,
+  "servingsEstimated": true,
+  "yield": "about 250 g",
+  "tags": [
+    "basics",
+    "dairy",
+    "dip",
+    "make-ahead"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "greek_yogurt",
+          "amount": 500,
+          "unit": "g",
+          "note": "5% fat"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 2,
+          "unit": "tsp",
+          "note": "juice"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1.25,
+          "unit": "tsp"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix the yogurt with the lemon juice and salt.",
+    "Wrap in cheesecloth or a clean kitchen towel and set in a sieve over a bowl, with a weight (a bowl and mug) on top.",
+    "Leave in the fridge for 24 hours, pressing the bowl down gently before unwrapping for an extra-thick result."
+  ]
+}

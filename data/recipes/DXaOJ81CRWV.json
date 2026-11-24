@@ -1,0 +1,94 @@
+{
+  "id": "DXaOJ81CRWV",
+  "kind": "recipe",
+  "title": "Marmita de forno de frango com arroz",
+  "language": "pt",
+  "creator": "lauraerse",
+  "reelUrl": "https://www.instagram.com/reel/DXaOJ81CRWV/",
+  "servings": 1,
+  "yield": "per container (multiply as needed)",
+  "tags": [
+    "main",
+    "meal-prep",
+    "chicken",
+    "rice",
+    "high-protein"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "rice",
+          "amount": 30,
+          "unit": "g",
+          "note": "raw"
+        },
+        {
+          "ingredient": "garlic",
+          "unit": "to-taste",
+          "optional": true
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "carrot",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "grated"
+        },
+        {
+          "ingredient": "olives",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "chopped"
+        },
+        {
+          "ingredient": "corn",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "chicken_breast",
+          "amount": 140,
+          "unit": "g",
+          "note": "raw, marinated"
+        },
+        {
+          "ingredient": "yogurt",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "low-fat, for the marinade",
+          "assumed": true
+        },
+        {
+          "ingredient": "smoked_paprika",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "black_pepper",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "lemon",
+          "unit": "to-taste",
+          "optional": true
+        },
+        {
+          "ingredient": "water",
+          "amount": 80,
+          "unit": "ml",
+          "note": "hot"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Marinate the chicken in yogurt, smoked paprika, pepper, lemon and salt.",
+    "In each oven-safe container, put the raw rice with garlic and salt, the carrot, olives and corn, then the chicken on top. Pour over the hot water.",
+    "Cover with foil and bake 45 minutes, then uncover and bake another 15 minutes."
+  ],
+  "notes": "Idea from @brunascimentos."
+}

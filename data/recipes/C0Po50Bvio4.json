@@ -1,0 +1,66 @@
+{
+  "id": "C0Po50Bvio4",
+  "kind": "recipe",
+  "title": "Biscoito de queijo da roça",
+  "language": "pt",
+  "creator": "ogustavotubarao",
+  "reelUrl": "https://www.instagram.com/reel/C0Po50Bvio4/",
+  "servings": 12,
+  "servingsEstimated": true,
+  "tags": [
+    "snack",
+    "baking",
+    "brazilian",
+    "cheese"
+  ],
+  "status": "incomplete",
+  "statusNote": "The transcript is unclear in places. The steps follow the usual method.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "wheat_flour",
+          "amount": 2,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "grated_cheese",
+          "amount": 1,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 1,
+          "unit": "cup"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch"
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "\"1 cup of pó royal\" in the video, probably a slip"
+        },
+        {
+          "ingredient": "milk",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "free-range"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Beat the eggs (one at a time in a separate bowl first), then mix in the sugar, salt and baking powder.",
+    "Add the cheese, flour and milk and mix into a soft dough.",
+    "Shape and bake in a hot oven until golden."
+  ]
+}

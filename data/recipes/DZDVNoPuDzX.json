@@ -1,0 +1,69 @@
+{
+  "id": "DZDVNoPuDzX",
+  "kind": "recipe",
+  "title": "Burrata toast with roasted tomatoes",
+  "language": "en",
+  "creator": "easy_airfryerrecipes",
+  "reelUrl": "https://www.instagram.com/reel/DZDVNoPuDzX/",
+  "servings": 2,
+  "servingsEstimated": true,
+  "tags": [
+    "lunch",
+    "snack",
+    "air-fryer",
+    "vegetarian",
+    "quick"
+  ],
+  "status": "incomplete",
+  "statusNote": "The creator gives no amounts. The ≈ amounts are estimates.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "cherry_tomato",
+          "amount": 250,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 4,
+          "unit": "clove",
+          "assumed": true
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "dried_herbs",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "bread",
+          "amount": 2,
+          "unit": "slice",
+          "assumed": true
+        },
+        {
+          "ingredient": "burrata",
+          "amount": 1,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "basil",
+          "unit": "to-taste",
+          "note": "fresh"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Air-fry the cherry tomatoes and garlic in olive oil with herbs at 190 °C for 15 minutes.",
+    "Toast the bread for the last few minutes.",
+    "Spread the roasted garlic on the toast, add the burrata, top with the tomatoes and finish with fresh basil."
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "DcPBTVDuEkx",
+  "kind": "recipe",
+  "title": "Queijo temperado caseiro",
+  "language": "pt",
+  "creator": "almanaquesos",
+  "reelUrl": "https://www.instagram.com/reel/DcPBTVDuEkx/",
+  "servings": 6,
+  "servingsEstimated": true,
+  "tags": [
+    "basics",
+    "dairy",
+    "cheese",
+    "brazilian"
+  ],
+  "status": "incomplete",
+  "statusNote": "This reel tests someone else's recipe and gives no amounts. The ≈ amounts are estimates.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "milk",
+          "amount": 1,
+          "unit": "l",
+          "note": "whole",
+          "assumed": true
+        },
+        {
+          "ingredient": "vinegar",
+          "amount": 3,
+          "unit": "tbsp",
+          "note": "mixed with a little water",
+          "assumed": true
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "dried_herbs",
+          "amount": 1,
+          "unit": "tbsp",
+          "note": "plenty of seasoning",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat the milk with the herbs and salt until it rises.",
+    "Turn off the heat, add the vinegar diluted in water and stir until it curdles. Heat again until it rises once more if it doesn't separate well.",
+    "Drain off all the whey in a cloth or mould and press with a weight.",
+    "Ready in about 30 minutes."
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "Da2r5xPs0Jw",
+  "kind": "recipe",
+  "title": "Vegan Biscoff Stuffed Cookies",
+  "language": "en",
+  "creator": "thelittleblogofvegan",
+  "reelUrl": "https://www.instagram.com/reel/Da2r5xPs0Jw/",
+  "sourceUrl": "https://www.thelittleblogofvegan.com/2026/05/vegan-biscoff-stuffed-cookies.html",
+  "servings": 11,
+  "yield": "10–12 cookies",
+  "tags": [
+    "dessert",
+    "cookies",
+    "vegan",
+    "baking"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "name": "Cookies",
+      "items": [
+        {
+          "ingredient": "water",
+          "amount": 20,
+          "unit": "ml",
+          "note": "room temperature"
+        },
+        {
+          "ingredient": "flaxseed",
+          "amount": 2,
+          "unit": "tsp",
+          "note": "ground"
+        },
+        {
+          "ingredient": "vegan_butter",
+          "amount": 120,
+          "unit": "g"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 150,
+          "unit": "g",
+          "note": "caster"
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "wheat_flour",
+          "amount": 240,
+          "unit": "g"
+        },
+        {
+          "ingredient": "baking_soda",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "cornstarch",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "white_chocolate",
+          "amount": 200,
+          "unit": "g",
+          "note": "dairy-free chunks"
+        },
+        {
+          "ingredient": "biscoff_spread",
+          "amount": 60,
+          "unit": "g",
+          "note": "for the filling",
+          "assumed": true
+        }
+      ]
+    },
+    {
+      "name": "Coating",
+      "items": [
+        {
+          "ingredient": "white_chocolate",
+          "amount": 250,
+          "unit": "g",
+          "note": "dairy-free"
+        },
+        {
+          "ingredient": "biscoff_spread",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "speculoos_biscuits",
+          "amount": 30,
+          "unit": "g",
+          "note": "crumbled",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Heat the oven to 180 °C fan and line a baking tray.",
+    "Mix the water and flax and leave 5 minutes to thicken.",
+    "Beat the butter, sugar and vanilla until pale, then mix in the flax egg.",
+    "Sift in the flour, bicarbonate and cornstarch and mix into a thick dough, then add the chocolate chunks.",
+    "Scoop 40 g balls, make a dent in each, fill with Biscoff spread and close the dough over it.",
+    "Bake as balls (don't flatten), well spaced, for 10–12 minutes until the edges are lightly golden. Shape with a round cutter while warm and let them cool.",
+    "Melt the white chocolate, stir in 1 tbsp Biscoff spread and let it thicken slightly.",
+    "Set each cookie on a circle of chocolate, cover it completely, sprinkle with crumbled biscuits and chill until set."
+  ]
+}

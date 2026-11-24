@@ -1,0 +1,88 @@
+{
+  "id": "DeXKo1MC7hf",
+  "kind": "recipe",
+  "title": "Manga agridoce picante",
+  "language": "pt",
+  "creator": "chefkarolina_sommerdantas",
+  "reelUrl": "https://www.instagram.com/reel/DeXKo1MC7hf/",
+  "servings": 4,
+  "servingsEstimated": true,
+  "tags": [
+    "side",
+    "salad",
+    "fruit",
+    "spicy",
+    "quick"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "mango",
+          "amount": 2,
+          "unit": "piece",
+          "note": "ripe but firm, sliced"
+        },
+        {
+          "ingredient": "lime",
+          "amount": 1,
+          "unit": "piece",
+          "note": "juice only"
+        },
+        {
+          "ingredient": "soy_sauce",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "fish_sauce",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "brown_sugar",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "sesame_oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "toasted"
+        },
+        {
+          "ingredient": "chili_flakes",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "garlic",
+          "unit": "to-taste",
+          "note": "fresh garlic purée"
+        },
+        {
+          "ingredient": "sriracha",
+          "unit": "to-taste",
+          "note": "a little",
+          "optional": true
+        },
+        {
+          "ingredient": "coriander",
+          "unit": "to-taste",
+          "note": "to finish"
+        },
+        {
+          "ingredient": "peanuts",
+          "unit": "to-taste",
+          "note": "to finish"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Mix everything except the coriander and peanuts with the mango slices.",
+    "Chill for 15 minutes.",
+    "Finish with coriander and peanuts."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "DUoWE28knf5",
+  "kind": "recipe",
+  "title": "Mousse de chocolate com ovo cozido",
+  "language": "pt",
+  "creator": "well.chef",
+  "reelUrl": "https://www.instagram.com/reel/DUoWE28knf5/",
+  "servings": 2,
+  "servingsEstimated": true,
+  "tags": [
+    "dessert",
+    "high-protein",
+    "chocolate"
+  ],
+  "status": "incomplete",
+  "statusNote": "This reel tests a viral recipe and gives no amounts.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "egg",
+          "amount": 3,
+          "unit": "piece",
+          "note": "boiled only 6–7 minutes"
+        },
+        {
+          "ingredient": "chocolate_powder",
+          "amount": 3,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "milk",
+          "amount": 60,
+          "unit": "ml",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Boil the eggs for just 6–7 minutes (longer cooking makes them taste more eggy).",
+    "Blend the eggs with the chocolate powder and milk until smooth and mousse-like.",
+    "Chill before serving."
+  ]
+}

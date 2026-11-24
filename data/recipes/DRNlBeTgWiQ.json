@@ -1,0 +1,94 @@
+{
+  "id": "DRNlBeTgWiQ",
+  "kind": "recipe",
+  "title": "Rocambole de frango com aveia",
+  "language": "pt",
+  "creator": "lucaslacerdanutri",
+  "reelUrl": "https://www.instagram.com/reel/DRNlBeTgWiQ/",
+  "servings": 5,
+  "servingsEstimated": true,
+  "yield": "about 15 slices",
+  "tags": [
+    "main",
+    "chicken",
+    "high-protein",
+    "meal-prep"
+  ],
+  "status": "incomplete",
+  "statusNote": "The creator only sends the method by DM. The steps were reconstructed from the video.",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "chicken_thigh",
+          "amount": 500,
+          "unit": "g",
+          "note": "boneless, skinless fillets"
+        },
+        {
+          "ingredient": "onion",
+          "amount": 1,
+          "unit": "piece",
+          "note": "large, chopped"
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 3,
+          "unit": "clove",
+          "note": "chopped"
+        },
+        {
+          "ingredient": "lemon_pepper",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "smoked_paprika",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "oat_flour",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "ingredient": "mozzarella",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "ingredient": "leek",
+          "unit": "to-taste"
+        },
+        {
+          "ingredient": "egg_yolk",
+          "amount": 1,
+          "unit": "piece",
+          "note": "with mustard, to brush"
+        },
+        {
+          "ingredient": "mustard",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Blend the chicken with the onion, garlic and seasonings, then mix in the oat flour.",
+    "Spread into a rectangle on baking paper, cover with mozzarella and leek and roll up tightly.",
+    "Brush with yolk mixed with mustard and bake until golden and cooked through.",
+    "Slice into rounds."
+  ],
+  "creatorNutrition": {
+    "kcal": 260.0,
+    "protein": 22.0,
+    "carbs": 13.0,
+    "fat": 10.0,
+    "fiber": 0.0,
+    "per": "3 slices (≈150 g)"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "DccA-BQBQDW",
+  "kind": "recipe",
+  "title": "Preparos para congelar: guacamole, carne de panela e milho na manteiga",
+  "language": "pt",
+  "creator": "marinafucano",
+  "reelUrl": "https://www.instagram.com/reel/DccA-BQBQDW/",
+  "servings": 8,
+  "servingsEstimated": true,
+  "tags": [
+    "meal-prep",
+    "freezer",
+    "beef",
+    "brazilian"
+  ],
+  "status": "incomplete",
+  "statusNote": "The creator gives no amounts. The ≈ amounts are estimates.",
+  "ingredientGroups": [
+    {
+      "name": "Guacamole",
+      "items": [
+        {
+          "ingredient": "avocado",
+          "amount": 2,
+          "unit": "piece",
+          "note": "Hass, holds its texture better frozen",
+          "assumed": true
+        },
+        {
+          "ingredient": "lime",
+          "amount": 1,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "red_onion",
+          "amount": 0.5,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "salt",
+          "unit": "to-taste"
+        }
+      ]
+    },
+    {
+      "name": "Pot roast",
+      "items": [
+        {
+          "ingredient": "beef_chuck",
+          "amount": 1,
+          "unit": "kg",
+          "assumed": true
+        },
+        {
+          "ingredient": "onion",
+          "amount": 1,
+          "unit": "piece",
+          "assumed": true
+        },
+        {
+          "ingredient": "garlic",
+          "amount": 3,
+          "unit": "clove",
+          "assumed": true
+        },
+        {
+          "ingredient": "tomato",
+          "amount": 2,
+          "unit": "piece",
+          "assumed": true
+        }
+      ]
+    },
+    {
+      "name": "Buttered corn",
+      "items": [
+        {
+          "ingredient": "corn",
+          "amount": 400,
+          "unit": "g",
+          "assumed": true
+        },
+        {
+          "ingredient": "butter",
+          "amount": 30,
+          "unit": "g",
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Guacamole: mash the avocados with lime, onion and salt, then freeze in small blocks.",
+    "Pot roast: brown the beef, add onion, garlic and tomato and cook slowly (pressure cooker or low heat) until it falls apart. Freeze in portions with the sauce.",
+    "Corn: sauté the corn in butter, season and freeze."
+  ]
+}

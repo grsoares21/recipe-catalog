@@ -1,0 +1,43 @@
+{
+  "id": "DX1fj49sBcb",
+  "kind": "tip",
+  "title": "Café com tâmara",
+  "language": "pt",
+  "creator": "olhaqloko",
+  "reelUrl": "https://www.instagram.com/reel/DX1fj49sBcb/",
+  "servings": 1,
+  "tags": [
+    "tip",
+    "coffee",
+    "drink"
+  ],
+  "status": "complete",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "dates",
+          "amount": 1,
+          "unit": "piece",
+          "note": "pitted and finely chopped"
+        },
+        {
+          "ingredient": "ground_coffee",
+          "amount": 2.5,
+          "unit": "tbsp",
+          "assumed": true
+        },
+        {
+          "ingredient": "water",
+          "unit": "to-taste",
+          "note": "hot"
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Put the chopped date at the bottom of your coffee filter.",
+    "Add 2–3 spoons of ground coffee on top and pour over the hot water as usual.",
+    "The date gives the coffee a light caramel-vanilla flavour without sweetening it."
+  ]
+}
