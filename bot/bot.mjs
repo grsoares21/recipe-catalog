@@ -257,7 +257,10 @@ const HELP =
 
 async function onMessage(m) {
   const from = m.from?.id;
-  if (!allowed.size) return say(m.chat.id, `Setup mode: your Telegram user id is <code>${from}</code>. Add it to allowedUserIds in the config and restart me.`);
+  if (!allowed.size) {
+    log(`setup mode: message from user ${from} (${m.from?.first_name ?? ''})`);
+    return say(m.chat.id, `Setup mode: your Telegram user id is <code>${from}</code>. Add it to allowedUserIds in the config and restart me.`);
+  }
   if (!allowed.has(from)) return log(`ignored message from user ${from}`);
   const text = m.text ?? m.caption ?? '';
 
