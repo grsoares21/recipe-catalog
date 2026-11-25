@@ -1,0 +1,112 @@
+{
+  "id": "DgI2J9XBlkE",
+  "kind": "recipe",
+  "title": "Pavê/Torta de Bolacha de Cheesecake",
+  "language": "pt",
+  "creator": "andressaschuchh",
+  "reelUrl": "https://www.instagram.com/reel/DgI2J9XBlkE/",
+  "addedAt": "2026-11-25",
+  "servings": 12,
+  "servingsEstimated": true,
+  "yield": "28 × 20 cm dish",
+  "tags": [
+    "dessert",
+    "no-bake",
+    "brazilian",
+    "christmas",
+    "strawberry",
+    "cheesecake"
+  ],
+  "status": "incomplete",
+  "statusNote": "The amount of milk for dipping the biscuits is an estimate. The cooking and layering steps were worked out from the video and the transcript.",
+  "ingredientGroups": [
+    {
+      "name": "Berry jam",
+      "items": [
+        {
+          "ingredient": "strawberries",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "ingredient": "blackberries",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "ingredient": "lemon",
+          "amount": 0.5,
+          "unit": "piece",
+          "note": "juice only"
+        },
+        {
+          "ingredient": "sugar",
+          "amount": 30,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "name": "Cream",
+      "items": [
+        {
+          "ingredient": "double_cream",
+          "amount": 300,
+          "unit": "g",
+          "note": "nata or fresh cream, well chilled"
+        },
+        {
+          "ingredient": "cream_cheese",
+          "amount": 450,
+          "unit": "g",
+          "note": "well chilled"
+        },
+        {
+          "ingredient": "condensed_milk",
+          "amount": 395,
+          "unit": "g",
+          "note": "1 box, well chilled"
+        },
+        {
+          "ingredient": "lemon",
+          "unit": "to-taste",
+          "note": "a little zest",
+          "optional": true
+        },
+        {
+          "ingredient": "vanilla_extract",
+          "unit": "to-taste",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "name": "Assembly",
+      "items": [
+        {
+          "ingredient": "maria_biscuits",
+          "amount": 300,
+          "unit": "g",
+          "note": "a little under 300 g; Maizena or ladyfingers also work"
+        },
+        {
+          "ingredient": "milk",
+          "amount": 200,
+          "unit": "ml",
+          "note": "for dipping",
+          "optional": true,
+          "assumed": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Cook the strawberries, blackberries, lemon juice and sugar until they break down into a loose jam. Don't overcook it: it thickens as it chills. Let it cool.",
+    "Beat the cold cream, cream cheese and condensed milk until smooth and thick. Flavour with lemon zest or vanilla if you like.",
+    "Spread a layer of cream in a 28 × 20 cm dish.",
+    "Dip the biscuits quickly in milk, without soaking them, and lay them over the cream.",
+    "Add another layer of cream, dot it with jam, then another layer of biscuits. Repeat until everything is used, finishing with cream swirled with jam.",
+    "Chill for at least 8 hours, ideally overnight."
+  ],
+  "notes": "The jam makes about 275 g. Any red-fruit jam (or dulce de leche for a sweeter version) can be used instead. Dipping the biscuits in milk is optional."
+}

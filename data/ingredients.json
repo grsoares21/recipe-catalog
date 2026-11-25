@@ -177,6 +177,7 @@
   "mango": {"name": "Mango", "aisle": "produce", "nutritionRef": "usda:169910", "unitWeights": {"piece": 300.0}},
   "maple_syrup": {"name": "Maple syrup", "aisle": "pantry", "nutritionRef": "usda:169661", "density": 1.32},
   "margarine": {"name": "Margarine", "aisle": "dairy-eggs", "nutritionRef": "taco:265"},
+  "maria_biscuits": {"name": "Maria biscuits", "description": "Thin round plain sweet biscuits (Marie biscuits)", "aisle": "other", "nutritionRef": "taco:8", "unitWeights": {"piece": 7.0}},
   "mashed_potato": {"name": "Mashed potato", "aisle": "other", "nutritionRef": "usda:168555"},
   "matcha": {"name": "Matcha powder", "aisle": "baking", "density": 0.5},
   "mayonnaise": {"name": "Mayonnaise", "aisle": "spices-condiments", "nutritionRef": "usda:171009", "density": 0.95},
