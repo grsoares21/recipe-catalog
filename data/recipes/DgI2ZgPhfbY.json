@@ -1,0 +1,79 @@
+{
+  "id": "DgI2ZgPhfbY",
+  "kind": "recipe",
+  "title": "Pãozinho de cenoura sem farinha",
+  "language": "pt",
+  "creator": "sumaiatoledo.receitas",
+  "reelUrl": "https://www.instagram.com/reel/DgI2ZgPhfbY/",
+  "addedAt": "2026-11-25",
+  "servings": 4,
+  "servingsEstimated": true,
+  "yield": "about 8 small rolls",
+  "tags": [
+    "bread",
+    "baking",
+    "flourless",
+    "gluten-free",
+    "brazilian"
+  ],
+  "status": "incomplete",
+  "statusNote": "The caption only lists the ingredients and the oven time; the steps were reconstructed from the narration and the video. The number of rolls is an estimate from the video, and the type of milk powder isn't specified (whole milk powder assumed).",
+  "ingredientGroups": [
+    {
+      "items": [
+        {
+          "ingredient": "carrot",
+          "amount": 150,
+          "unit": "g",
+          "note": "1 medium carrot, cooked and mashed"
+        },
+        {
+          "ingredient": "olive_oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "note": "plus a little for shaping"
+        },
+        {
+          "ingredient": "honey",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "egg",
+          "amount": 2,
+          "unit": "piece"
+        },
+        {
+          "ingredient": "whole_milk_powder",
+          "amount": 1,
+          "unit": "cup",
+          "note": "about; add until the dough can be shaped"
+        },
+        {
+          "ingredient": "baking_powder",
+          "amount": 1,
+          "unit": "tsp"
+        },
+        {
+          "ingredient": "chia_seeds",
+          "amount": 1,
+          "unit": "tbsp"
+        },
+        {
+          "ingredient": "salt",
+          "amount": 1,
+          "unit": "pinch",
+          "optional": true
+        }
+      ]
+    }
+  ],
+  "steps": [
+    "Boil the carrot until tender, peel it while still warm and mash it well with a fork.",
+    "Mix in the olive oil, honey and eggs until smooth.",
+    "Add the milk powder little by little, then the baking powder, chia and the pinch of salt, and mix well into a soft dough.",
+    "Grease your hands with a little olive oil, shape small rolls and place them in a greased baking tin.",
+    "Bake at 180 °C for 20 to 25 minutes, until golden."
+  ],
+  "notes": "Recipe by @jademlife. The creator says the exact measurements will be in a future update of their recipe guide; the amounts here are the ones from the caption."
+}
